@@ -1,9 +1,9 @@
-# Dagskrá - Boot Camp Ráðstefna Fab Lab Ísland í Selfossi ...-... Maí 2024
+# Boot Camp Ráðstefna Fab Lab Ísland 
 
-|       |           |             |              |             |            |             |
+*haldin á Selfossi í Maí 2024*
+
+|Dagskrá| MÁNUDAGUR | ÞRIÐJUDAGUR | MIÐVIKUDAGUR | FIMMTUDAGUR | FÖSTUDAGUR | LAUGARDAGUR |
 |:-----:|:---------:|:-----------:|:------------:|:-----------:|:----------:|:-----------:|
-|       |           |             |              |             |            |             |
-|       | MÁNUDAGUR | ÞRIÐJUDAGUR | MIÐVIKUDAGUR | FIMMTUDAGUR | FÖSTUDAGUR | LAUGARDAGUR |
 | 08:00 |           |             |              |             |            |             |
 | 09:00 |           |             |              |             |            |             |
 | 10:00 |           |             |              |             |            |             |
