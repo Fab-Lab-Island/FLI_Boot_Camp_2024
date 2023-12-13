@@ -1,4 +1,4 @@
-# Dagskrá - Boot Camp Ráðstefna Fab Lab Ísland í Selfossi ...-... Maí 2023
+# Dagskrá - Boot Camp Ráðstefna Fab Lab Ísland í Selfossi ...-... Maí 2024
 
 |       |           |             |              |             |            |             |
 |:-----:|:---------:|:-----------:|:------------:|:-----------:|:----------:|:-----------:|
