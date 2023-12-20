@@ -4,7 +4,7 @@ Hér verður skjalfest öll verkefni, kynningar og heimsóknir frá vinnustofuni
 
 **_Bætið við og hlekkið skjöl eftir þörfum_**
 
-## kyningar
+## Kynningar
 
 ## verkefni
 
