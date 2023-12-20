@@ -5,10 +5,10 @@ Etv förum við yfir CircuitPython á næsta Bootcamp-i
 --Er útgáfa af micropython og er frá Adafruit
 
 -https://circuitpython.org/downloads   
--https://circuitpython.org/downloads?q=seeed
--https://wiki.seeedstudio.com/XIAO-RP2040/ 
+-(https://circuitpython.org/downloads?q=seeed)
+-(https://wiki.seeedstudio.com/XIAO-RP2040/) 
 --RP2040 er með full native usb port -> 
--https://wiki.seeedstudio.com/XIAO-RP2040-with-CircuitPython/
+-(https://wiki.seeedstudio.com/XIAO-RP2040-with-CircuitPython/)
 
 
 ##Skref##
