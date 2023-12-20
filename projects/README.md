@@ -10,6 +10,8 @@ Hér verður skjalfest öll verkefni, kynningar og heimsóknir frá vinnustofuni
 
 [FMCU](fmcu.md)
 
+[CircuitPython](circuitpython.md)
+
 
 ## heimsóknir
 
