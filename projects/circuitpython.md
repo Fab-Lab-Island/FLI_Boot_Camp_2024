@@ -6,7 +6,7 @@ Etv förum við yfir CircuitPython á næsta Bootcamp-i
 Kóði sem lætur led díóðuna á brettinu blikka
 
 ```
-# print("Hello World!")
+print("Hello World!")
 
 
 import board
@@ -22,3 +22,6 @@ while True:
     led.value = False
     time.sleep(0.1)    #tími á
 ```
+
+
+til að sjá hello world er hægt að nota [putty](https://www.putty.org/)
