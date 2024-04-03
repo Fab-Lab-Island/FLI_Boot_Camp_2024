@@ -13,9 +13,9 @@
 | 14:00 |           |             |                    |  MÁLMSTEYPA |            |             |
 | 15:00 |           |             |    Github kennsla  |             |            |             |
 | 16:00 |           |             |                    |             |            |             |
-| 17:00 |           |             |                    |             |            |             |
+| 17:00 |           |             | KYNNING Á MIÐBÆ    |             |            |             |
 | 18:00 |           |             |                    |             |            |             |
-| 19:00 |           |             |                    |Hallanda     |Árshátíð   |             |
+| 19:00 |           |             |  MIÐBÆR SELFOSS    |Hallanda     | Árshátíð   |             |
 | 20:00 |           |             |                    |  PIZZUVEISLA| KRÍAN      |             |
 | 21:00 |           |             |                    |             | SVEITAKRÁ  |             |
 | 22:00 |           |             |                    |             |            |             |
