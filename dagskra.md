@@ -1,6 +1,6 @@
 # Boot Camp Ráðstefna Fab Lab Ísland 
 
-*haldin á Selfossi í 22-26. maí 2024*
+*haldin á Selfossi í 21. - 25. maí 2024*
 
 |Dagskrá| MÁNUDAGUR | ÞRIÐJUDAGUR | MIÐVIKUDAGUR       | FIMMTUDAGUR | FÖSTUDAGUR | LAUGARDAGUR |
 |:-----:|:---------:|:-----------:|:------------------:|:-----------:|:----------:|:-----------:|
