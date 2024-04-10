@@ -12,8 +12,8 @@
 | 13:00 |           |             |Heimsókn í fyrirtæki|             |      FERÐ  |             |
 | 14:00 |           |             |                    |  MÁLMSTEYPA |            |             |
 | 15:00 |           |             |    Github kennsla  |             |            |             |
-| 16:00 |           |             |                    |             |            |             |
-| 17:00 |           |             | KYNNING Á MIÐBÆ    |             |            |             |
+| 16:00 |           |             |                    | Kennsluefni  |            |             |
+| 17:00 |           |             | KYNNING Á MIÐBÆ    | Grunnskóla      |            |             |
 | 18:00 |           |             |                    |             |            |             |
 | 19:00 |           |             |  MIÐBÆR SELFOSS    |Hallanda     | Árshátíð   |             |
 | 20:00 |           |             |                    |  PIZZUVEISLA| KRÍAN      |             |
