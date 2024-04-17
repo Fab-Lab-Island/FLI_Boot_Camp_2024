@@ -10,12 +10,12 @@
 | 11:00 |           |             |Fabacademy verkefni | LANGSPILS   |            |             |
 | 12:00 |           |             |   MÁLMFRÆSING      |  |  SKOÐUNAR  |             |
 | 13:00 |           |             |Heimsókn í fyrirtæki|             |      FERÐ  |             |
-| 14:00 |           |Machine making?|    Freecad/Ondsel kynning     |  MÁLMSTEYPA |  FMCU     |             |
-| 15:00 |           |  Umræður    | Github kennsla  |  Jesmonite steypun|Saumakennsla  |             |
+| 14:00 |           ||    Freecad/Ondsel kynning     |  MÁLMSTEYPA |  FMCU     |             |
+| 15:00 |           |      | Github kennsla  |  Jesmonite steypun|Saumakennsla  |             |
 | 16:00 |           |             | Github kennsla     | Kennsluefni |            |             |
 | 17:00 |           |             | KYNNING Á MIÐBÆ    | Grunnskóla  |Arduino Lampi Árni|             |
 | 18:00 |           |             |                    ||            |             |
 | 19:00 |           |             |  MIÐBÆR SELFOSS    |Hallanda     | Árshátíð   |             |
-| 20:00 |           |             |                    |  PIZZUVEISLA| KRÍAN      |             |
+| 20:00 |       Machine making?    |             |                    |  PIZZUVEISLA| KRÍAN      |             |
 | 21:00 |           |             |                    |             | SVEITAKRÁ  |             |
 | 22:00 |           |             |                    |             |            |             |
