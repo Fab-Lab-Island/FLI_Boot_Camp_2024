@@ -15,7 +15,7 @@
 | 16:00 |          |       U     | Jesmonite steypun      |                   |               |              |
 | 17:00 |           |      R     | KYNNING Á MIÐBÆ       |              |             |              |
 | 18:00 |           |             |                      |                         |             |               |
-| 19:00 |          |MATUR, MATHÖLL?|MATUR MIÐBÆR SELFOSS |Hallanda             |  Árshátíð          |              |
-| 20:00 |           |Machine making?|                   |PIZZUVEISLA         |  KRÍAN             |              |
+| 19:00 |          |MATUR, MATHÖLL?|MATUR MIÐBÆR SELFOSS |Hallanda             |  FLÍS Árshátíð          |              |
+| 20:00 |           |Machine making?|  MIÐBÆJARRÖLT     |PIZZUVEISLA      |  KRÍAN             |              |
 | 21:00 |           |             |                     |                    |  SVEITAKRÁ           |              |
 | 22:00 |           |             |                     |                   |                       |             |
