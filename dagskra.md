@@ -8,13 +8,13 @@
 | 09:00 |           |             |    MÆTING FLS      | MÆTING FLS  | MÆTING FLS |             |
 | 10:00 |           |             |                    |             | Kynningarmyndband |             |
 | 11:00 |           |             |Fabacademy verkefni | LANGSPILS   |            |             |
-| 12:00 |           |             |   MÁLMFRÆSING      |             |  SKOÐUNAR  |             |
+| 12:00 |           |             |   MÁLMFRÆSING      |  |  SKOÐUNAR  |             |
 | 13:00 |           |             |Heimsókn í fyrirtæki|             |      FERÐ  |             |
-| 14:00 |           |Machine making?|                    |  MÁLMSTEYPA |  FMCU      |             |
+| 14:00 |           |Machine making?|    Freecad/Ondsel kynning     |  MÁLMSTEYPA |  FMCU     |             |
 | 15:00 |           |  Umræður    | Github kennsla  |             |Saumakennsla  |             |
 | 16:00 |           |             | Github kennsla     | Kennsluefni |            |             |
 | 17:00 |           |             | KYNNING Á MIÐBÆ    | Grunnskóla  |Arduino Lampi Árni|             |
-| 18:00 |           |             |                    |             |            |             |
+| 18:00 |           |             |                    |Jesmonite steypun|            |             |
 | 19:00 |           |             |  MIÐBÆR SELFOSS    |Hallanda     | Árshátíð   |             |
 | 20:00 |           |             |                    |  PIZZUVEISLA| KRÍAN      |             |
 | 21:00 |           |             |                    |             | SVEITAKRÁ  |             |
