@@ -13,7 +13,7 @@
 | 14:00 |           |             |                    |  MÁLMSTEYPA |  FMCU      |             |
 | 15:00 |           |             |    Github kennsla  |             |Saumakennsla  |             |
 | 16:00 |           |             |                    | Kennsluefni  |            |             |
-| 17:00 |           |             | KYNNING Á MIÐBÆ    | Grunnskóla      |            |             |
+| 17:00 |           |             | KYNNING Á MIÐBÆ    | Grunnskóla      |Arduino Lampi Árni            |             |
 | 18:00 |           |             |                    |             |            |             |
 | 19:00 |           |             |  MIÐBÆR SELFOSS    |Hallanda     | Árshátíð   |             |
 | 20:00 |           |             |                    |  PIZZUVEISLA| KRÍAN      |             |
