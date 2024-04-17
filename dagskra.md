@@ -2,20 +2,20 @@
 
 *haldin á Selfossi í 21. - 25. maí 2024*
 
-|Dagskrá| MÁNUDAGUR | ÞRIÐJUDAGUR | MIÐVIKUDAGUR       | FIMMTUDAGUR | FÖSTUDAGUR | LAUGARDAGUR |
+|Dagskrá| MÁNUDAGUR | ÞRIÐJUDAGUR | MIÐVIKUDAGUR       | FIMMTUDAGUR         | FÖSTUDAGUR       | LAUGARDAGUR |
 |:-----:|:---------:|:-----------:|:------------------:|:-----------:|:----------:|:-----------:|
-| 08:00 |           |             |                    |             |            |             |
-| 09:00 |           |             |    MÆTING FLS      | MÆTING FLS  | MÆTING FLS |             |
-| 10:00 |           |             |                    |             | Kynningarmyndband |             |
-| 11:00 |           |             |Fabacademy verkefni | LANGSPILS   |            |             |
-| 12:00 |           |             |   MÁLMFRÆSING      |  |  SKOÐUNAR  |             |
-| 13:00 |           |             |Heimsókn í fyrirtæki|             |      FERÐ  |             |
-| 14:00 |           ||    Freecad/Ondsel kynning     |  MÁLMSTEYPA |  FMCU     |             |
-| 15:00 |           |      | Github kennsla  |  Jesmonite steypun|Saumakennsla  |             |
-| 16:00 |           |             | Github kennsla     | Kennsluefni |            |             |
-| 17:00 |           |             | KYNNING Á MIÐBÆ    | Grunnskóla  |Arduino Lampi Árni|             |
-| 18:00 |           |             |                    ||            |             |
-| 19:00 |           |             |  MIÐBÆR SELFOSS    |Hallanda     | Árshátíð   |             |
-| 20:00 |         |      Machine making?         |                    |  PIZZUVEISLA| KRÍAN      |             |
-| 21:00 |           |             |                    |             | SVEITAKRÁ  |             |
-| 22:00 |           |             |                    |             |            |             |
+| 08:00 |          |       F      |    MÆTING KL 9:00  |  MÆTING KL 9:00   |  MÆTING KL 9:00   |              |
+| 09:00 |          |       E      |      Kick off      | Saumavélakennsla  | Kynningarmyndband |              |
+| 10:00 |           |      R      | Freecad/Ondsel     |                   | Kennsluefni Grunnskóla|              |
+| 11:00 |           |      Ð      | HAAS málmfræsing  | LANGSPILS           |                   |KVEÐJU BRÖNSH |
+| 12:00 |           |      A      |     Matur            | Matur             |  Matur            |              |
+| 13:00 |          |       D      |Heimsókn í fyrirtæki  |Arduino Lampi Árni |  SKOÐUNAR FERÐ    |              |
+| 14:00 |          |       A      |Kynningarmyndband     |Árni Lampa smíði   |  FMCU             |              |
+| 15:00 |          |       G      | Github kennsla       | Stafræn saumavél    |                  |              |
+| 16:00 |          |       U     | Jesmonite steypun      |                   |               |              |
+| 17:00 |           |      R     | KYNNING Á MIÐBÆ       |              |             |              |
+| 18:00 |           |             |                      |                         |             |               |
+| 19:00 |          |MATUR, MATHÖLL?|MATUR MIÐBÆR SELFOSS |Hallanda             |  Árshátíð          |              |
+| 20:00 |           |Machine making?|                   |PIZZUVEISLA         |  KRÍAN             |              |
+| 21:00 |           |             |                     |                    |  SVEITAKRÁ           |              |
+| 22:00 |           |             |                     |                   |                       |             |
