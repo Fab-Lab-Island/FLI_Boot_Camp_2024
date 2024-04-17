@@ -5,13 +5,13 @@
 |Dagskrá| MÁNUDAGUR | ÞRIÐJUDAGUR | MIÐVIKUDAGUR       | FIMMTUDAGUR         | FÖSTUDAGUR       | LAUGARDAGUR |
 |:-----:|:---------:|:-----------:|:------------------:|:-----------:|:----------:|:-----------:|
 | 08:00 |          |       F      |    MÆTING KL 9:00  |  MÆTING KL 9:00   |  MÆTING KL 9:00   |              |
-| 09:00 |          |       E      |      Kick off      | Saumavélakennsla  | Kynningarmyndband |              |
-| 10:00 |           |      R      | Freecad/Ondsel     |                   | Kennsluefni Grunnskóla|              |
+| 09:00 |          |       E      |      Kick off      |Github kennsla    | Kynningarmyndband |              |
+| 10:00 |           |      R      | Freecad/Ondsel     |    MÁLMSTEYPA     | Kennsluefni Grunnskóla|              |
 | 11:00 |           |      Ð      | HAAS málmfræsing  | LANGSPILS           |                   |KVEÐJU BRÖNSH |
 | 12:00 |           |      A      |     Matur            | Matur             |  Matur            |              |
 | 13:00 |          |       D      |Heimsókn í fyrirtæki  |Arduino Lampi Árni |  SKOÐUNAR FERÐ    |              |
 | 14:00 |          |       A      |Kynningarmyndband     |Árni Lampa smíði   |  FMCU             |              |
-| 15:00 |          |       G      | Github kennsla       | Stafræn saumavél    |                  |              |
+| 15:00 |          |       G      |                      | Stafræn saumavél    |                  |              |
 | 16:00 |          |       U     | Jesmonite steypun      |                   |               |              |
 | 17:00 |           |      R     | KYNNING Á MIÐBÆ       |              |             |              |
 | 18:00 |           |             |                      |                         |             |               |
