@@ -16,6 +16,6 @@
 | 17:00 |           |             | KYNNING Á MIÐBÆ    | Grunnskóla  |Arduino Lampi Árni|             |
 | 18:00 |           |             |                    ||            |             |
 | 19:00 |           |             |  MIÐBÆR SELFOSS    |Hallanda     | Árshátíð   |             |
-| 20:00 |       Machine making?    |             |                    |  PIZZUVEISLA| KRÍAN      |             |
+| 20:00 |         |      Machine making?         |                    |  PIZZUVEISLA| KRÍAN      |             |
 | 21:00 |           |             |                    |             | SVEITAKRÁ  |             |
 | 22:00 |           |             |                    |             |            |             |
