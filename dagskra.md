@@ -11,9 +11,9 @@
 | 12:00 |           |             |   MÁLMFRÆSING      |             |  SKOÐUNAR  |             |
 | 13:00 |           |             |Heimsókn í fyrirtæki|             |      FERÐ  |             |
 | 14:00 |           |Machine making?|                    |  MÁLMSTEYPA |  FMCU      |             |
-| 15:00 |           |  Umræður           |    Github kennsla  |             |Saumakennsla  |             |
-| 16:00 |           |             |                    | Kennsluefni  |            |             |
-| 17:00 |           |             | KYNNING Á MIÐBÆ    | Grunnskóla      |Arduino Lampi Árni            |             |
+| 15:00 |           |  Umræður    | Github kennsla  |             |Saumakennsla  |             |
+| 16:00 |           |             | Github kennsla     | Kennsluefni |            |             |
+| 17:00 |           |             | KYNNING Á MIÐBÆ    | Grunnskóla  |Arduino Lampi Árni|             |
 | 18:00 |           |             |                    |             |            |             |
 | 19:00 |           |             |  MIÐBÆR SELFOSS    |Hallanda     | Árshátíð   |             |
 | 20:00 |           |             |                    |  PIZZUVEISLA| KRÍAN      |             |
