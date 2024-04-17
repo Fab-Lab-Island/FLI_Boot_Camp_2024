@@ -10,8 +10,8 @@
 | 11:00 |           |             |Fabacademy verkefni | LANGSPILS   |            |             |
 | 12:00 |           |             |   MÁLMFRÆSING      |             |  SKOÐUNAR  |             |
 | 13:00 |           |             |Heimsókn í fyrirtæki|             |      FERÐ  |             |
-| 14:00 |           |             |                    |  MÁLMSTEYPA |  FMCU      |             |
-| 15:00 |           |             |    Github kennsla  |             |Saumakennsla  |             |
+| 14:00 |           |Machine making?|                    |  MÁLMSTEYPA |  FMCU      |             |
+| 15:00 |           |  Umræður           |    Github kennsla  |             |Saumakennsla  |             |
 | 16:00 |           |             |                    | Kennsluefni  |            |             |
 | 17:00 |           |             | KYNNING Á MIÐBÆ    | Grunnskóla      |Arduino Lampi Árni            |             |
 | 18:00 |           |             |                    |             |            |             |
