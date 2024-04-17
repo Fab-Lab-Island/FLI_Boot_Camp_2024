@@ -7,11 +7,11 @@
 | 08:00 |           |             |                    |             |            |             |
 | 09:00 |           |             |    MÆTING FLS      | MÆTING FLS  | MÆTING FLS |             |
 | 10:00 |           |             |                    |             | Kynningarmyndband |             |
-| 11:00 |           |             |                    | LANGSPILS            |            |             |
+| 11:00 |           |             |   Fabacademy verkefni                 | LANGSPILS            |            |             |
 | 12:00 |           |             |   MÁLMFRÆSING      |             |  SKOÐUNAR  |             |
 | 13:00 |           |             |Heimsókn í fyrirtæki|             |      FERÐ  |             |
-| 14:00 |           |             |                    |  MÁLMSTEYPA |            |             |
-| 15:00 |           |             |    Github kennsla  |             |            |             |
+| 14:00 |           |             |                    |  MÁLMSTEYPA |  FMCU      |             |
+| 15:00 |           |             |    Github kennsla  |             |   Saumakennsla         |             |
 | 16:00 |           |             |                    | Kennsluefni  |            |             |
 | 17:00 |           |             | KYNNING Á MIÐBÆ    | Grunnskóla      |            |             |
 | 18:00 |           |             |                    |             |            |             |
