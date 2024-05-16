@@ -1,4 +1,4 @@
-# Ondsel/FreeCAD vinnustofa
+# Ondsel/FreeCAD
 
 Náið í Ondsel hér:
 [Windows](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES-2024.2.0.37191-Windows-x86_64-installer.exe), [Intel Mac](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES_2024.2.0.37191-macOS-intel-x86_64.dmg), [Apple Silicon](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES_2024.2.0.37191-macOS-apple-silicon-arm64.dmg), [Linux](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES_2024.2.0.37191-Linux-x86_64.AppImage).
@@ -36,44 +36,26 @@ Aðeins tvö slík forrit eru frjáls ([FreeCAD planegcs](https://github.com/Fre
 
 Veljið ykkur eitt af eftirfarandi myndböndum til að fara eftir. Klárið fyrir lok bootcampsins. Ég kíki aftur á ykkur í myndsímtali og get hjálpað ykkur í gegnum screen share i Discord.
 
-<p style="text-align: left;"><br></p>
-<h4 style="text-align: left;">Notaðu ljósmynd til að teikna eftir</h4>
+Notaðu ljósmynd til að teikna eftir
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xQcDoAhmoa8?si=SI9mLM5bWnZu9pea" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-<p style="text-align: left;"><br></p>
-<h4 style="text-align: left;"><span style="font-size: 1.54rem;">Rotate</span><br></h4>
-<p dir="ltr" style="text-align: left;">Svona er hægt að nota Rotate skipunina til að búa til hringlaga hlut út frá 2D skissu:</p>
+Svona er hægt að nota Rotate skipunina til að búa til hringlaga hlut út frá 2D skissu:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5YK1vZuNgaQ?si=h9NMSvJpJbk-XAA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-<p>Það þarf alltaf að passa upp á að skissan sé lokuð áður en henni er breytt í 3D hlut. Þ.e. að línur séu tengdar saman og skarist ekki.</p>
-<p><br></p>
-<h4>Blómavasi</h4>
+Það þarf alltaf að passa upp á að skissan sé lokuð áður en henni er breytt í 3D hlut. Þ.e. að línur séu tengdar saman og skarist ekki.
+Blómavasi:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8V4zmIoYuOA?si=xq81sv6iiGuzzDUQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-<p><br>
-</p>
-<h4>Dolla með skrúfuðu loki</h4>
+Dolla með skrúfuðu loki:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LdE22iHt8Bo?si=yEJiRSxQ6-9vEUhf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-<p><br></p>
-<h4>Límbandshaldari</h4>
-<p><br></p>
+Límbandshaldari:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SVnPg5QfnR8?si=BQtKZomxrhJPkA3b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-<p><br></p>
-<h4>Símastandur</h4>
+Símastandur:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n4FIhoLKGKc?si=rWeT3RD-n4ihPw6P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-<p></p>
-<p><br></p>
-<h4>Símahulstur</h4>
+Símahulstur:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1bmBwGDe2Is?si=I-bto8krsXz0Q77Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-<p><br>
-</p>
-<h4>Box með loki og lömum</h4>
-<p></p>
+Box með loki og lömum:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JmWt8XP_Eds?si=kGvvYfYek-GLWRp0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-<p><br></p>
-<h4>Fleiri hlutir með lömum</h4>
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/-eq4e5w2oMI?si=KHl_GXluEBNHzZH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></p>
-<h4>Loft</h4>
-<p>Loft hentar t.d. til að búa til hlut sem tengir saman rör sem eru mismunandi í laginu.</p>
+Fleiri hlutir með lömum:
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/-eq4e5w2oMI?si=KHl_GXluEBNHzZH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+:Loft hentar t.d. til að búa til hlut sem tengir saman rör sem eru mismunandi í laginu:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uDZ_xZ1LJ1c?si=7rZUavPAudILeTBD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-<p><br></p>
-<h4>Flóknari form</h4>
+Flóknari form:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/19klYkKqvFo?si=OljXwl5FSGg3ps3u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-<p></p>
