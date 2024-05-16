@@ -7,8 +7,19 @@ Náið í Ondsel hér:
 
 Ondsel er þægilegri útgáfa af frjálsa teikniforritinu FreeCAD. Þessi forrit þróast hratt um þessar mundir. Núverandi FreeCAD útgáfa er 0.22 og nú fer að styttast í útgáfu 1.0!
 
-Frjáls hugbúnaður er frábær vegna þess að leyfið rennur ekki út og þú missir aðganginn að teikningunum þínum. Gestir í Fab Lab þurfa ekki að búa til reikning til að teikna einfaldan hlut og þrívíddarprenta. Gestir geta náð í hugbúnaðinn heima hjá sér og lært á hann þar. Allir geta skoðað kóðann á bak við forritið og geta breytt og bætt að vild. Margir hafa lagt af mörgum verkfæri í FreeCAD og byggt upp afar öflugt forrit. Hægt er að komast hratt af stað með 
+- Frjáls hugbúnaður er frábær vegna þess að leyfið rennur ekki út. Þú hefur alltaf aðgang að forritinu og teikningunum þínum. 
+- Gestir þínir í Fab Lab þurfa ekki að búa til t.d. Fusion reikning til að teikna einfaldan hlut og þrívíddarprenta. 
+- Svo er hægt að ná í forritið og halda áfram að teikna heima. 
+- Allir geta skoðað kóðann á bak við teikniforritið og geta breytt og bætt að vild. Margir hafa lagt af mörgum verkfæri í FreeCAD og byggt upp afar öflugt forrit. - Hægt er að komast hratt af stað með 
 [örstuttu myndböndunum úr Fab Academy](http://academy.cba.mit.edu/classes/computer_design/index.html).
+
+### Hvers vegna Ondsel frekar en FreeCAD
+
+- Þægilegri litir og skipulag
+- Mun þægilegri málsetningar í 2D skissum
+- Construction geometry er strikalínur, eins og þær eiga að vera
+- Mæliverkfærið í 3D
+- Ondsel assembly workbench
 
 ## Hvers vegna ekki Ondsel/FreeCAD?
 
@@ -49,8 +60,8 @@ Aðeins tvö slík forrit eru frjáls ([FreeCAD planegcs](https://github.com/Fre
 
 Veljið ykkur eitt af eftirfarandi myndböndum til að fara eftir í Ondsel.
 
-- [constraints](http://academy.cba.mit.edu/classes/computer_design/2Dconstraints.mp4) (mikilvægast!)
-- [workbenches](http://academy.cba.mit.edu/classes/computer_design/workbenches.mp4) (hvernig viðmótið virkar)
+- [constraints](http://academy.cba.mit.edu/classes/computer_design/2Dconstraints.mp4) (hjartað í CAD)
+- [workbenches](http://academy.cba.mit.edu/classes/computer_design/workbenches.mp4) (hvað er í boði í Ondsel/FreeCAD)
 - [snaps](http://academy.cba.mit.edu/classes/computer_design/snaps.mp4)
 - [coordinates containers](http://academy.cba.mit.edu/classes/computer_design/coordinates.mp4)
 - [extrude](http://academy.cba.mit.edu/classes/computer_design/extrude.mp4)
@@ -59,17 +70,17 @@ Veljið ykkur eitt af eftirfarandi myndböndum til að fara eftir í Ondsel.
 - [sweep](http://academy.cba.mit.edu/classes/computer_design/sweep.mp4)
 - [constructive solid geometry (CSG)](http://academy.cba.mit.edu/classes/computer_design/CSG.mp4)
 - [symmetry](http://academy.cba.mit.edu/classes/computer_design/symmetry.mp4)
-- [pad pocket](http://academy.cba.mit.edu/classes/computer_design/pocket.mp4) (næstmikilvægast)
+- [pad pocket](http://academy.cba.mit.edu/classes/computer_design/pocket.mp4) (mikilvægast!)
 - [fillet chamfer](http://academy.cba.mit.edu/classes/computer_design/filletchamfer.mp4)
 - [offset](http://academy.cba.mit.edu/classes/computer_design/offset.mp4)
 - [links hierarchy](http://academy.cba.mit.edu/classes/computer_design/links.mp4)
 - [construction](http://academy.cba.mit.edu/classes/computer_design/construction.mp4)
 - [projection, section](http://academy.cba.mit.edu/classes/computer_design/section.mp4)
 - [alignment](http://academy.cba.mit.edu/classes/computer_design/alignment.mp4)
-- [assemblies](http://academy.cba.mit.edu/classes/computer_design/assemblies.mp4)
-- [measurement](http://academy.cba.mit.edu/classes/computer_design/measurement.mp4)
+- [assemblies](http://academy.cba.mit.edu/classes/computer_design/assemblies.mp4) (Assembly3 workbench í FreeCAD (Ondsel er þægilegra))
+- [measurement](http://academy.cba.mit.edu/classes/computer_design/measurement.mp4) (hvernig maður mælir í FreeCAD (mun betra í Ondsel))
 - [folding](http://academy.cba.mit.edu/classes/computer_design/fold.mp4)
-- [parametric](http://academy.cba.mit.edu/classes/computer_design/parametric.mp4) (ég notað þetta [hér](https://fab.cba.mit.edu/classes/865.24/people/svavar/components/images/cable_carrier/parametric_cable_carrier.mp4))
+- [parametric](http://academy.cba.mit.edu/classes/computer_design/parametric.mp4) (ég notaði þetta [hér](https://fab.cba.mit.edu/classes/865.24/people/svavar/components/images/cable_carrier/parametric_cable_carrier.mp4))
 - [programming](http://academy.cba.mit.edu/classes/computer_design/console.mp4)
 - [algorithmic](http://academy.cba.mit.edu/classes/computer_design/algorithmic.mp4)
 - [drawing](http://academy.cba.mit.edu/classes/computer_design/drawing.mp4)
@@ -78,7 +89,10 @@ Veljið ykkur eitt af eftirfarandi myndböndum til að fara eftir í Ondsel.
 
 ### Youtube myndbönd
 
-Þegar fyrirlestrinum lýkur skuluð þið velja eitt af eftirfarandi myndböndum til að fara eftir. Klárið fyrir lok bootcampsins. Ég kíki aftur á ykkur í myndsímtali og get hjálpað ykkur í gegnum screen share i Discord.
+Þegar fyrirlestrinum lýkur skuluð þið velja eitt af eftirfarandi myndböndum til að fara eftir. Klárið fyrir lok bootcampsins. Ég kíki aftur á ykkur í myndsímtali og get hjálpað ykkur í gegnum screen share i Discord. ATH: Ondsel er svo nýtt að það er betra að skrifa FreeCAD í staðinn þegar þið eruð að gúgla hluti.
+
+Teiknaðu LEGO kubb (ég mæli með þessu):
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Pse7tcafcRM?si=R8vi9MA4of8P_L_i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 Notaðu ljósmynd til að teikna eftir:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xQcDoAhmoa8?si=SI9mLM5bWnZu9pea" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
