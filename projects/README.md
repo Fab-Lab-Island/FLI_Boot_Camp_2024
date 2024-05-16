@@ -12,6 +12,8 @@ Hér verður skjalfest öll verkefni, kynningar og heimsóknir frá vinnustofuni
 
 [CircuitPython](circuitpython.md)
 
+[Harmonic drive](harmonic_drive.md)
+
 
 ## heimsóknir
 
