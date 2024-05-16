@@ -2,17 +2,17 @@
 
 ![alt text](../img/harmonic_drive/drive_kit.jpg)
 
-Verkefni sem Svavar Konráðson bjó til og Þórarinn BB Gunnarson munn leiða og koma með efni að Vestan.
+Verkefni sem Svavar Konráðson bjó til og Þórarinn BB Gunnarson mun leiða og koma með efni að Vestan.
 
 [Leiðbeiningar á síðuni hans Svavars](https://fab.cba.mit.edu/classes/865.24/people/svavar/components/harmonic/)
 
 ## um
 
-Erum með tvö set. þurfum PLA og skrefa mótor með D skafti
+Erum með tvö set. Þurfum PLA og skrefa mótor með D skafti
 
 ### Efni sem þarf að prenta
 
 [3D PRINTED NEMA 17 STRAIN WAVE GEAR (HARMONIC DRIVE)](https://cults3d.com/en/3d-model/tool/3d-printed-strain-wave-gear-harmonic-drive)
 
-Svavar keypti skrána komum með hana en deilum henni ekki opinberlega.
+Svavar keypti skrána, komum með hana en deilum henni ekki opinberlega.
 
