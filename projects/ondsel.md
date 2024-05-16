@@ -8,40 +8,7 @@ Náið í Ondsel hér:
 Ondsel er þægilegri útgáfa af frjálsa teikniforritinu FreeCAD. Þessi forrit þróast hratt um þessar mundir. Núverandi FreeCAD útgáfa er 0.22 og nú fer að styttast í útgáfu 1.0!
 
 Frjáls hugbúnaður er frábær vegna þess að leyfið rennur ekki út og þú missir aðganginn að teikningunum þínum. Gestir í Fab Lab þurfa ekki að búa til reikning til að teikna einfaldan hlut og þrívíddarprenta. Gestir geta náð í hugbúnaðinn heima hjá sér og lært á hann þar. Allir geta skoðað kóðann á bak við forritið og geta breytt og bætt að vild. Margir hafa lagt af mörgum verkfæri í FreeCAD og byggt upp afar öflugt forrit. Hægt er að komast hratt af stað með 
-[örstuttu myndböndunum úr Fab Academy](http://academy.cba.mit.edu/classes/computer_design/index.html):
-
-Þau tvö mikilvægustu:
-[constraints](http://academy.cba.mit.edu/classes/computer_design/2Dconstraints.mp4)
-[parametric](http://academy.cba.mit.edu/classes/computer_design/parametric.mp4)
-
-Viðmótið í Ondsel/FreeCAD er byggt á verkfærakistum:
-[workbenches](http://academy.cba.mit.edu/classes/computer_design/workbenches.mp4)
-
-Teikniverkfæri:
-[snaps](http://academy.cba.mit.edu/classes/computer_design/snaps.mp4)
-[coordinates containers](http://academy.cba.mit.edu/classes/computer_design/coordinates.mp4)
-[extrude](http://academy.cba.mit.edu/classes/computer_design/extrude.mp4)
-[revolve](http://academy.cba.mit.edu/classes/computer_design/revolve.mp4)
-[loft](http://academy.cba.mit.edu/classes/computer_design/loft.mp4)
-[sweep](http://academy.cba.mit.edu/classes/computer_design/sweep.mp4)
-[constructive solid geometry (CSG)](http://academy.cba.mit.edu/classes/computer_design/CSG.mp4)
-[symmetry](http://academy.cba.mit.edu/classes/computer_design/symmetry.mp4)
-[pad pocket](http://academy.cba.mit.edu/classes/computer_design/pocket.mp4)
-[fillet chamfer](http://academy.cba.mit.edu/classes/computer_design/filletchamfer.mp4)
-[offset](http://academy.cba.mit.edu/classes/computer_design/offset.mp4)
-[links hierarchy](http://academy.cba.mit.edu/classes/computer_design/links.mp4)
-[constraints](http://academy.cba.mit.edu/classes/computer_design/3Dconstraints.mp4)
-[construction](http://academy.cba.mit.edu/classes/computer_design/construction.mp4)
-[projection, section](http://academy.cba.mit.edu/classes/computer_design/section.mp4)
-[alignment](http://academy.cba.mit.edu/classes/computer_design/alignment.mp4)
-[assemblies](http://academy.cba.mit.edu/classes/computer_design/assemblies.mp4)
-[measurement](http://academy.cba.mit.edu/classes/computer_design/measurement.mp4)
-[folding](http://academy.cba.mit.edu/classes/computer_design/fold.mp4)
-[programming](http://academy.cba.mit.edu/classes/computer_design/console.mp4)
-[algorithmic](http://academy.cba.mit.edu/classes/computer_design/algorithmic.mp4)
-[drawing](http://academy.cba.mit.edu/classes/computer_design/drawing.mp4)
-[render](http://academy.cba.mit.edu/classes/computer_design/render.mp4)
-[animation](http://academy.cba.mit.edu/classes/computer_design/animation.mp4)
+[örstuttu myndböndunum úr Fab Academy](http://academy.cba.mit.edu/classes/computer_design/index.html).
 
 ## Hvers vegna ekki Ondsel/FreeCAD?
 
@@ -74,11 +41,44 @@ Constraint solver, sem mætti kannski íslenska sem skorðuforrit, er forrit sem
 
 [D-Cubed](https://plm.sw.siemens.com/en-US/plm-components/d-cubed/) constraint solverinn er á bak við öll helstu CAD forritin á markaðinum: Siemens NX, Autodesk Inventor og Fusion, SolidWorks og fleiri. Það er undarlegt.
 
-Aðeins tvö slík forrit eru frjáls ([FreeCAD planegcs](https://github.com/FreeCAD/FreeCAD/tree/main/src/Mod/Sketcher/App/planegcs) og [Solvespace](https://fab.cba.mit.edu/classes/865.24/topics/design-tools/papers/sketchflat.pdf)). Þau halda til haga tækni sem er okkur mikilvæg.
+Aðeins tvö slík forrit eru frjáls ([FreeCAD planegcs](https://github.com/FreeCAD/FreeCAD/tree/main/src/Mod/Sketcher/App/planegcs) og [Solvespace](https://fab.cba.mit.edu/classes/865.24/topics/design-tools/papers/sketchflat.pdf)). Þau halda til haga tækni sem er mikilvæg fyrir flesta hluti sem eru settir í framleiðslu.
 
 ## Sýnikennsla
 
-Veljið ykkur eitt af eftirfarandi myndböndum til að fara eftir. Klárið fyrir lok bootcampsins. Ég kíki aftur á ykkur í myndsímtali og get hjálpað ykkur í gegnum screen share i Discord.
+### Fab Academy myndbönd
+
+Veljið ykkur eitt af eftirfarandi myndböndum til að fara eftir í Ondsel.
+
+- [constraints](http://academy.cba.mit.edu/classes/computer_design/2Dconstraints.mp4) (mikilvægast!)
+- [workbenches](http://academy.cba.mit.edu/classes/computer_design/workbenches.mp4) (hvernig viðmótið virkar)
+- [snaps](http://academy.cba.mit.edu/classes/computer_design/snaps.mp4)
+- [coordinates containers](http://academy.cba.mit.edu/classes/computer_design/coordinates.mp4)
+- [extrude](http://academy.cba.mit.edu/classes/computer_design/extrude.mp4)
+- [revolve](http://academy.cba.mit.edu/classes/computer_design/revolve.mp4)
+- [loft](http://academy.cba.mit.edu/classes/computer_design/loft.mp4)
+- [sweep](http://academy.cba.mit.edu/classes/computer_design/sweep.mp4)
+- [constructive solid geometry (CSG)](http://academy.cba.mit.edu/classes/computer_design/CSG.mp4)
+- [symmetry](http://academy.cba.mit.edu/classes/computer_design/symmetry.mp4)
+- [pad pocket](http://academy.cba.mit.edu/classes/computer_design/pocket.mp4) (næstmikilvægast)
+- [fillet chamfer](http://academy.cba.mit.edu/classes/computer_design/filletchamfer.mp4)
+- [offset](http://academy.cba.mit.edu/classes/computer_design/offset.mp4)
+- [links hierarchy](http://academy.cba.mit.edu/classes/computer_design/links.mp4)
+- [construction](http://academy.cba.mit.edu/classes/computer_design/construction.mp4)
+- [projection, section](http://academy.cba.mit.edu/classes/computer_design/section.mp4)
+- [alignment](http://academy.cba.mit.edu/classes/computer_design/alignment.mp4)
+- [assemblies](http://academy.cba.mit.edu/classes/computer_design/assemblies.mp4)
+- [measurement](http://academy.cba.mit.edu/classes/computer_design/measurement.mp4)
+- [folding](http://academy.cba.mit.edu/classes/computer_design/fold.mp4)
+- [parametric](http://academy.cba.mit.edu/classes/computer_design/parametric.mp4) (ég notað þetta [hér](https://fab.cba.mit.edu/classes/865.24/people/svavar/components/images/cable_carrier/parametric_cable_carrier.mp4))
+- [programming](http://academy.cba.mit.edu/classes/computer_design/console.mp4)
+- [algorithmic](http://academy.cba.mit.edu/classes/computer_design/algorithmic.mp4)
+- [drawing](http://academy.cba.mit.edu/classes/computer_design/drawing.mp4)
+- [render](http://academy.cba.mit.edu/classes/computer_design/render.mp4)
+- [animation](http://academy.cba.mit.edu/classes/computer_design/animation.mp4)
+
+### Youtube myndbönd
+
+Þegar fyrirlestrinum lýkur skuluð þið velja eitt af eftirfarandi myndböndum til að fara eftir. Klárið fyrir lok bootcampsins. Ég kíki aftur á ykkur í myndsímtali og get hjálpað ykkur í gegnum screen share i Discord.
 
 Notaðu ljósmynd til að teikna eftir:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xQcDoAhmoa8?si=SI9mLM5bWnZu9pea" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
