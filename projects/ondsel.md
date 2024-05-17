@@ -76,6 +76,12 @@ Aðeins tvö slík forrit eru frjáls ([FreeCAD planegcs](https://github.com/Fre
 
 ## Sýnikennsla
 
+### Hvernig teiknar maður hluti í CAD forriti?
+
+Fyrst er stutt sýnidæmi fyrir byrjendur í CAD teikningu. CAD teikning snýst að miklu leyti um að finna hvernig er hægt að skipta hlutnum upp í einföld form sem er hægt að búa til með því að extruda, snúa, sweepa eða lofta tvívíðri skissu:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tRNc6AhG7b8?si=0H9XlU1VFLdlvdsu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Fab Academy myndbönd
 
 Veljið ykkur eitt af eftirfarandi myndböndum til að fara eftir í Ondsel.
@@ -112,6 +118,7 @@ Veljið ykkur eitt af eftirfarandi myndböndum til að fara eftir í Ondsel.
 Þegar fyrirlestrinum lýkur skuluð þið velja eitt af eftirfarandi myndböndum til að fara eftir. Klárið fyrir lok bootcampsins. Ég kíki aftur á ykkur í myndsímtali og get hjálpað ykkur í gegnum screen share i Discord. ATH: Ondsel er svo nýtt að það er betra að skrifa FreeCAD í staðinn þegar þið eruð að gúgla hluti.
 
 Teiknaðu LEGO kubb (ég mæli með þessu):
+
 <iframe width="100%" src="https://www.youtube.com/embed/Pse7tcafcRM?si=R8vi9MA4of8P_L_i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 Notaðu ljósmynd til að teikna eftir:
