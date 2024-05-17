@@ -1,6 +1,6 @@
 # Ondsel/FreeCAD
 
-Náið í Ondsel hér:
+Náið í Ondsel teikniforritið hér:
 [Windows](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES-2024.2.0.37191-Windows-x86_64-installer.exe), [Intel Mac](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES_2024.2.0.37191-macOS-intel-x86_64.dmg), [Apple Silicon](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES_2024.2.0.37191-macOS-apple-silicon-arm64.dmg), [Linux](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES_2024.2.0.37191-Linux-x86_64.AppImage).
 
 ## Mín reynsla
@@ -13,13 +13,13 @@ Og ég var það. Þessi forrit eru frábær. En að útvega leyfi og halda þv�
 
 [Autodesk continues to enshittify Fusion 360 with a 27% price increase](https://ondsel.com/blog/autodesk-enshittifies-fusion-360/)
 
-Þegar fyrsti tíminn í Fab Lab áfanganum var að hefjast í MÍ í janúar, þá sagði Fusion mér að leyfið mitt væri útrunnið. Það er vel hægt að finna út úr því, en ég var orðinn ansi leiður á að standa í leyfisveseni fyrir mig og nemendur mína, svo að ég skipti snarlega yfir í FreeCAD. Það tók nemendurna álíka langan tíma að ná í FreeCAD +a allar tölvurnar og það tekur að fá Fusion leyfi. Þetta var svolítið stirt til að byrja með, en þau komust öll í gegnum myndband frá Neil og eitt af Youtube myndböndunum hér fyrir neðan. Sum notuðu FreeCAD til að teikna lokaverkefnin sín. Í kennslukönnuninni sagði einn nemandinn "Ekki fokking Freecad." Ég skil. Það eru ýmsir hnökrar á forritinu. En ég ætla samt að halda áfram að nota það.
+Þegar fyrsti tíminn í Fab Lab áfanganum var að hefjast í MÍ í janúar, þá sagði Fusion mér að leyfið mitt væri útrunnið. Það er vel hægt að finna út úr því, en ég var orðinn ansi leiður á að standa í leyfisveseni fyrir mig og nemendur mína, svo að ég skipti snarlega yfir í FreeCAD. Það tók nemendurna álíka langan tíma að ná í FreeCAD á allar tölvurnar og það tekur að fá Fusion leyfi. Og Doddi gat alveg lært á FreeCAD líka þegar hann kom frá [Nordic Bootcamp](https://nordicfablabs.org/bootcamp-2024-finland/). Að teikna í FreeCAD var svolítið stirt til að byrja með, en þau komust öll í gegnum myndband frá Neil og eitt af Youtube myndböndunum hér fyrir neðan. Sum notuðu FreeCAD til að teikna lokaverkefnin sín. Í kennslukönnuninni sagði einn nemandinn "Ekki fokking Freecad." Ég skil. Það eru ýmsir hnökrar á forritinu.
+
+Svo kom Ondsel, sem er þægilegri útgáfa af FreeCAD.
 
 ## Hvers vegna Ondsel/FreeCAD?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/udIBhVIy5MI?si=g7LZe4lDToAry7O2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Ondsel er þægilegri útgáfa af frjálsa teikniforritinu FreeCAD. Þessi forrit þróast hratt um þessar mundir. Núverandi FreeCAD útgáfa er 0.21.2 og nú fer að styttast í útgáfu 1.0!
 
 - Mun öflugra teikniforrit en flestir gera sér grein fyrir, byggt á góðum grunni. Hægt er að teikna (nánast) allt í Ondsel, vinna með mesh, útbúa toolpaths, gera burðarþolsgreiningar, gera smíðateikningar, forrita teikningarnar í Python og fleira.
 - Frjáls hugbúnaður er hluti af menningu Fab Lab smiðja.
@@ -38,12 +38,12 @@ Ondsel er þægilegri útgáfa af frjálsa teikniforritinu FreeCAD. Þessi forri
 - Mæliverkfærið í 3D
 - Ondsel assembly workbench
 
-## Hvers vegna ekki Ondsel/FreeCAD?
+## Hvers vegna gæti verið gott að hinkra með að skipta yfir í Ondsel/FreeCAD?
 
 - Vinnuflæðið er [innblásið af CATIA](https://ondsel.com/blog/catia-suffers-from-the-same-problems/) og er aðeins öðruvísi en CAD forritin sem flestir eru vanir. - Suma fídusa vantar. 
 - Viðmótið getur verið svolítið stirt.
 - Það eru villur í forritinu hér og þar.
-- Langtum stærsta og versta villan kallast [topological naming problem]()
+- [Topological naming problem](https://youtu.be/6p2vqEEmWq4?si=2rqe8Ff-KkaQpWYM) (er að mestu leyst, en á eftir að fara í gegnum prófanir)
 
 Næsti hluti er samantekt af fyrirlestri Leo McElroy sem heitir [CAD in 1 Hour](https://fab.cba.mit.edu/classes/865.24/topics/design-tools/):
 
@@ -82,9 +82,19 @@ Fyrst er stutt sýnidæmi fyrir byrjendur í CAD teikningu. CAD teikning snýst 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tRNc6AhG7b8?si=0H9XlU1VFLdlvdsu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Fab Academy myndbönd
+### Hlutir til að passa sig á
+
+- Í öllum CAD forritum þarf að passa upp á að tvívíða skissan sé lokuð áður en henni er breytt í 3D hlut. Þ.e. að línur séu tengdar saman og skarist ekki. Þetta er oftast vandamálið þegar það er virkar ekki að búa til þrívíðan hlut úr tvívíðu skissunni þinni. 
+
+Ondsel/FreeCAD hefur nokkrar sérviskur sem fá fólk til að gefast upp og fara aftur í Fusion. En ef þið vitið af þeim þá getið þið klórað ykkur fram úr hlutunum:
+
+- Það *verður* að vera með rétt Body valið til þess að það leyfi þér að gera Pad, Pocket, Revolve, o.s.frv.
+- Síðan er mikilvægt að vita að það er bara hægt að hafa einn prófíl í hverri skissu. Það er takmarkandi en líka góð venja í CAD teikningu.
+
+### Myndbönd úr Fab Academy
 
 Veljið ykkur eitt af eftirfarandi myndböndum til að fara eftir í Ondsel.
+
 
 - [constraints](http://academy.cba.mit.edu/classes/computer_design/2Dconstraints.mp4) (hjartað í CAD)
 - [workbenches](http://academy.cba.mit.edu/classes/computer_design/workbenches.mp4) (hvað er í boði í Ondsel/FreeCAD)
@@ -96,11 +106,10 @@ Veljið ykkur eitt af eftirfarandi myndböndum til að fara eftir í Ondsel.
 - [sweep](http://academy.cba.mit.edu/classes/computer_design/sweep.mp4)
 - [constructive solid geometry (CSG)](http://academy.cba.mit.edu/classes/computer_design/CSG.mp4)
 - [symmetry](http://academy.cba.mit.edu/classes/computer_design/symmetry.mp4)
-- [pad pocket](http://academy.cba.mit.edu/classes/computer_design/pocket.mp4) (mikilvægast!)
 - [fillet chamfer](http://academy.cba.mit.edu/classes/computer_design/filletchamfer.mp4)
 - [offset](http://academy.cba.mit.edu/classes/computer_design/offset.mp4)
 - [links hierarchy](http://academy.cba.mit.edu/classes/computer_design/links.mp4)
-- [construction](http://academy.cba.mit.edu/classes/computer_design/construction.mp4)
+- [construction](http://academy.cba.mit.edu/classes/computer_design/construction.mp4) (construction línur sjást betur í Ondsel)
 - [projection, section](http://academy.cba.mit.edu/classes/computer_design/section.mp4)
 - [alignment](http://academy.cba.mit.edu/classes/computer_design/alignment.mp4)
 - [assemblies](http://academy.cba.mit.edu/classes/computer_design/assemblies.mp4) (Assembly3 workbench í FreeCAD (Ondsel er þægilegra))
@@ -119,22 +128,13 @@ Veljið ykkur eitt af eftirfarandi myndböndum til að fara eftir í Ondsel.
 
 Teiknaðu LEGO kubb (ég mæli með þessu):
 
-<iframe width="100%" src="https://www.youtube.com/embed/Pse7tcafcRM?si=R8vi9MA4of8P_L_i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Pse7tcafcRM?si=R8vi9MA4of8P_L_i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-Notaðu ljósmynd til að teikna eftir:
+Notaðu ljósmynd til að teikna eftir (það er sérlega gott að nota 2D skanna, því að þá færðu myndina í réttri stærð):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xQcDoAhmoa8?si=SI9mLM5bWnZu9pea" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 Svona er hægt að nota Rotate skipunina til að búa til hringlaga hlut út frá 2D skissu:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5YK1vZuNgaQ?si=h9NMSvJpJbk-XAA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-
-Hlutir til að passa sig á:
-
-- Í öllum CAD forritum þarf að passa upp á að tvívíða skissan sé lokuð áður en henni er breytt í 3D hlut. Þ.e. að línur séu tengdar saman og skarist ekki. Þetta er oftast vandamálið þegar það er virkar ekki að búa til þrívíðan hlut úr tvívíðu skissunni þinni. 
-
-Ondsel/FreeCAD hefur nokkrar sérviskur sem fá fólk til að gefast upp og fara aftur í Fusion. En ef þið vitið af þeim þá getið þið klórað ykkur fram úr hlutunum:
-
-- Það *verður* að vera með rétt Body valið til þess að það leyfi þér að gera Pad, Pocket, Revolve, o.s.frv.
-- Síðan er mikilvægt að vita að það er bara hægt að hafa einn prófíl í hverri skissu. Það er takmarkandi en líka góð venja í CAD teikningu.
 
 Blómavasi:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8V4zmIoYuOA?si=xq81sv6iiGuzzDUQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
