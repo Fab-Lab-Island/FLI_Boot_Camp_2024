@@ -4,7 +4,10 @@ Náið í Ondsel teikniforritið hér:
 [Windows](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES-2024.2.0.37191-Windows-x86_64-installer.exe), [Intel Mac](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES_2024.2.0.37191-macOS-intel-x86_64.dmg), [Apple Silicon](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES_2024.2.0.37191-macOS-apple-silicon-arm64.dmg), [Linux](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES_2024.2.0.37191-Linux-x86_64.AppImage).
 
 ## Hvað er CAD?
-CAD er vektor teikning í þrívídd, þ.e. það er hægt að skala hana upp og niður og hún er alltaf hnífskörp. Þetta kallast Boundary Representation eða [B-Rep](https://fab.cba.mit.edu/classes/865.24/topics/design-tools/#brep). HAðrar helstu aðferðir við að teikna í þrívídd eru [mesh](https://www.blender.org/), [voxel](https://fab.cba.mit.edu/classes/865.24/topics/design-tools/#mesh-voxel) og [F-Rep](https://fab.cba.mit.edu/classes/865.24/topics/design-tools/#frep). 
+
+![Mesh vs B-Rep](http://yorikvanhavre.github.io/FreeCAD-manual/images/Mesh_vs_brep.jpg)*Mesh vs B-Rep í þrívídd er ekki ósvipað og vector vs raster í tvívídd. Mynd frá [FreeCAD-manual](http://yorikvanhavre.github.io/FreeCAD-manual/working_with_freecad/traditional_modeling_the_csg_way.html)*.
+
+CAD er vektor teikning í þrívídd, þ.e. það er hægt að skala hana upp og niður og hún er alltaf hnífskörp. Þetta kallast Boundary Representation eða [B-Rep](https://fab.cba.mit.edu/classes/865.24/topics/design-tools/#brep). Aðrar helstu aðferðir við að teikna í þrívídd eru [mesh](https://www.blender.org/), [voxel](https://fab.cba.mit.edu/classes/865.24/topics/design-tools/#mesh-voxel) og [F-Rep](https://fab.cba.mit.edu/classes/865.24/topics/design-tools/#frep). 
 
 Að nota málsetningar og skorður til að skilgreina hluti nákvæmlega er auðsynlegt til að setja hluti í framleiðslu. 
 
