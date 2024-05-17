@@ -96,10 +96,11 @@ Ondsel/FreeCAD hefur nokkrar sérviskur sem fá fólk til að gefast upp og fara
 
 ### Myndbönd úr Fab Academy
 
-Veljið ykkur eitt af eftirfarandi myndböndum til að fara eftir í Ondsel.
+Veljið ykkur eitt af eftirfarandi myndböndum til að fara eftir í Ondsel. Takið eftir í hvaða workbench þið þurfið að vera til að fá réttu verkfærin.
 
-- [constraints](http://academy.cba.mit.edu/classes/computer_design/2Dconstraints.mp4) (hjartað í CAD)
-- [workbenches](http://academy.cba.mit.edu/classes/computer_design/workbenches.mp4) (hvað er í boði í Ondsel/FreeCAD)
+- [pad pocket](http://academy.cba.mit.edu/classes/computer_design/pocket.mp4) (Byrjið hér! Mikilvægast!)
+- [constraints](http://academy.cba.mit.edu/classes/computer_design/2Dconstraints.mp4) (Hjartað í CAD)
+- [workbenches](http://academy.cba.mit.edu/classes/computer_design/workbenches.mp4) (Fídusar í boði í Ondsel/FreeCAD)
 - [snaps](http://academy.cba.mit.edu/classes/computer_design/snaps.mp4)
 - [coordinates containers](http://academy.cba.mit.edu/classes/computer_design/coordinates.mp4)
 - [extrude](http://academy.cba.mit.edu/classes/computer_design/extrude.mp4)
@@ -111,13 +112,13 @@ Veljið ykkur eitt af eftirfarandi myndböndum til að fara eftir í Ondsel.
 - [fillet chamfer](http://academy.cba.mit.edu/classes/computer_design/filletchamfer.mp4)
 - [offset](http://academy.cba.mit.edu/classes/computer_design/offset.mp4)
 - [links hierarchy](http://academy.cba.mit.edu/classes/computer_design/links.mp4)
-- [construction](http://academy.cba.mit.edu/classes/computer_design/construction.mp4) (construction línur sjást betur í Ondsel)
+- [construction](http://academy.cba.mit.edu/classes/computer_design/construction.mp4) (Construction línur sjást betur í Ondsel)
 - [projection, section](http://academy.cba.mit.edu/classes/computer_design/section.mp4)
 - [alignment](http://academy.cba.mit.edu/classes/computer_design/alignment.mp4)
 - [assemblies](http://academy.cba.mit.edu/classes/computer_design/assemblies.mp4) (Assembly3 workbench í FreeCAD (Ondsel er þægilegra))
-- [measurement](http://academy.cba.mit.edu/classes/computer_design/measurement.mp4) (hvernig maður mælir í FreeCAD (mun betra í Ondsel))
+- [measurement](http://academy.cba.mit.edu/classes/computer_design/measurement.mp4) (hvernig maður mælir í FreeCAD (Mun betra í Ondsel))
 - [folding](http://academy.cba.mit.edu/classes/computer_design/fold.mp4)
-- [parametric](http://academy.cba.mit.edu/classes/computer_design/parametric.mp4) (ég notaði þetta [hér](https://fab.cba.mit.edu/classes/865.24/people/svavar/components/images/cable_carrier/parametric_cable_carrier.mp4))
+- [parametric](http://academy.cba.mit.edu/classes/computer_design/parametric.mp4) (Ég notaði þesssa aðferð [hér](https://fab.cba.mit.edu/classes/865.24/people/svavar/components/images/cable_carrier/parametric_cable_carrier.mp4))
 - [programming](http://academy.cba.mit.edu/classes/computer_design/console.mp4)
 - [algorithmic](http://academy.cba.mit.edu/classes/computer_design/algorithmic.mp4)
 - [drawing](http://academy.cba.mit.edu/classes/computer_design/drawing.mp4)
@@ -140,7 +141,7 @@ Svona er hægt að nota Rotate skipunina til að búa til hringlaga hlut út fr�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5YK1vZuNgaQ?si=h9NMSvJpJbk-XAA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-Blómavasi:
+Blómavasi (with a twist!):
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8V4zmIoYuOA?si=xq81sv6iiGuzzDUQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
@@ -188,6 +189,6 @@ Burðarþolsgreining (í myndbandslýsingunni er hlekkur á rangt módel, hér e
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FvAHacnERr0?si=pA802BOIqSYjFPWH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Tópólógísk bestun:
+Tópólógísk bestun (ég hef bara notað svona fídus [einu sinni](https://files.svavar.cc/school/skenkir.pdf)):
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VQINrNWdOHo?si=GG_MIv0l9lXpgh9_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
