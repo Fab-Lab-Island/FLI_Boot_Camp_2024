@@ -4,13 +4,17 @@ Náið í Ondsel teikniforritið hér:
 [Windows](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES-2024.2.0.37191-Windows-x86_64-installer.exe), [Intel Mac](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES_2024.2.0.37191-macOS-intel-x86_64.dmg), [Apple Silicon](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES_2024.2.0.37191-macOS-apple-silicon-arm64.dmg), [Linux](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES_2024.2.0.37191-Linux-x86_64.AppImage).
 
 ## Hvað er CAD?
-[CAD in 1 Hour](https://fab.cba.mit.edu/classes/865.24/topics/design-tools/) eftir [Leo McElroy](https://fab.cba.mit.edu/classes/865.21/people/leo-mcelroy/#/about).
+CAD er vektor teikning í þrívídd, þ.e. það er hægt að skala hana upp og niður og hún er alltaf hnífskörp. Þetta kallast Boundary Representation eða [B-Rep](https://fab.cba.mit.edu/classes/865.24/topics/design-tools/#brep). HAðrar helstu aðferðir við að teikna í þrívídd eru [mesh](https://www.blender.org/), [voxel](https://fab.cba.mit.edu/classes/865.24/topics/design-tools/#mesh-voxel) og [F-Rep](https://fab.cba.mit.edu/classes/865.24/topics/design-tools/#frep). 
+
+Að nota málsetningar og skorður til að skilgreina hluti nákvæmlega er auðsynlegt til að setja hluti í framleiðslu. 
+
+Sjá meiri fróðleik í [CAD in 1 Hour](https://fab.cba.mit.edu/classes/865.24/topics/design-tools/) eftir [Leo McElroy](https://fab.cba.mit.edu/classes/865.21/people/leo-mcelroy/#/about) í námskeiðinu [How to Make Something that Makes (almost) Anything](https://fab.cba.mit.edu/classes/865.24/index.html). Hér er [myndbandið](https://mit.zoom.us/rec/play/PYzhtH4Dv6tDTwZBjTWbA1PyXpLZmds9JrbTRoO_ZbhE8GKzYnvZiICaBB3aFLuuV39E-ICZ7r4hfyPQ.5Qhg_-_KOTtND4yy?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fmit.zoom.us%2Frec%2Fshare%2FmSbxXU1ap3euZp8TjonDAqmOeXrBUwPXN9e-dJ2e2kWVZ_HxQu6PQFhioWVrFPtt.O3SoIRlOUhdLGrsS).
 
 ## Mín reynsla
 
 [Ég skipti um skoðun á frjálsum teiknihugbúnaði](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/week02.html#on-free-and-open-source-engineering-software) þegar ég tók þátt í Fab Academy. Áður notaði ég [Inventor](https://teamspark.is/is/vehicles/old) og [SolidWorks](https://rafnar.com/), sem kosta hundruð þúsunda króna á ári, og leit ekki við neinu öðru. Autodesk bauð mér tvisvar til útlanda; á [stúdentaráðstefnu á Spáni](https://www.youtube.com/watch?v=RZ0dcDp1KXI) og á [Autodesk University í Las Vegas](https://adsknews.autodesk.com/en/stories/autodesk-university-2013-opening-keynote-urges-attendees-to-go-outside/). Ég ætti að vera þeirra helsti talsmaður!
 
-Og ég var það. Þessi forrit eru frábær. En að útvega leyfi og halda því er ekki skemmtilegt. Ég hef svo oft verið að teikna hluti og gera burðarþolsgreiningar og þegar ég vil skoða skrárnar aftur seinna þá er hugbúnaðarleyfið mitt runnið út. Hér eru tvær greinar frá Ondsel teyminu sem ég tengi hart við:
+Og ég var það. Þessi forrit eru frábær. En að útvega leyfi og halda því er ekki skemmtilegt. Ég hef svo oft ætlað að skoða teikningar aftur seinna og þá er hugbúnaðarleyfið mitt runnið út. Hér eru tvær greinar frá Ondsel teyminu sem ég tengi hart við:
 
 [Autodesk is teaching students hard life-lessons about vendor lock-in](https://ondsel.com/blog/hard-lessons/)
 
@@ -73,7 +77,7 @@ Til að staðsetja skissurnar í þrívíðu rými er gott að búa fyrst til [n
 
 ### Hlutir til að passa sig á
 
-- Í öllum CAD forritum þarf að passa upp á að [tvívíða skissan sé lokuð](https://youtu.be/w7_jCxxN1OY?si=ixnz_cEuqz7DVGvh) áður en henni er breytt í 3D hlut. Þ.e. að línur séu tengdar saman og skarist ekki. Þetta er oftast vandamálið þegar það er virkar ekki að búa til þrívíðan hlut úr tvívíðu skissunni þinni. 
+- Í öllum CAD forritum þarf að passa upp á að [tvívíða skissan sé lokuð](https://youtu.be/w7_jCxxN1OY?si=ixnz_cEuqz7DVGvh) áður en henni er breytt í 3D hlut. Þ.e. að línur séu tengdar saman á endapunktum og skarist ekki. Þetta er oftast vandamálið þegar það er virkar ekki að búa til þrívíðan hlut úr tvívíðu skissunni þinni. 
 
 Ondsel/FreeCAD hefur nokkrar sérviskur sem fá fólk til að gefast upp og fara aftur í Fusion. En ef þið vitið af þeim þá getið þið klórað ykkur fram úr hlutunum:
 
@@ -99,7 +103,7 @@ Ondsel/FreeCAD hefur nokkrar sérviskur sem fá fólk til að gefast upp og fara
 Veljið ykkur eitt af eftirfarandi myndböndum til að fara eftir í Ondsel. Takið eftir í hvaða workbench þið þurfið að vera til að fá réttu verkfærin.
 
 - [pad pocket](http://academy.cba.mit.edu/classes/computer_design/pocket.mp4) (Byrjið hér! Mikilvægast!)
-- [constraints](http://academy.cba.mit.edu/classes/computer_design/2Dconstraints.mp4) (Hjartað í CAD)
+- [constraints](http://academy.cba.mit.edu/classes/computer_design/2Dconstraints.mp4) (Hjartað í CAD teikningu)
 - [workbenches](http://academy.cba.mit.edu/classes/computer_design/workbenches.mp4) (Fídusar í boði í Ondsel/FreeCAD)
 - [snaps](http://academy.cba.mit.edu/classes/computer_design/snaps.mp4)
 - [coordinates containers](http://academy.cba.mit.edu/classes/computer_design/coordinates.mp4)
@@ -173,21 +177,26 @@ Loft hentar t.d. til að búa til hlut sem tengir saman rör sem eru mismunandi 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uDZ_xZ1LJ1c?si=7rZUavPAudILeTBD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
+
 Teiknaðu skeið (mæli með):
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m6JLox1A7KY?si=7X9e9p3myP-_X19B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 Surface continuity:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5sXfs_0y8O4?si=RpV8ZWNvVQMz424y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
 Flóknari form:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/19klYkKqvFo?si=OljXwl5FSGg3ps3u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
+
 Burðarþolsgreining (í myndbandslýsingunni er hlekkur á rangt módel, hér er [hið rétta](https://grabcad.com/library/freecad-practice-part-1))
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FvAHacnERr0?si=pA802BOIqSYjFPWH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 Tópólógísk bestun (ég hef bara notað svona fídus [einu sinni](https://files.svavar.cc/school/skenkir.pdf)):
 
