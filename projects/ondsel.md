@@ -3,14 +3,27 @@
 Náið í Ondsel hér:
 [Windows](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES-2024.2.0.37191-Windows-x86_64-installer.exe), [Intel Mac](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES_2024.2.0.37191-macOS-intel-x86_64.dmg), [Apple Silicon](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES_2024.2.0.37191-macOS-apple-silicon-arm64.dmg), [Linux](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES_2024.2.0.37191-Linux-x86_64.AppImage).
 
+[Ég skipti um skoðun á frjálsum teiknihugbúnaði](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/week02.html#on-free-and-open-source-engineering-software) þegar ég tók þátt í Fab Academy. Áður notaði ég Inventor og SolidWorks, sem kosta hundruð þúsunda króna á ári. Autodesk bauð mér tvisvar til útlanda; á stúdentaráðstefnu í Barcelona og á Autodesk University í Las Vegas. Ég ætti að vera þeirra helsti talsmaður!
+
+Þessi forrit eru frábær. En að útvega leyfi og halda því er ekki skemmtilegt. Hér eru tvær greinar frá Ondsel teyminu sem ég tengi hart við:
+
+[Autodesk is teaching students hard life-lessons about vendor lock-in](https://ondsel.com/blog/hard-lessons/)
+
+[Autodesk continues to enshittify Fusion 360 with a 27% price increase](https://ondsel.com/blog/autodesk-enshittifies-fusion-360/)
+
 ## Hvers vegna Ondsel/FreeCAD?
 
-Ondsel er þægilegri útgáfa af frjálsa teikniforritinu FreeCAD. Þessi forrit þróast hratt um þessar mundir. Núverandi FreeCAD útgáfa er 0.22 og nú fer að styttast í útgáfu 1.0!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/udIBhVIy5MI?si=hFML79jH5HzJJ3HM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+Ondsel er þægilegri útgáfa af frjálsa teikniforritinu FreeCAD. Þessi forrit þróast hratt um þessar mundir. Núverandi FreeCAD útgáfa er 0.21.2 og nú fer að styttast í útgáfu 1.0!
+
+- Mun öflugra teikniforrit en flestir gera sér grein fyrir, byggt á góðum grunni. Hægt er að teikna (nánast) allt í Ondsel, vinna með mesh, útbúa toolpaths, gera burðarþolsgreiningar, gera smíðateikningar, forrita teikningarnar í Python og fleira.
+- Frjáls hugbúnaður er hluti af menningu Fab Lab smiðja.
 - Frjáls hugbúnaður er frábær vegna þess að leyfið rennur ekki út. Þú hefur alltaf aðgang að forritinu og teikningunum þínum. 
 - Gestir þínir í Fab Lab þurfa ekki að búa til t.d. Fusion reikning til að teikna einfaldan hlut og þrívíddarprenta. 
 - Svo er hægt að ná í forritið og halda áfram að teikna heima. 
-- Allir geta skoðað kóðann á bak við teikniforritið og geta breytt og bætt að vild. Margir hafa lagt af mörgum verkfæri í FreeCAD og byggt upp afar öflugt forrit. - Hægt er að komast hratt af stað með 
+- Allir geta skoðað kóðann á bak við teikniforritið og geta breytt og bætt að vild. Margir hafa lagt af mörgum verkfæri í FreeCAD og byggt upp virkni sem er ekki til annars staðar. 
+- Hægt er að komast hratt af stað með 
 [örstuttu myndböndunum úr Fab Academy](http://academy.cba.mit.edu/classes/computer_design/index.html).
 
 ### Hvers vegna Ondsel frekar en FreeCAD
@@ -23,7 +36,10 @@ Ondsel er þægilegri útgáfa af frjálsa teikniforritinu FreeCAD. Þessi forri
 
 ## Hvers vegna ekki Ondsel/FreeCAD?
 
-Vinnuflæðið er innblásið af CATIA og er aðeins öðruvísi en CAD forritin sem flestir eru vanir. Suma fídusa vantar og viðmótið getur verið svolítið stirt. Það eru líka villur í forritinu hér og þar.
+- Vinnuflæðið er [innblásið af CATIA](https://ondsel.com/blog/catia-suffers-from-the-same-problems/) og er aðeins öðruvísi en CAD forritin sem flestir eru vanir. - Suma fídusa vantar. 
+- Viðmótið getur verið svolítið stirt.
+- Það eru villur í forritinu hér og þar.
+- Langtum stærsta og versta villan kallast [topological naming problem]()
 
 Næsti hluti er samantekt af fyrirlestri Leo McElroy sem heitir [CAD in 1 Hour](https://fab.cba.mit.edu/classes/865.24/topics/design-tools/):
 
@@ -100,7 +116,14 @@ Notaðu ljósmynd til að teikna eftir:
 Svona er hægt að nota Rotate skipunina til að búa til hringlaga hlut út frá 2D skissu:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5YK1vZuNgaQ?si=h9NMSvJpJbk-XAA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-Það þarf alltaf að passa upp á að skissan sé lokuð áður en henni er breytt í 3D hlut. Þ.e. að línur séu tengdar saman og skarist ekki.
+Hlutir til að passa sig á:
+
+- Í öllum CAD forritum þarf að passa upp á að tvívíða skissan sé lokuð áður en henni er breytt í 3D hlut. Þ.e. að línur séu tengdar saman og skarist ekki. Þetta er oftast vandamálið þegar það er virkar ekki að búa til þrívíðan hlut úr tvívíðu skissunni þinni. 
+
+Ondsel/FreeCAD hefur nokkrar sérviskur sem fá fólk til að gefast upp og fara aftur í Fusion. En ef þið vitið af þeim þá getið þið klórað ykkur fram úr hlutunum:
+
+- Það *verður* að vera með rétt Body valið til þess að það leyfi þér að gera Pad, Pocket, Revolve, o.s.frv.
+- Síðan er mikilvægt að vita að það er bara hægt að hafa einn prófíl í hverri skissu. Það er takmarkandi en líka góð venja í CAD teikningu.
 
 Blómavasi:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8V4zmIoYuOA?si=xq81sv6iiGuzzDUQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
