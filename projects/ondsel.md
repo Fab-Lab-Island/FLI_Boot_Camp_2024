@@ -3,6 +3,9 @@
 Náið í Ondsel teikniforritið hér:
 [Windows](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES-2024.2.0.37191-Windows-x86_64-installer.exe), [Intel Mac](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES_2024.2.0.37191-macOS-intel-x86_64.dmg), [Apple Silicon](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES_2024.2.0.37191-macOS-apple-silicon-arm64.dmg), [Linux](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES_2024.2.0.37191-Linux-x86_64.AppImage).
 
+## Hvað er CAD?
+[CAD in 1 Hour](https://fab.cba.mit.edu/classes/865.24/topics/design-tools/) eftir [Leo McElroy](https://fab.cba.mit.edu/classes/865.21/people/leo-mcelroy/#/about).
+
 ## Mín reynsla
 
 [Ég skipti um skoðun á frjálsum teiknihugbúnaði](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/week02.html#on-free-and-open-source-engineering-software) þegar ég tók þátt í Fab Academy. Áður notaði ég [Inventor](https://teamspark.is/is/vehicles/old) og [SolidWorks](https://rafnar.com/), sem kosta hundruð þúsunda króna á ári, og leit ekki við neinu öðru. Autodesk bauð mér tvisvar til útlanda; á [stúdentaráðstefnu á Spáni](https://www.youtube.com/watch?v=RZ0dcDp1KXI) og á [Autodesk University í Las Vegas](https://adsknews.autodesk.com/en/stories/autodesk-university-2013-opening-keynote-urges-attendees-to-go-outside/). Ég ætti að vera þeirra helsti talsmaður!
@@ -17,11 +20,17 @@ Og ég var það. Þessi forrit eru frábær. En að útvega leyfi og halda þv�
 
 Svo kom Ondsel, sem er þægilegri útgáfa af FreeCAD.
 
+### Hvers vegna ekki Ondsel/FreeCAD
+- Vinnuflæðið er [innblásið af CATIA](https://ondsel.com/blog/catia-suffers-from-the-same-problems/) og er aðeins öðruvísi en CAD forritin sem flestir eru vanir. - Suma fídusa vantar. 
+- Viðmótið getur verið svolítið stirt.
+- Það eru villur í forritinu hér og þar.
+
 ## Hvers vegna Ondsel/FreeCAD?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/udIBhVIy5MI?si=g7LZe4lDToAry7O2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - Mun öflugra teikniforrit en flestir gera sér grein fyrir, byggt á góðum grunni. Hægt er að teikna (nánast) allt í Ondsel, vinna með mesh, útbúa toolpaths, gera burðarþolsgreiningar, gera smíðateikningar, forrita teikningarnar í Python og fleira.
+- Er að þróast mjög hratt
 - Frjáls hugbúnaður er hluti af menningu Fab Lab smiðja.
 - Frjáls hugbúnaður er frábær vegna þess að leyfið rennur ekki út. Þú hefur alltaf aðgang að forritinu og teikningunum þínum. 
 - Gestir þínir í Fab Lab þurfa ekki að búa til t.d. Fusion reikning til að teikna einfaldan hlut og búa til. 
@@ -30,7 +39,6 @@ Svo kom Ondsel, sem er þægilegri útgáfa af FreeCAD.
 - Hægt er að komast hratt af stað með 
 [örstuttu myndböndunum úr Fab Academy](http://academy.cba.mit.edu/classes/computer_design/index.html).
 - [Pieter Hijma](https://fabacademy.org/2023/labs/waag/students/pieter-hijma/), sem tók Fab Academy í fyrra, er hluti af Ondsel teyminu. Við getum kvartað beint við hann á [Mattermost](https://chat.academany.org/). Það gladdi Ondsel teymið að við værum strax byrjaðir að nota það í kennslu. Og Doddi bjó til meme:
-
 
 ### Hvers vegna Ondsel frekar en FreeCAD
 
@@ -41,43 +49,11 @@ Svo kom Ondsel, sem er þægilegri útgáfa af FreeCAD.
 - Búið að bæta við [midpoint constraint](https://youtube.com/shorts/1ZFCw8LydxA?si=zVfEt8pCvrdBNxmn), mjög mikilvægt
 - Construction geometry er strikalínur, eins og þær eiga að vera
 - Mæliverkfærið í 3D
-- Ondsel assembly workbench
+- Ondsel assembly workbench (ég notaði hann [hér](https://fab.cba.mit.edu/classes/865.24/people/svavar/system/files/model-viewer/))
 
-## Hvers vegna gæti verið gott að hinkra með að skipta yfir í Ondsel/FreeCAD?
+### Hvers vegna gæti verið gott að hinkra með að skipta yfir í Ondsel/FreeCAD?
 
-- Vinnuflæðið er [innblásið af CATIA](https://ondsel.com/blog/catia-suffers-from-the-same-problems/) og er aðeins öðruvísi en CAD forritin sem flestir eru vanir. - Suma fídusa vantar. 
-- Viðmótið getur verið svolítið stirt.
-- Það eru villur í forritinu hér og þar.
-- [Topological naming problem](https://youtu.be/6p2vqEEmWq4?si=2rqe8Ff-KkaQpWYM) er stærsta og versta villan (er að mestu leyst, en á eftir að fara í gegnum prófanir)
-
-Næsti hluti er samantekt af fyrirlestri Leo McElroy sem heitir [CAD in 1 Hour](https://fab.cba.mit.edu/classes/865.24/topics/design-tools/):
-
-### Tegundir af CAD forritum
-
-[![Flokkun á CAD forritum](https://fab.cba.mit.edu/classes/865.24/topics/design-tools/assets/cad-landscape.png)](https://fab.cba.mit.edu/classes/865.24/topics/design-tools/)*Mynd frá [Leo McElroy](https://fab.cba.mit.edu/classes/865.21/people/leo-mcelroy/#/about)*
-
-### Saga tölvuvæddrar hönnunar (CAD)
-
-Tvennt þarf til að búa til "solid modeling" CAD forrit: 
-
-1. Geometry kernel (formkjarni)
-1. Constraint solver (skorðuforrit)
-
-#### Geometry kernel
-Geometry kernel, sem mætti íslenska sem formkjarna, er forrit sem býr til þrívíð yfirborð sem eru tengd saman í lokaðan hlut ([B-Rep](https://fab.cba.mit.edu/classes/865.24/topics/design-tools/#brep) solid body).
-
-Þrír menn bjuggu alla helstu formkjarna (geometry kernels) á markaðinum:
-
-[![Höfundar formkjarna (geometry kernels)](https://fab.cba.mit.edu/classes/865.24/topics/design-tools/assets/cad-tree.png)](https://fab.cba.mit.edu/classes/865.24/topics/design-tools/#cad-history)*Mynd frá [Leo McElroy](https://fab.cba.mit.edu/classes/865.21/people/leo-mcelroy/#/about)*
-
-[OpenCascade](https://www.opencascade.com/), sem FreeCAD er byggt á, er eini frjálsi formkjarninn. Hann er mikilvægur af þeim sökum.
-
-#### Constraint solver
-Constraint solver, sem mætti kannski íslenska sem skorðuforrit, er forrit sem leysir skorður og málsetningar í tvívíðum línuteikningum.
-
-[D-Cubed](https://plm.sw.siemens.com/en-US/plm-components/d-cubed/) constraint solverinn er á bak við öll helstu CAD forritin á markaðinum: Siemens NX, Autodesk Inventor og Fusion, SolidWorks og fleiri. Það er undarlegt.
-
-Aðeins tvö slík forrit eru frjáls ([FreeCAD planegcs](https://github.com/FreeCAD/FreeCAD/tree/main/src/Mod/Sketcher/App/planegcs) og [Solvespace](https://fab.cba.mit.edu/classes/865.24/topics/design-tools/papers/sketchflat.pdf)). Þau halda til haga tækni sem er mikilvæg fyrir flesta hluti sem eru settir í framleiðslu.
+- [Topological naming problem](https://youtu.be/6p2vqEEmWq4?si=2rqe8Ff-KkaQpWYM) er stærsta og versta villan (er að mestu leyst, en á eftir að fara í gegnum prófanir - best að bíða eftir því)
 
 ## Sýnikennsla
 
@@ -107,6 +83,14 @@ Ondsel/FreeCAD hefur nokkrar sérviskur sem fá fólk til að gefast upp og fara
 ### Góð ráð
 
 Ýttu á bilstöngina til að fela og sýna hluti.
+
+Ég mæli með að [hækka upplausnina á STL export](https://youtu.be/v6FgTIpsCKo?si=Pyry4s0iSeSoPA7o) áður en þið þrívíddarprentið.
+
+Þegar maður nær tökum á að nota skorður, þá er hægt að skissa fljótt upp hugmyndir að mekanismum:
+
+<video width=100% autoplay=true loop=true >
+    <source src="https://fab.cba.mit.edu/classes/865.24/people/svavar/system/images/tool_rack_2d_sketch.mp4" type="video/mp4">
+</video>
 
 ### Myndbönd úr Fab Academy
 
@@ -183,3 +167,9 @@ Surface continuity:
 
 Flóknari form:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/19klYkKqvFo?si=OljXwl5FSGg3ps3u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
+Burðarþolsgreining (í myndbandslýsingunni er hlekkur á rangt módel, hér er [hið rétta](https://grabcad.com/library/freecad-practice-part-1))
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FvAHacnERr0?si=pA802BOIqSYjFPWH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Tópólógísk bestun:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VQINrNWdOHo?si=GG_MIv0l9lXpgh9_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
