@@ -1,15 +1,17 @@
 # Ondsel/FreeCAD
 
+[Svavar Konráðsson](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/)
+
 Náið í Ondsel teikniforritið hér:
 [Windows](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES-2024.2.0.37191-Windows-x86_64-installer.exe), [Intel Mac](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES_2024.2.0.37191-macOS-intel-x86_64.dmg), [Apple Silicon](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES_2024.2.0.37191-macOS-apple-silicon-arm64.dmg), [Linux](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES_2024.2.0.37191-Linux-x86_64.AppImage).
 
 ## Hvað er CAD?
 
-![Mesh vs B-Rep](http://yorikvanhavre.github.io/FreeCAD-manual/images/Mesh_vs_brep.jpg)*Mesh vs B-Rep í þrívídd er ekki ósvipað og vector vs raster í tvívídd. Mynd frá [FreeCAD-manual](http://yorikvanhavre.github.io/FreeCAD-manual/working_with_freecad/traditional_modeling_the_csg_way.html)*.
+![Mesh vs B-Rep](https://wiki.freecad.org/images/1/1a/Mesh_vs_brep.jpg)*Mesh vs B-Rep í þrívídd er ekki ósvipað og raster vs vector í tvívídd. Mynd úr [FreeCAD Manual](https://wiki.freecad.org/Manual:Traditional_modeling,_the_CSG_way)*.
 
 CAD er vektor teikning í þrívídd, þ.e. það er hægt að skala hana upp og niður og hún er alltaf hnífskörp. Þetta kallast Boundary Representation eða [B-Rep](https://fab.cba.mit.edu/classes/865.24/topics/design-tools/#brep). Aðrar helstu aðferðir við að teikna í þrívídd eru [mesh](https://www.blender.org/), [voxel](https://fab.cba.mit.edu/classes/865.24/topics/design-tools/#mesh-voxel) og [F-Rep](https://fab.cba.mit.edu/classes/865.24/topics/design-tools/#frep). 
 
-Að nota málsetningar og skorður til að skilgreina hluti nákvæmlega er auðsynlegt til að setja hluti í framleiðslu. 
+Að nota málsetningar og skorður til að skilgreina hluti nákvæmlega er nauðsynlegt til að setja hluti í framleiðslu, sérstaklega þegar hlutir þurfa að passa saman. 
 
 Sjá meiri fróðleik í [CAD in 1 Hour](https://fab.cba.mit.edu/classes/865.24/topics/design-tools/) eftir [Leo McElroy](https://fab.cba.mit.edu/classes/865.21/people/leo-mcelroy/#/about) í námskeiðinu [How to Make Something that Makes (almost) Anything](https://fab.cba.mit.edu/classes/865.24/index.html). Hér er [myndbandið](https://mit.zoom.us/rec/play/PYzhtH4Dv6tDTwZBjTWbA1PyXpLZmds9JrbTRoO_ZbhE8GKzYnvZiICaBB3aFLuuV39E-ICZ7r4hfyPQ.5Qhg_-_KOTtND4yy?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fmit.zoom.us%2Frec%2Fshare%2FmSbxXU1ap3euZp8TjonDAqmOeXrBUwPXN9e-dJ2e2kWVZ_HxQu6PQFhioWVrFPtt.O3SoIRlOUhdLGrsS).
 
@@ -17,7 +19,7 @@ Sjá meiri fróðleik í [CAD in 1 Hour](https://fab.cba.mit.edu/classes/865.24/
 
 [Ég skipti um skoðun á frjálsum teiknihugbúnaði](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/week02.html#on-free-and-open-source-engineering-software) þegar ég tók þátt í Fab Academy. Áður notaði ég [Inventor](https://teamspark.is/is/vehicles/old) og [SolidWorks](https://rafnar.com/), sem kosta hundruð þúsunda króna á ári, og leit ekki við neinu öðru. Autodesk bauð mér tvisvar til útlanda; á [stúdentaráðstefnu á Spáni](https://www.youtube.com/watch?v=RZ0dcDp1KXI) og á [Autodesk University í Las Vegas](https://adsknews.autodesk.com/en/stories/autodesk-university-2013-opening-keynote-urges-attendees-to-go-outside/). Ég ætti að vera þeirra helsti talsmaður!
 
-Og ég var það. Þessi forrit eru frábær. En að útvega leyfi og halda því er ekki skemmtilegt. Ég hef svo oft ætlað að skoða teikningar aftur seinna og þá er hugbúnaðarleyfið mitt runnið út. Hér eru tvær greinar frá Ondsel teyminu sem ég tengi hart við:
+Og ég var það. Þessi forrit eru [frábær](https://www.visir.is/i/656004A7CF095E496A8779C96939A7F821F6F037981EAEC5900651EF2CBD58A7_713x0.jpg). En að útvega leyfi og halda því er ekki skemmtilegt. Ég hef svo oft ætlað að skoða teikningar aftur seinna og þá er hugbúnaðarleyfið mitt runnið út. Hér eru tvær greinar frá Ondsel teyminu sem ég tengi hart við:
 
 [Autodesk is teaching students hard life-lessons about vendor lock-in](https://ondsel.com/blog/hard-lessons/)
 
@@ -45,7 +47,9 @@ Svo kom Ondsel, sem er þægilegri útgáfa af FreeCAD.
 - Allir geta skoðað kóðann á bak við teikniforritið og geta breytt og bætt að vild. Margir hafa lagt af mörkum verkfæri í FreeCAD og byggt upp virkni sem er ekki til annars staðar. 
 - Hægt er að komast hratt af stað með 
 [örstuttu myndböndunum úr Fab Academy](http://academy.cba.mit.edu/classes/computer_design/index.html).
-- [Pieter Hijma](https://fabacademy.org/2023/labs/waag/students/pieter-hijma/), sem tók Fab Academy í fyrra, er hluti af Ondsel teyminu. Við getum kvartað beint við hann á [Mattermost](https://chat.academany.org/). Það gladdi Ondsel teymið að við værum strax byrjaðir að nota það í kennslu. Og Doddi bjó til meme:
+- [Pieter Hijma](https://fabacademy.org/2023/labs/waag/students/pieter-hijma/), sem tók Fab Academy í fyrra, er hluti af Ondsel teyminu. Við getum kvartað beint við hann á [Mattermost](https://chat.academany.org/). Það [gladdi Ondsel teymið](../img/ondsel/mattermost_chat.jpg) að við værum strax byrjaðir að nota það í kennslu. Og Doddi bjó til meme:
+
+![Ondsel meme](../img/ondsel/ondsel_meme-hanndoddi.jpg)
 
 ### Hvers vegna Ondsel frekar en FreeCAD
 
@@ -94,6 +98,8 @@ Ondsel/FreeCAD hefur nokkrar sérviskur sem fá fólk til að gefast upp og fara
 Ýttu á bilstöngina til að fela og sýna hluti.
 
 Ég mæli með að [hækka upplausnina á STL export](https://youtu.be/v6FgTIpsCKo?si=Pyry4s0iSeSoPA7o) áður en þið þrívíddarprentið.
+
+Það er svo mikilvægt að klára að teikna áður en maður byrjar að smíða. Annars passsa hlutir ekki saman. Ég segi þetta af biturri reynslu. Það var þó alltaf hægt að redda hlutunum. En ekki hafa það eftir mér!
 
 Þegar maður nær tökum á að nota skorður, þá er hægt að skissa fljótt upp hugmyndir að mekanismum:
 
@@ -184,7 +190,7 @@ Teiknaðu skeið (ég mæli með þessu eftir að þið lærið grunnskipanirnar
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m6JLox1A7KY?si=7X9e9p3myP-_X19B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Surface continuity:
+Surface continuity ([mikilvægt í vöruhönnun](https://en.wikipedia.org/wiki/Class_A_surface), sjá líka hinn nýja [Silk workbench](https://edwardvmills.github.io/Silk/)):
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5sXfs_0y8O4?si=RpV8ZWNvVQMz424y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
