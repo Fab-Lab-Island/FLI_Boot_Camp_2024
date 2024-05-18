@@ -90,11 +90,15 @@ Svo kom Ondsel, sem er þægilegri útgáfa af FreeCAD.
 
 CAD teikning snýst að miklu leyti um að skipta hlutum upp í einföld form sem er hægt að búa til með tvívíðum skissum:
 
+<div class="responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tRNc6AhG7b8?si=0H9XlU1VFLdlvdsu%loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 Til þess að geta bjargað sér í CAD teikningu er í raun nóg að læra að gera tvívíðar teikningar með málsetningum (dimensions) og skorðum (constraints):
 
+<div class="responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gbNg3mzm84s?si=QRbz4QEDg4He6aLf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 Síðan notar maður Pad, Pocket, Revolve, Loft eða Sweep til að búa til þrívíðan hlut úr skissunni.
 
@@ -129,9 +133,11 @@ Ondsel/FreeCAD hefur nokkrar sérviskur sem fá fólk til að gefast upp og fara
 
 Þegar maður nær tökum á að nota skorður (constraints), þá er hægt að skissa fljótt upp hugmyndir að mekanismum:
 
+
 <video width="100%" autoplay="true" loop="true" >
     <source src="https://fab.cba.mit.edu/classes/865.24/people/svavar/system/images/tool_rack_2d_sketch.mp4" type="video/mp4">
 </video>
+
 
 ### Myndbönd úr Fab Academy
 
@@ -170,79 +176,117 @@ Veljið ykkur eitt af eftirfarandi myndböndum til að fara eftir í Ondsel. Tak
 
 Teiknaðu LEGO kubb (ég mæli með þessu myndbandi, það kennir að gera pattern og að [taka þrívíða geómetríu inn í tvívíða skissu](https://youtu.be/x7_KgeLOcKY?si=4JxT2ygyOHgnEzZz)):
 
+<div class="responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pse7tcafcRM?si=R8vi9MA4of8P_L_i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+</div>
 
 Oft kemur sér vel að nota ljósmynd til að teikna eftir (það er sérlega gott að nota 2D skanna, því að þá færðu myndina í réttri stærð):
 
+<div class="responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xQcDoAhmoa8?si=SI9mLM5bWnZu9pea" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+</div>
 
 Svona er hægt að nota Rotate skipunina til að búa til hringlaga hlut út frá 2D skissu. Rotate er ein af mikilvægustu 3D skipununum:
 
+<div class="responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5YK1vZuNgaQ?si=h9NMSvJpJbk-XAA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+</div>
 
 Blómavasi (with a twist!):
 
+<div class="responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8V4zmIoYuOA?si=xq81sv6iiGuzzDUQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+</div>
 
 Dolla með skrúfuðu loki:
 
+<div class="responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LdE22iHt8Bo?si=yEJiRSxQ6-9vEUhf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+</div>
 
 Límbandshaldari:
 
+<div class="responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SVnPg5QfnR8?si=BQtKZomxrhJPkA3b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+</div>
 
 Símastandur:
 
+<div class="responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n4FIhoLKGKc?si=rWeT3RD-n4ihPw6P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+</div>
 
 Símahulstur:
 
+<div class="responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1bmBwGDe2Is?si=I-bto8krsXz0Q77Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+</div>
 
 Box með loki og lömum:
 
+<div class="responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JmWt8XP_Eds?si=kGvvYfYek-GLWRp0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+</div>
 
 Fleiri hlutir með lömum:
 
+<div class="responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-eq4e5w2oMI?si=KHl_GXluEBNHzZH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+</div>
 
 Loft er ein af mikilvægustu grunnskipununum. .Loft hentar t.d. til að búa til hlut sem tengir saman rör sem eru mismunandi í laginu:
 
+<div class="responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uDZ_xZ1LJ1c?si=7rZUavPAudILeTBD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+</div>
 
 Teiknaðu skeið (ég mæli með þessu eftir að þið lærið grunnskipanirnar):
 
+<div class="responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m6JLox1A7KY?si=7X9e9p3myP-_X19B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 Surface continuity ([mikilvægt í vöruhönnun](https://en.wikipedia.org/wiki/Class_A_surface), sjá líka nýja [Silk workbench](https://edwardvmills.github.io/Silk/)):
 
+<div class="responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5sXfs_0y8O4?si=RpV8ZWNvVQMz424y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 Smellusmíði í laserskera ([Laser Cut Interlocking workbench](https://github.com/execuc/LCInterlocking)):
 
+<div class="responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5C3h-JsTVos?si=diXz5I7t3ugIfZDb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 Flóknari form:
 
+<div class="responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/19klYkKqvFo?si=OljXwl5FSGg3ps3u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+</div>
 
 Burðarþolsgreining (í myndbandslýsingunni er hlekkur á rangt módel, hér er [hið rétta](https://grabcad.com/library/freecad-practice-part-1))
 
+<div class="responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FvAHacnERr0?si=pA802BOIqSYjFPWH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 Flæðisgreining (playlist):
 
+<div class="responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=FIa0GANpeaVT92dX&amp;list=PL9H9jQE7y0a5jhlyACRzsdfnx-42AYCCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 Formbestun (ég hef bara notað svona fídus [einu sinni](https://files.svavar.cc/school/skenkir.pdf)):
 
+<div class="responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VQINrNWdOHo?si=GG_MIv0l9lXpgh9_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 Tölvustýrð fræsing (playlist):
 
+<div class="responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=JQpYtpcb8TvUvRDS&amp;list=PLaUEbWaf2rhSGcjQK9LYuL4PkV1GzjeIY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 ### Módel sem voru gerð á bootcampinu
 
