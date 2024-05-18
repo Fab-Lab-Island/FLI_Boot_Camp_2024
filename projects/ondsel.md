@@ -38,7 +38,23 @@ Svo kom Ondsel, sem er þægilegri útgáfa af FreeCAD.
 
 ## Hvers vegna Ondsel/FreeCAD?
 
+<style type="text/css">
+    .responsive {
+        width: 100%;
+        height: 0;
+        padding-bottom: 56.25%
+        position: relative;
+    }
+    .responsive iframe {
+        position:absolute;
+        width: 100%;
+        height: 100%;
+    }
+</style>
+
+<div class="responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/udIBhVIy5MI?si=g7LZe4lDToAry7O2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 - Mun öflugra teikniforrit en flestir gera sér grein fyrir, byggt á góðum grunni. Hægt er að teikna (nánast) allt í Ondsel, vinna með mesh, útbúa toolpaths, gera burðarþolsgreiningar, gera smíðateikningar, forrita teikningarnar í Python og fleira.
 - Er að þróast mjög hratt
@@ -154,7 +170,7 @@ Veljið ykkur eitt af eftirfarandi myndböndum til að fara eftir í Ondsel. Tak
 
 Teiknaðu LEGO kubb (ég mæli með þessu myndbandi, það kennir að gera pattern og að [taka þrívíða geómetríu inn í tvívíða skissu](https://youtu.be/x7_KgeLOcKY?si=4JxT2ygyOHgnEzZz)):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Pse7tcafcRM?si=R8vi9MA4of8P_L_i&cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Pse7tcafcRM?si=R8vi9MA4of8P_L_i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 Oft kemur sér vel að nota ljósmynd til að teikna eftir (það er sérlega gott að nota 2D skanna, því að þá færðu myndina í réttri stærð):
 
@@ -232,10 +248,4 @@ Tölvustýrð fræsing (playlist):
 
 Vistið Ondsel módelin ykkar [hér](https://github.com/Fab-Lab-Island/FLI_Boot_Camp_2024/tree/main/files/ondsel). Svo skuluð þið [exporta módelinu sem HTML](../img/ondsel/export_to_html.mp4), setja í sömu möppu og setja hlekk á báðar skrárnar hér fyrir neðan:
 
-Box með lömum - Ónefndur nemandi: [Skoða](../files/ondsel/box_med_lomum.html), [hlaða niður](../files/ondsel/box_med_lomum.FCStd)
-
-Test:  
-
-<iframe width="420" height="315"
-src="https://github.com/Fab-Lab-Island/FLI_Boot_Camp_2024/tree/main/files/ondsel/box_med_lomum.html">
-</iframe> 
+Ónefndur nemandi - Box með lömum: [Skoða](../files/ondsel/box_med_lomum.html), [hlaða niður](../files/ondsel/box_med_lomum.FCStd)
