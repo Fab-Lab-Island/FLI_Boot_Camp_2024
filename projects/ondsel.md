@@ -70,11 +70,11 @@ Svo kom Ondsel, sem er þægilegri útgáfa af FreeCAD.
 
 ### Hvernig teiknar maður hluti í CAD forriti?
 
-Fyrst er stutt sýnidæmi fyrir byrjendur í CAD teikningu. CAD teikning snýst að miklu leyti um að finna hvernig er hægt að skipta hlutnum upp í einföld form sem er hægt að búa til með tvívíðum skissum:
+Fyrst er stutt sýnidæmi fyrir byrjendur í CAD teikningu. CAD teikning snýst að miklu leyti um að skipta hlutum upp í einföld form sem er hægt að búa til með tvívíðum skissum:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tRNc6AhG7b8?si=0H9XlU1VFLdlvdsu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Til þess að geta bjargað sér í CAD teikningu er í raun nóg að læra að gera tvívíðar teikningar með málsetningum og skorðum:
+Til þess að geta bjargað sér í CAD teikningu er í raun nóg að læra að gera tvívíðar teikningar með málsetningum (dimensions) og skorðum (constraints):
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gbNg3mzm84s?si=QRbz4QEDg4He6aLf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -101,7 +101,7 @@ Ondsel/FreeCAD hefur nokkrar sérviskur sem fá fólk til að gefast upp og fara
 
 Það er svo mikilvægt að klára að teikna áður en maður byrjar að smíða. Annars passsa hlutir ekki saman. Ég segi þetta af biturri reynslu. Það var þó alltaf hægt að redda hlutunum. En ekki hafa það eftir mér!
 
-Þegar maður nær tökum á að nota skorður, þá er hægt að skissa fljótt upp hugmyndir að mekanismum:
+Þegar maður nær tökum á að nota skorður (constraints), þá er hægt að skissa fljótt upp hugmyndir að mekanismum:
 
 <video width="100%" autoplay="true" loop="true" >
     <source src="https://fab.cba.mit.edu/classes/865.24/people/svavar/system/images/tool_rack_2d_sketch.mp4" type="video/mp4">
@@ -190,9 +190,7 @@ Teiknaðu skeið (ég mæli með þessu eftir að þið lærið grunnskipanirnar
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m6JLox1A7KY?si=7X9e9p3myP-_X19B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Surface continuity ([mikilvægt í vöruhönnun](https://en.Tölvustýrð fræsing (CAM):
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=JQpYtpcb8TvUvRDS&amp;list=PLaUEbWaf2rhSGcjQK9LYuL4PkV1GzjeIY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Surface continuity ([mikilvægt í vöruhönnun](https://en.wikipedia.org/wiki/Class_A_surface), sjá líka nýja [Silk workbench](https://edwardvmills.github.io/Silk/)):
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5sXfs_0y8O4?si=RpV8ZWNvVQMz424y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -204,14 +202,14 @@ Burðarþolsgreining (í myndbandslýsingunni er hlekkur á rangt módel, hér e
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FvAHacnERr0?si=pA802BOIqSYjFPWH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Flæðisgreining:
+Flæðisgreining (playlist):
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=FIa0GANpeaVT92dX&amp;list=PL9H9jQE7y0a5jhlyACRzsdfnx-42AYCCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Tópólógísk bestun (ég hef bara notað svona fídus [einu sinni](https://files.svavar.cc/school/skenkir.pdf)):
+Formbestun (ég hef bara notað svona fídus [einu sinni](https://files.svavar.cc/school/skenkir.pdf)):
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VQINrNWdOHo?si=GG_MIv0l9lXpgh9_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Tölvustýrð fræsing (CAM):
+Tölvustýrð fræsing (playlist):
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=JQpYtpcb8TvUvRDS&amp;list=PLaUEbWaf2rhSGcjQK9LYuL4PkV1GzjeIY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
