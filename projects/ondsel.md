@@ -17,9 +17,9 @@ Sjá meiri fróðleik í [CAD in 1 Hour](https://fab.cba.mit.edu/classes/865.24/
 
 ## Mín reynsla
 
-[Ég skipti um skoðun á frjálsum teiknihugbúnaði](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/week02.html#on-free-and-open-source-engineering-software) þegar ég tók þátt í Fab Academy. Áður notaði ég [Inventor](https://teamspark.is/img/ts12-1.jpg) og [SolidWorks](https://rafnar.com/), sem kosta hundruð þúsunda króna á ári, og leit ekki við neinu öðru. Autodesk bauð mér tvisvar til útlanda; á [stúdentaráðstefnu á Spáni](https://www.youtube.com/watch?v=RZ0dcDp1KXI) og á [Autodesk University í Las Vegas](https://adsknews.autodesk.com/en/stories/autodesk-university-2013-opening-keynote-urges-attendees-to-go-outside/). Ég ætti að vera þeirra helsti talsmaður!
+[Ég skipti um skoðun á frjálsum teiknihugbúnaði](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/week02.html#on-free-and-open-source-engineering-software) þegar ég tók þátt í Fab Academy. Áður notaði ég [Inventor](https://teamspark.is/img/ts12-1.jpg) og [SolidWorks](https://www.visir.is/i/656004A7CF095E496A8779C96939A7F821F6F037981EAEC5900651EF2CBD58A7_713x0.jpg), sem kosta hundruð þúsunda króna á ári, og leit ekki við neinu öðru. Autodesk bauð mér tvisvar til útlanda; á [stúdentaráðstefnu á Spáni](https://www.youtube.com/watch?v=RZ0dcDp1KXI) og á [Autodesk University í Las Vegas](https://adsknews.autodesk.com/en/stories/autodesk-university-2013-opening-keynote-urges-attendees-to-go-outside/). Ég ætti að vera þeirra helsti talsmaður!
 
-Og ég var það. Þessi forrit eru [frábær](https://www.visir.is/i/656004A7CF095E496A8779C96939A7F821F6F037981EAEC5900651EF2CBD58A7_713x0.jpg). En að útvega leyfi og halda því er ekki skemmtilegt. Ég hef svo oft ætlað að skoða teikningar aftur seinna og þá er hugbúnaðarleyfið mitt runnið út. Hér eru tvær greinar frá Ondsel teyminu sem ég tengi hart við:
+Og ég var það. Þessi forrit eru [frábær](https://media.licdn.com/dms/image/C512DAQGxWgFWgEoIzA/profile-treasury-image-shrink_1920_1920/0/1602114789552?e=1716649200&v=beta&t=IwyAz-FAB8jBYR4XNyFqRg5a-8aGy7LSaB_H-rf4Ep4). En að útvega leyfi og halda því er ekki skemmtilegt. Ég hef svo oft ætlað að skoða teikningar aftur seinna og þá er hugbúnaðarleyfið mitt runnið út. Hér eru tvær greinar frá Ondsel teyminu sem ég tengi hart við:
 
 [Autodesk is teaching students hard life-lessons about vendor lock-in](https://ondsel.com/blog/hard-lessons/)
 
@@ -228,6 +228,8 @@ Tölvustýrð fræsing (playlist):
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=JQpYtpcb8TvUvRDS&amp;list=PLaUEbWaf2rhSGcjQK9LYuL4PkV1GzjeIY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Verkefni
+### Módel sem voru gerð á bootcampinu
 
-[Dæmi um verkefni frá ónefndum nemanda](../files/ondsel/box_med_lomum.FCStd)
+Vistið Ondsel módelin ykkar [hér](https://github.com/Fab-Lab-Island/FLI_Boot_Camp_2024/tree/main/files/ondsel) og setjið hlekki á módelin ykkar hér fyrir neðan. Svo skuluð þið [exporta módelinu sem HTML](../img/ondsel/export_to_html.mp4), setja í sömu möppu og setja hlekk hér fyrir neðan.
+
+[Dæmi um verkefni frá ónefndum nemanda](../files/ondsel/box_med_lomum.FCStd), [preview](../files/ondsel/box_med_lomum.html)
