@@ -7,11 +7,16 @@ Náið í Ondsel teikniforritið hér:
 
 ## Hvað er CAD?
 
+![Litmynd af teiknistofu](https://i.imgur.com/vLuzDHy.jpeg)
+![Svarthvít mynd af teiknistofu](https://i.imgur.com/PcRILGZ.jpeg)*Myndir frá [imgur](https://imgur.com/gallery/big-paper-days-of-engineering-technical-drawings-architecture-etc-before-computers-printers-lNJf76s)*.
+
+CAD ([Computer-Aided Design](https://en.wikipedia.org/wiki/Computer-aided_design)) er tækniteikning sem er gerð í tölvu. Markmiðið var að gera nákvæmlega málsettar línuteikningar í hvaða skala sem er, án þess að fá sinaskeiðabólgu eða blek í skyrtuna.
+
 ![Mesh vs B-Rep](https://wiki.freecad.org/images/1/1a/Mesh_vs_brep.jpg)*Mesh vs B-Rep í þrívídd er ekki ósvipað og raster vs vector í tvívídd. Mynd úr [FreeCAD Manual](https://wiki.freecad.org/Manual:Traditional_modeling,_the_CSG_way)*.
 
-CAD ([Computer-Aided Design](https://en.wikipedia.org/wiki/Computer-aided_design)) er vektor teikning í þrívídd, þ.e. það er hægt að skala hana upp og niður og hún er alltaf hnífskörp. Þetta kallast Boundary Representation eða [B-Rep](https://fab.cba.mit.edu/classes/865.24/topics/design-tools/#brep). Aðrar helstu aðferðir við að teikna í þrívídd eru [mesh](https://www.blender.org/), [voxel](https://fab.cba.mit.edu/classes/865.24/topics/design-tools/#mesh-voxel) og [F-Rep](https://fab.cba.mit.edu/classes/865.24/topics/design-tools/#frep). 
+CAD er vektor teikning í þrívídd; þ.e. það er hægt að skala hana upp og niður og hún er alltaf hnífskörp. Þetta kallast Boundary Representation eða [B-Rep](https://fab.cba.mit.edu/classes/865.24/topics/design-tools/#brep). Aðrar helstu aðferðir við að teikna í þrívídd eru [mesh](https://www.blender.org/), [voxel](https://fab.cba.mit.edu/classes/865.24/topics/design-tools/#mesh-voxel) og [F-Rep](https://fab.cba.mit.edu/classes/865.24/topics/design-tools/#frep). 
 
-Að nota málsetningar og skorður til að skilgreina hluti nákvæmlega er nauðsynlegt til að setja hluti í framleiðslu, sérstaklega þegar hlutir þurfa að passa saman. 
+Að nota málsetningar og skorður til að skilgreina hluti nákvæmlega er nauðsynlegt til að setja hluti í framleiðslu, sérstaklega þegar hlutir þurfa að passa saman.
 
 Sjá meiri fróðleik í [CAD in 1 Hour](https://fab.cba.mit.edu/classes/865.24/topics/design-tools/) eftir [Leo McElroy](https://fab.cba.mit.edu/classes/865.21/people/leo-mcelroy/#/about) í námskeiðinu [How to Make Something that Makes (almost) Anything](https://fab.cba.mit.edu/classes/865.24/index.html). Hér er [myndbandið](https://mit.zoom.us/rec/play/PYzhtH4Dv6tDTwZBjTWbA1PyXpLZmds9JrbTRoO_ZbhE8GKzYnvZiICaBB3aFLuuV39E-ICZ7r4hfyPQ.5Qhg_-_KOTtND4yy?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fmit.zoom.us%2Frec%2Fshare%2FmSbxXU1ap3euZp8TjonDAqmOeXrBUwPXN9e-dJ2e2kWVZ_HxQu6PQFhioWVrFPtt.O3SoIRlOUhdLGrsS).
 
@@ -112,7 +117,7 @@ Ondsel/FreeCAD hefur nokkrar sérviskur sem fá fólk til að gefast upp og fara
 
 <div class="responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wXfEf8D-JDk?si=OCvBg4y1FOpVksmv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+</div>*Þetta gæti verið mikilvægasta myndbandið til að lifa af lengur en fimm mínútur í Ondsel.*
 
 - Þú **verður** að vera með rétt Body valið til þess að Ondsel leyfi þér að gera Pad, Pocket, Revolve, o.s.frv. En það er til leið til að [nota form úr öðru Body í skissu](https://youtu.be/ylAMGQ8HV0w?si=8nSflnThgODHTINf).
 - Síðan er mikilvægt að vita að það er bara hægt að hafa einn prófíl í hverri skissu. Það er takmarkandi en líka góð venja í CAD teikningu. Og það er hægt að nota [master skissu](https://youtu.be/k6lMaQiIlKo?si=NBaXXGe8sX_AslgZ) til að stýra öllum hinum skissunum. 
@@ -142,6 +147,7 @@ Ondsel/FreeCAD hefur nokkrar sérviskur sem fá fólk til að gefast upp og fara
     <source src="https://fab.cba.mit.edu/classes/865.24/people/svavar/system/images/tool_rack_2d_sketch.mp4" type="video/mp4">
 </video>
 
+## Æfingar
 
 ### Myndbönd úr Fab Academy
 
