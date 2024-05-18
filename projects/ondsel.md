@@ -110,6 +110,10 @@ Til að staðsetja skissurnar í þrívíðu rými er gott að búa fyrst til [n
 
 Ondsel/FreeCAD hefur nokkrar sérviskur sem fá fólk til að gefast upp og fara aftur í Fusion. En ef þið vitið af þeim þá getið þið klórað ykkur fram úr hlutunum:
 
+<div class="responsive">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wXfEf8D-JDk?si=OCvBg4y1FOpVksmv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 - Þú **verður** að vera með rétt Body valið til þess að Ondsel leyfi þér að gera Pad, Pocket, Revolve, o.s.frv. En það er til leið til að [nota form úr öðru Body í skissu](https://youtu.be/ylAMGQ8HV0w?si=8nSflnThgODHTINf).
 - Síðan er mikilvægt að vita að það er bara hægt að hafa einn prófíl í hverri skissu. Það er takmarkandi en líka góð venja í CAD teikningu. Og það er hægt að nota [master skissu](https://youtu.be/k6lMaQiIlKo?si=NBaXXGe8sX_AslgZ) til að stýra öllum hinum skissunum. 
 
