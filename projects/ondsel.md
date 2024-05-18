@@ -17,7 +17,7 @@ Sjá meiri fróðleik í [CAD in 1 Hour](https://fab.cba.mit.edu/classes/865.24/
 
 ## Mín reynsla
 
-[Ég skipti um skoðun á frjálsum teiknihugbúnaði](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/week02.html#on-free-and-open-source-engineering-software) þegar ég tók þátt í Fab Academy. Áður notaði ég [Inventor](https://teamspark.is/is/vehicles/old) og [SolidWorks](https://rafnar.com/), sem kosta hundruð þúsunda króna á ári, og leit ekki við neinu öðru. Autodesk bauð mér tvisvar til útlanda; á [stúdentaráðstefnu á Spáni](https://www.youtube.com/watch?v=RZ0dcDp1KXI) og á [Autodesk University í Las Vegas](https://adsknews.autodesk.com/en/stories/autodesk-university-2013-opening-keynote-urges-attendees-to-go-outside/). Ég ætti að vera þeirra helsti talsmaður!
+[Ég skipti um skoðun á frjálsum teiknihugbúnaði](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/week02.html#on-free-and-open-source-engineering-software) þegar ég tók þátt í Fab Academy. Áður notaði ég [Inventor](https://teamspark.is/img/ts12-1.jpg) og [SolidWorks](https://rafnar.com/), sem kosta hundruð þúsunda króna á ári, og leit ekki við neinu öðru. Autodesk bauð mér tvisvar til útlanda; á [stúdentaráðstefnu á Spáni](https://www.youtube.com/watch?v=RZ0dcDp1KXI) og á [Autodesk University í Las Vegas](https://adsknews.autodesk.com/en/stories/autodesk-university-2013-opening-keynote-urges-attendees-to-go-outside/). Ég ætti að vera þeirra helsti talsmaður!
 
 Og ég var það. Þessi forrit eru [frábær](https://www.visir.is/i/656004A7CF095E496A8779C96939A7F821F6F037981EAEC5900651EF2CBD58A7_713x0.jpg). En að útvega leyfi og halda því er ekki skemmtilegt. Ég hef svo oft ætlað að skoða teikningar aftur seinna og þá er hugbúnaðarleyfið mitt runnið út. Hér eru tvær greinar frá Ondsel teyminu sem ég tengi hart við:
 
@@ -25,7 +25,9 @@ Og ég var það. Þessi forrit eru [frábær](https://www.visir.is/i/656004A7CF
 
 [Autodesk continues to enshittify Fusion 360 with a 27% price increase](https://ondsel.com/blog/autodesk-enshittifies-fusion-360/)
 
-Þegar fyrsti tíminn í Fab Lab áfanganum var að hefjast í MÍ í janúar, þá sagði Fusion mér að leyfið mitt væri útrunnið. Það er vel hægt að finna út úr því, en ég var orðinn ansi leiður á að standa í leyfisveseni fyrir mig og nemendur mína, svo að ég skipti snarlega yfir í FreeCAD. Það tók nemendurna álíka langan tíma að ná í FreeCAD á allar tölvurnar og það tekur að fá Fusion leyfi. Og Doddi gat alveg lært á FreeCAD líka þegar hann kom frá [Nordic Bootcamp](https://nordicfablabs.org/bootcamp-2024-finland/). Að teikna í FreeCAD var svolítið stirt til að byrja með, en þau komust öll í gegnum myndband frá Neil og eitt af Youtube myndböndunum hér fyrir neðan. Sum notuðu FreeCAD til að teikna lokaverkefnin sín. Í kennslukönnuninni sagði einn nemandinn "Ekki fokking Freecad." Ég skil. Það eru ýmsir hnökrar á forritinu (og kennararnir voru að læra á það á sama tíma og nemendurnir).
+Þegar fyrsti tíminn í Fab Lab áfanganum var að hefjast í MÍ í janúar, þá sagði Fusion mér að leyfið mitt væri útrunnið. Það er vel hægt að finna út úr því, en ég var orðinn ansi leiður á að standa í leyfisveseni fyrir mig og nemendur mína, svo að ég skipti snarlega yfir í FreeCAD. Það tók nemendurna álíka langan tíma að ná í FreeCAD á allar tölvurnar og það tekur að fá Fusion leyfi. Og Doddi gat alveg lært á FreeCAD líka þegar hann kom frá [Nordic Bootcamp](https://nordicfablabs.org/bootcamp-2024-finland/). 
+
+Að teikna í FreeCAD var svolítið stirt til að byrja með, en þau komust öll í gegnum eitt örstutt myndband frá Neil og eitt af Youtube myndböndunum hér fyrir neðan. Sum notuðu FreeCAD til að teikna lokaverkefnin sín. Í kennslukönnuninni sagði einn nemandinn "Ekki fokking Freecad." Ég skil. Það eru ýmsir hnökrar á forritinu (og kennararnir voru að læra á það á sama tíma og nemendurnir).
 
 Svo kom Ondsel, sem er þægilegri útgáfa af FreeCAD.
 
@@ -42,8 +44,8 @@ Svo kom Ondsel, sem er þægilegri útgáfa af FreeCAD.
 - Er að þróast mjög hratt
 - Frjáls hugbúnaður er hluti af menningu Fab Lab smiðja.
 - Frjáls hugbúnaður er frábær vegna þess að leyfið rennur ekki út. Þú hefur alltaf aðgang að forritinu og teikningunum þínum. 
-- Gestir þínir í Fab Lab þurfa ekki að búa til t.d. Fusion reikning til að teikna einfaldan hlut og búa til. 
-- Svo er hægt að ná í forritið og halda áfram að teikna heima. 
+- Gestir þínir í Fab Lab þurfa ekki að búa til Fusion eða TinkerCAD reikning til að teikna einfaldan hlut og búa til. 
+- Svo er hægt að ná í Ondsel eða FreeCAD og halda áfram að teikna heima. 
 - Allir geta skoðað kóðann á bak við teikniforritið og geta breytt og bætt að vild. Margir hafa lagt af mörkum verkfæri í FreeCAD og byggt upp virkni sem er ekki til annars staðar. 
 - Hægt er að komast hratt af stað með 
 [örstuttu myndböndunum úr Fab Academy](http://academy.cba.mit.edu/classes/computer_design/index.html).
@@ -64,7 +66,7 @@ Svo kom Ondsel, sem er þægilegri útgáfa af FreeCAD.
 
 ### Hvers vegna gæti verið gott að hinkra með að skipta yfir í Ondsel/FreeCAD?
 
-- [Topological naming problem](https://youtu.be/6p2vqEEmWq4?si=2rqe8Ff-KkaQpWYM) er stærsta og versta villan (er að mestu leyst, en á eftir að fara í gegnum prófanir - best að bíða eftir því)
+- [Topological naming problem](https://youtu.be/6p2vqEEmWq4?si=2rqe8Ff-KkaQpWYM) er stærsta og versta villan. Þetta er vandi sem allur CAD hugbúnaður þarf að leysa og ég hef rekist á hann einstaka sinnum í mjög dýrum forritum. GitHub notandinn RealThunder gerði fork (afrit) af FreeCAD kóðanum og [leysti vandamálið](https://forum.freecad.org/viewtopic.php?t=78797)! Nú vinnur Ondsel teymið hörðum höndum að því að koma lausninni inn í opinbera kóðann án þess að brjóta módel sem hafa verið gerð í eldri útgáfum af FreeCAD. Þess vegna mæli ég með að bíða eftir næstu útgáfu af Ondsel áður en forritið er tekið í almenna notkun í Fab Lab smiðjum.
 
 ## Sýnikennsla
 
@@ -88,14 +90,18 @@ Til að staðsetja skissurnar í þrívíðu rými er gott að búa fyrst til [n
 
 Ondsel/FreeCAD hefur nokkrar sérviskur sem fá fólk til að gefast upp og fara aftur í Fusion. En ef þið vitið af þeim þá getið þið klórað ykkur fram úr hlutunum:
 
-- Þú *verður* að vera með rétt Body valið til þess að Ondsel leyfi þér að gera Pad, Pocket, Revolve, o.s.frv. En það er til leið [framhjá því](https://youtu.be/ylAMGQ8HV0w?si=8nSflnThgODHTINf).
+- Þú **verður** að vera með rétt Body valið til þess að Ondsel leyfi þér að gera Pad, Pocket, Revolve, o.s.frv. En það er til leið til að [nota form úr öðru Body í skissu](https://youtu.be/ylAMGQ8HV0w?si=8nSflnThgODHTINf).
 - Síðan er mikilvægt að vita að það er bara hægt að hafa einn prófíl í hverri skissu. Það er takmarkandi en líka góð venja í CAD teikningu. Og það er hægt að nota [master skissu](https://youtu.be/k6lMaQiIlKo?si=NBaXXGe8sX_AslgZ) til að stýra öllum hinum skissunum. 
 
 ### Góð ráð
 
 Ég mæli með að vera alltaf í Part Design workbench, búa til Body og búa svo til Sketch.
 
+Það er góð venja að setja málsetningar og skorður þangað til allar línur í skissunni verða grænar. Þá er skissan "fully constrained" og módelið verður mun stöðugra. Hvítar línur eru "not fully constrained", grænar línur eru "fully constrained" og bláar strikalínur eru []"construction geometry"](https://youtu.be/6PeJ_zJt15A?si=zscvNunVm0c3siMN), þ.e. hjálparlínur sem verða ekki notaðar í að búa til þrívíðan hlut úr skissunni. Það má hægrismella á línur til að breyta þeim í hjálparlínur.
+
 Ýttu á bilstöngina til að fela og sýna hluti.
+
+Þegar þú býrð til skissu eða gerir aðra skipun þá birtist hún í tímaröð í trénu (Tree view) vinstra megin. Þú getur tvísmellt á skipunina til að breyta henni eftir á. Stundum birtast torkennileg tákn á skipununum. Skoðaðu [Tree view greinina](https://wiki.freecad.org/Tree_view) til að sjá hvað þessi "overlay icons" þýða.
 
 Þegar þú velur hluti í trénu vinstra megin (Feature tree), skoðaðu þá Property View sem birtist hægra megin. Þar geturðu breytt staðsetningu hluta og líka breytt öllum málsetningum án þess að opna skipunina eða skissuna:
 
