@@ -230,6 +230,6 @@ Tölvustýrð fræsing (playlist):
 
 ### Módel sem voru gerð á bootcampinu
 
-Vistið Ondsel módelin ykkar [hér](https://github.com/Fab-Lab-Island/FLI_Boot_Camp_2024/tree/main/files/ondsel) og setjið hlekki á módelin ykkar hér fyrir neðan. Svo skuluð þið [exporta módelinu sem HTML](../img/ondsel/export_to_html.mp4), setja í sömu möppu og setja hlekk hér fyrir neðan.
+Vistið Ondsel módelin ykkar [hér](https://github.com/Fab-Lab-Island/FLI_Boot_Camp_2024/tree/main/files/ondsel). Svo skuluð þið [exporta módelinu sem HTML](../img/ondsel/export_to_html.mp4), setja í sömu möppu og setja hlekk á báðar skrárnar hér fyrir neðan:
 
-[Dæmi um verkefni frá ónefndum nemanda](../files/ondsel/box_med_lomum.FCStd), [preview](../files/ondsel/box_med_lomum.html)
+Box með lömum - Ónefndur nemandi: [Skoða í vafra](../files/ondsel/box_med_lomum.html), [hlaða niður Ondsel/FreeCAD skrá](../files/ondsel/box_med_lomum.FCStd)
