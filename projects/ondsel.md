@@ -237,5 +237,5 @@ Box með lömum - Ónefndur nemandi: [Skoða](../files/ondsel/box_med_lomum.html
 Test:  
 
 <iframe width="420" height="315"
-src="../files/ondsel/box_med_lomum.html">
+src="https://github.com/Fab-Lab-Island/FLI_Boot_Camp_2024/tree/main/files/ondsel/box_med_lomum.html">
 </iframe> 
