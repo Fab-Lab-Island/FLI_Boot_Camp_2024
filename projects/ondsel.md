@@ -17,7 +17,7 @@
 
 [Svavar Konráðsson](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/)
 
-*Allt sem þarf til að bjarga sér í CAD teikningu í Ondsel ES.*
+*Allt sem þú þarft til að bjarga þér í CAD teikningu í Ondsel ES.*
 
 Náið í Ondsel ES hér:
 [Windows](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES-2024.2.0.37191-Windows-x86_64-installer.exe), [Intel Mac](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES_2024.2.0.37191-macOS-intel-x86_64.dmg), [Apple Silicon](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES_2024.2.0.37191-macOS-apple-silicon-arm64.dmg), [Linux](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES_2024.2.0.37191-Linux-x86_64.AppImage).
@@ -27,7 +27,7 @@ Náið í Ondsel ES hér:
 ![Litmynd af teiknistofu](https://i.imgur.com/vLuzDHy.jpeg)
 ![Svarthvít mynd af teiknistofu](https://i.imgur.com/PcRILGZ.jpeg)*Sum okkar handgerðu tækniteikningar í skóla. Það er gaman að fá að prófa það, en þetta er ofboðslega tímafrekt. Myndir frá [imgur](https://imgur.com/gallery/big-paper-days-of-engineering-technical-drawings-architecture-etc-before-computers-printers-lNJf76s)*.
 
-CAD ([Computer-Aided Design](https://en.wikipedia.org/wiki/Computer-aided_design)) er tækniteikning sem er gerð í tölvu. Markmiðið var að gera nákvæmlega málsettar línuteikningar í hvaða skala sem er.
+CAD ([Computer-Aided Design](https://en.wikipedia.org/wiki/Computer-aided_design)) er tækniteikning sem er gerð í tölvu. Markmiðið er að gera nákvæmlega málsettar línuteikningar í hvaða skala sem er.
 
 ![Mesh vs B-Rep](https://wiki.freecad.org/images/1/1a/Mesh_vs_brep.jpg)*Mesh vs B-Rep í þrívídd er ekki ósvipað og raster vs vector í tvívídd. Mynd úr [FreeCAD Manual](https://wiki.freecad.org/Manual:Traditional_modeling,_the_CSG_way)*.
 
@@ -49,14 +49,14 @@ Og ég var það. Þessi forrit eru [frábær](https://files.svavar.cc/old_work/
 
 Þegar fyrsti tíminn í Fab Lab áfanganum var að hefjast í MÍ í janúar, þá sagði Fusion mér að leyfið mitt væri útrunnið. Það er vel hægt að finna út úr því, en ég var orðinn ansi leiður á að standa í leyfisveseni fyrir mig og nemendur mína, svo að ég skipti snarlega yfir í FreeCAD. Það tók nemendurna álíka langan tíma að ná í FreeCAD á allar tölvurnar og það tekur að fá Fusion leyfi. Og við Doddi gátum alveg lært á FreeCAD þegar hann kom aftur frá [Nordic Bootcamp](https://nordicfablabs.org/bootcamp-2024-finland/) og komst að því að ég væri búinn að skipta um CAD forrit í smiðjunni. 
 
-Að teikna í FreeCAD var svolítið stirt til að byrja með, en þau komust öll í gegnum eitt örstutt myndband frá Neil og eitt af Youtube myndböndunum hér fyrir neðan. Sum notuðu FreeCAD til að teikna lokaverkefnin sín. Í kennslukönnuninni sagði einn nemandinn "Ekki fokking Freecad." Ég skil. Það eru ýmsir hnökrar á forritinu (og kennararnir voru að læra á það á sama tíma og nemendurnir).
+Að teikna í FreeCAD var svolítið stirt til að byrja með, en menntaskólanemendurnir komust allir í gegnum eitt örstutt myndband frá Neil og eitt af Youtube myndböndunum hér fyrir neðan. Sum notuðu FreeCAD til að teikna lokaverkefnin sín. Í kennslukönnuninni sagði einn nemandinn "Ekki fokking Freecad." Ég skil. Það eru ýmsir hnökrar á forritinu (og kennararnir voru að læra á það á sama tíma og nemendurnir).
 
 Svo kom Ondsel, sem er þægilegri útgáfa af FreeCAD.
 
 ### Hvers vegna ekki Ondsel/FreeCAD?
 - Vinnuflæðið er [innblásið af CATIA](https://ondsel.com/blog/catia-suffers-from-the-same-problems/) og er aðeins öðruvísi en CAD forritin sem flestir eru vanir. 
-- Suma fídusa vantar. Ég vil geta fært skipanir upp og niður í trénu með músinni! Það er að vísu hægt að velja [initiate dragging]() eða hægrismella á fídusa og reyna að færa þá, en ég fæ oft villuboð þar sem mér finnst að færslan ætti að ganga upp.
-- Viðmótið getur verið svolítið stirt (ég átta mig ekki á hvernig á að nota Array transform í 2D skissu, ég nota 3D linear pattern í staðinn)
+- Suma fídusa vantar. Ég vil geta fært skipanir upp og niður í trénu með músinni! Það er að vísu hægt að velja [initiate dragging]() eða hægrismella á fídusa og velja Move object after other object, en ég fæ oft villuboð þar sem mér finnst að færslan ætti að ganga upp.
+- [Viðmótið getur verið svolítið stirt](https://www.reddit.com/r/cad/comments/rvesuy/is_freecad_good/) (ég átta mig ekki á hvernig á að nota Array transform í 2D skissu, ég nota 3D linear pattern í staðinn)
 - Það eru villur í forritinu [hér og þar](https://youtu.be/-kcSx4m_0EA?si=T0T6XX1-_iW0etyj).
 
 ## Hvers vegna Ondsel/FreeCAD?
@@ -65,8 +65,9 @@ Svo kom Ondsel, sem er þægilegri útgáfa af FreeCAD.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/udIBhVIy5MI?si=g7LZe4lDToAry7O2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>*[Graphic design is my passion](https://cdn.dribbble.com/users/58639/screenshots/3788063/media/dc42f0f17659e22bb63884a4318f2c05.jpg?resize=800x600&vertical=center).*
 
-- Mun öflugra teikniforrit en flestir gera sér grein fyrir, byggt á sama [góða grunni](https://en.wikipedia.org/wiki/Open_Cascade_Technology) og KiCAD. Hægt er að teikna (nánast) allt í Ondsel, vinna með mesh, útbúa toolpaths, gera burðarþolsgreiningar, gera smíðateikningar, forrita teikningarnar í Python og fleira.
-- Er að þróast mjög hratt
+- Mun öflugra teikniforrit en flestir gera sér grein fyrir, byggt á sama [góða grunni](https://en.wikipedia.org/wiki/Open_Cascade_Technology) og KiCAD. Hægt er að teikna (nánast) allt í Ondsel, vinna með mesh, útbúa toolpaths, gera burðarþolsgreiningar, gera smíðateikningar, gera teiknivinnu sjálfvirka með Python forriti og fleira.
+- Hægt að hanna [vörur sem eru settar á markað](https://blog.freecad.org/2024/04/12/forged-in-freecad-lumenpnp-an-open-source-pick-and-place-machine/) í forritinu
+- Er að þróast mjög hratt núna. Hversu hratt? Á rúmlega tuttugu árum hefur FreeCAD tekist að komast upp í útgáfu 0.21.2. Á síðasta ári fór verkefnið á flug og [útgáfa 1.0](https://blog.freecad.org/2024/05/15/upcoming-feature-freeze-and-ui-freeze-for-freecad-1-0/) verður líklega gefin út á þessu ári!
 - Frjáls hugbúnaður er hluti af menningu Fab Lab smiðja.
 - Frjáls hugbúnaður er frábær vegna þess að leyfið rennur ekki út. Þú hefur alltaf aðgang að forritinu og teikningunum þínum. 
 - Gestir þínir í Fab Lab þurfa ekki að búa til Fusion eða TinkerCAD reikning til að teikna einfaldan hlut og búa til. 
@@ -80,20 +81,24 @@ Svo kom Ondsel, sem er þægilegri útgáfa af FreeCAD.
 
 ### Hvers vegna Ondsel frekar en FreeCAD
 
-- Ondsel hjálpar manni að byrja teikninguna á réttan hátt ([opna Part Design workbench, búa til Body og síðan búa til Sketch](https://youtu.be/U2_x2RqJb7Q?si=dOPH_YwSSwkCY-nB))
+- Ondsel hjálpar manni að byrja teikninguna á [réttan hátt](https://youtu.be/U2_x2RqJb7Q?si=dOPH_YwSSwkCY-nB)
 - Þægilegri litir og skipulag
 - Stillt á Blender mús, sem er þægilegri en sú sem er default í FreeCAD (Að vísu getur verið þægilegra að hafa músina stillta á CAD þegar maður er að vinna í tvívíðri skissu)
 - Mun þægilegri málsetningar í 2D skissum
 - Búið að bæta við [midpoint constraint](https://youtube.com/shorts/1ZFCw8LydxA?si=zVfEt8pCvrdBNxmn), mjög mikilvægt
-- Construction geometry eru strikalínur, eins og þær eiga að vera
-- Nýja æliverkfærið í 3D
+- Hjálparlínur í 2D skissum (construction geometry) eru strikalínur, eins og þær eiga að vera
+- Nýja 3D mæliverkfærið
 - Ondsel assembly workbench (ég notaði hann [hér](https://fab.cba.mit.edu/classes/865.24/people/svavar/system/files/model-viewer/))
+- Workbench fyrir tölvustýrða fræsingu heitir Path í FreeCAD en CAM í Ondsel, sem er mun skiljanlegra
+- Ondsel er open source eins og FreeCAD og leggur áherslu á að koma fídusum úr Ondsel inn í FreeCAd
 
-Ég verð að segja að það er snjallt hjá Ondsel teyminu að tækla FreeCAD, því að grunnurinn er góður, það þarf aðallega að fínpússa viðmótið. Þetta er líklega rétti tíminn til að fara af stað, svo að Ondsel geti tekið fullan þátt í að leysa topological naming problem og að gefa út útgáfu 1.0 af FreeCAD. Og stóru CAD fyrirtækin eru ekki óendanlega langt á undan; það er nóg að gera eitthvað svipað og Inventor var fyrir 10-15 árum síðan.
+Ég verð að segja að það er snjallt hjá Ondsel teyminu að tækla FreeCAD, því að grunnurinn er góður, það þarf aðallega að fínpússa viðmótið. Margir hafa unnið í sínum workbench í sínu horni án þess að leggja vinnu í að samhæfa allt saman. "System integration" er jafnmikilvægt í hugbúnaði og það er í [vélbúnaði](https://fablabisafjordur.github.io/system-integration-tips/). 
+
+Núna er líklega rétti tíminn til að fara af stað með Ondsel, svo að það geti tekið fullan þátt í að leysa topological naming problem og að gefa út útgáfu 1.0 af FreeCAD. Og stóru CAD fyrirtækin eru ekki óendanlega langt á undan; það er nóg að búa til eitthvað svipað og Inventor var fyrir 10-15 árum síðan.
 
 ### Hvers vegna gæti verið gott að hinkra með að skipta yfir í Ondsel?
 
-- [Topological naming problem](https://youtu.be/6p2vqEEmWq4?si=2rqe8Ff-KkaQpWYM) er stærsta og versta villan. Þetta er vandi sem allur CAD hugbúnaður þarf að leysa og ég hef rekist á hann einstaka sinnum í mjög dýrum forritum. [Zheng Lei](https://github.com/realthunder) gerði fork (afrit) af FreeCAD kóðanum og [leysti vandamálið](https://forum.freecad.org/viewtopic.php?t=78797)! Nú vinnur Ondsel teymið hörðum höndum að því að koma lausninni inn í opinbera kóðann án þess að brjóta módel sem hafa verið gerð í eldri útgáfum af FreeCAD. Þess vegna mæli ég með að bíða eftir næstu útgáfu af Ondsel áður en forritið er tekið í almenna notkun í Fab Lab smiðjum.
+- [Topological naming problem](https://youtu.be/6p2vqEEmWq4?si=2rqe8Ff-KkaQpWYM) er stærsta og versta villan. Þetta er vandi sem allur CAD hugbúnaður þarf að leysa og ég hef rekist á hann einstaka sinnum í mjög dýrum forritum. [Zheng Lei](https://www.youtube.com/@leizheng3561/videos) (a.k.a. [realthunder](https://github.com/realthunder)) gerði fork (afrit) af FreeCAD kóðanum og [leysti vandamálið](https://forum.freecad.org/viewtopic.php?t=78797)! Nú vinnur Ondsel teymið hörðum höndum að því að koma lausninni inn í opinbera kóðann án þess að brjóta módel sem hafa verið gerð í eldri útgáfum af FreeCAD. Þess vegna mæli ég með að bíða eftir næstu útgáfu af Ondsel áður en forritið er tekið í almenna notkun í Fab Lab smiðjum.
 
 ## Sýnikennsla
 
