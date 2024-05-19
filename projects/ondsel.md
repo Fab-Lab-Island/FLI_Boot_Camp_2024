@@ -63,9 +63,9 @@ Svo kom Ondsel, sem er þægilegri útgáfa af FreeCAD.
 
 <div class="responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/udIBhVIy5MI?si=g7LZe4lDToAry7O2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>*[Graphic design is my passion](https://cdn.dribbble.com/users/58639/screenshots/3788063/media/dc42f0f17659e22bb63884a4318f2c05.jpg?resize=800x600&vertical=center).
+</div>*[Graphic design is my passion](https://cdn.dribbble.com/users/58639/screenshots/3788063/media/dc42f0f17659e22bb63884a4318f2c05.jpg?resize=800x600&vertical=center).*
 
-- [Mun öflugra teikniforrit](https://youtu.be/wj4wPcLNQmk?si=6_Dv3NPkdh2Y0dm0) en flestir gera sér grein fyrir, byggt á sama [góða grunni](https://en.wikipedia.org/wiki/Open_Cascade_Technology) og KiCAD. Hægt er að teikna (nánast) allt í Ondsel, vinna með mesh, útbúa toolpaths, gera burðarþolsgreiningar, gera smíðateikningar, forrita teikningarnar í Python og fleira.
+- Mun öflugra teikniforrit en flestir gera sér grein fyrir, byggt á sama [góða grunni](https://en.wikipedia.org/wiki/Open_Cascade_Technology) og KiCAD. Hægt er að teikna (nánast) allt í Ondsel, vinna með mesh, útbúa toolpaths, gera burðarþolsgreiningar, gera smíðateikningar, forrita teikningarnar í Python og fleira.
 - Er að þróast mjög hratt
 - Frjáls hugbúnaður er hluti af menningu Fab Lab smiðja.
 - Frjáls hugbúnaður er frábær vegna þess að leyfið rennur ekki út. Þú hefur alltaf aðgang að forritinu og teikningunum þínum. 
@@ -88,6 +88,8 @@ Svo kom Ondsel, sem er þægilegri útgáfa af FreeCAD.
 - Construction geometry eru strikalínur, eins og þær eiga að vera
 - Nýja æliverkfærið í 3D
 - Ondsel assembly workbench (ég notaði hann [hér](https://fab.cba.mit.edu/classes/865.24/people/svavar/system/files/model-viewer/))
+
+Ég verð að segja að það er snjallt hjá Ondsel teyminu að tækla FreeCAD, því að grunnurinn er góður, það þarf aðallega að fínpússa viðmótið. Þetta er líklega rétti tíminn til að fara af stað, svo að Ondsel geti tekið fullan þátt í að leysa topological naming problem og að gefa út útgáfu 1.0 af FreeCAD. Og stóru CAD fyrirtækin eru ekki óendanlega langt á undan; það er nóg að gera eitthvað svipað og Inventor var fyrir 10-15 árum síðan.
 
 ### Hvers vegna gæti verið gott að hinkra með að skipta yfir í Ondsel?
 
@@ -123,7 +125,7 @@ Ondsel hefur nokkrar sérviskur sem fá fólk til að gefast upp og fara aftur �
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wXfEf8D-JDk?si=OCvBg4y1FOpVksmv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>*Þetta gæti verið mikilvægasta myndbandið til að lifa af lengur en fimm mínútur í Ondsel.*
 
-- Þú *verður* að vera með rétt Body valið til þess að Ondsel leyfi þér að gera Pad, Pocket, Revolve, o.s.frv. En það er til leið til að [nota form úr öðru Body í skissu](https://youtu.be/ylAMGQ8HV0w?si=8nSflnThgODHTINf).
+- Þú *verður* að vera með rétt Body valið til þess að Ondsel leyfi þér að gera Pad, Pocket, Revolve, o.s.frv. En það er til leið til að [nota form úr öðru Body í skissu með Shape Binder](https://youtu.be/rfMlpxLulxY?si=h9_MquBqBqZeVfJK). Shape Binder er ekki til í öðrum CAD forritum því að þau leyfa manni vanalega að nota línur á einu Body í skissu í öðru Body. Þessi sérviska takmarkar ekki það sem maður getur teiknað í Ondsel en hún bætir við aukaskrefi.
 - Síðan er mikilvægt að vita að það er bara hægt að hafa einn prófíl í hverri skissu. Það er takmarkandi en líka góð venja í CAD teikningu. Og það er hægt að nota [master skissu](https://youtu.be/k6lMaQiIlKo?si=NBaXXGe8sX_AslgZ) til að stýra öllum hinum skissunum. 
 
 ### Góð ráð
@@ -147,6 +149,8 @@ Ondsel hefur nokkrar sérviskur sem fá fólk til að gefast upp og fara aftur �
 Gerðu fleiri einfaldar skissur frekar en eina flókna.
 
 Það er svo mikilvægt að klára að teikna áður en maður byrjar að smíða. Annars passa hlutir ekki saman. Ég segi þetta af biturri reynslu. Það  hefur þó alltaf verið hægt að redda hlutunum. En ekki hafa það eftir mér!
+
+Það er ekki hægt að nota útkomuna úr 3D transform (t.d. scale, pattern) í annað transform. Til þess þarf að nota [MultiTransform](https://youtu.be/apmOpkY6n0E?si=8nYOrOmQujFkix-R).
 
 Þegar maður nær tökum á að nota skorður (constraints), þá er hægt að skissa fljótt upp hugmyndir að mekanismum:
 
