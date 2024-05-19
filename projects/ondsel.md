@@ -1,3 +1,18 @@
+<style type="text/css">
+    .responsive {
+        width: 100%;
+        height: 0;
+        padding-bottom: 56.25%;
+        position: relative;
+    }
+    .responsive iframe {
+        position:absolute;
+        width: 100%;
+        height: 100%;
+    }
+</style>
+
+
 # Ondsel
 
 [Svavar Konráðsson](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/)
@@ -38,33 +53,19 @@ Að teikna í FreeCAD var svolítið stirt til að byrja með, en þau komust ö
 
 Svo kom Ondsel, sem er þægilegri útgáfa af FreeCAD.
 
-### Hvers vegna ekki Ondsel?
+### Hvers vegna ekki Ondsel/FreeCAD?
 - Vinnuflæðið er [innblásið af CATIA](https://ondsel.com/blog/catia-suffers-from-the-same-problems/) og er aðeins öðruvísi en CAD forritin sem flestir eru vanir. 
-- Suma fídusa vantar. Ég vil geta fært skipanir upp og niður í trénu með músinni! Það er að vísu hægt að hægrismella á fídusa og reyna að færa þá, en ég fæ oft villuboð þar sem mér finnst að færslan ætti að ganga upp.
+- Suma fídusa vantar. Ég vil geta fært skipanir upp og niður í trénu með músinni! Það er að vísu hægt að velja [initiate dragging]() eða hægrismella á fídusa og reyna að færa þá, en ég fæ oft villuboð þar sem mér finnst að færslan ætti að ganga upp.
 - Viðmótið getur verið svolítið stirt (ég átta mig ekki á hvernig á að nota Array transform í 2D skissu, ég nota 3D linear pattern í staðinn)
-- Það eru villur í forritinu hér og þar.
+- Það eru villur í forritinu [hér og þar](https://youtu.be/-kcSx4m_0EA?si=T0T6XX1-_iW0etyj).
 
-## Hvers vegna Ondsel?
-
-<style type="text/css">
-    .responsive {
-        width: 100%;
-        height: 0;
-        padding-bottom: 56.25%;
-        position: relative;
-    }
-    .responsive iframe {
-        position:absolute;
-        width: 100%;
-        height: 100%;
-    }
-</style>
+## Hvers vegna Ondsel/FreeCAD?
 
 <div class="responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/udIBhVIy5MI?si=g7LZe4lDToAry7O2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+</div>*[Graphic design is my passion](https://cdn.dribbble.com/users/58639/screenshots/3788063/media/dc42f0f17659e22bb63884a4318f2c05.jpg?resize=800x600&vertical=center).
 
-- Mun öflugra teikniforrit en flestir gera sér grein fyrir, byggt á sama [góða grunni](https://en.wikipedia.org/wiki/Open_Cascade_Technology) og KiCAD. Hægt er að teikna (nánast) allt í Ondsel, vinna með mesh, útbúa toolpaths, gera burðarþolsgreiningar, gera smíðateikningar, forrita teikningarnar í Python og fleira.
+- [Mun öflugra teikniforrit](https://youtu.be/wj4wPcLNQmk?si=6_Dv3NPkdh2Y0dm0) en flestir gera sér grein fyrir, byggt á sama [góða grunni](https://en.wikipedia.org/wiki/Open_Cascade_Technology) og KiCAD. Hægt er að teikna (nánast) allt í Ondsel, vinna með mesh, útbúa toolpaths, gera burðarþolsgreiningar, gera smíðateikningar, forrita teikningarnar í Python og fleira.
 - Er að þróast mjög hratt
 - Frjáls hugbúnaður er hluti af menningu Fab Lab smiðja.
 - Frjáls hugbúnaður er frábær vegna þess að leyfið rennur ekki út. Þú hefur alltaf aðgang að forritinu og teikningunum þínum. 
@@ -84,8 +85,8 @@ Svo kom Ondsel, sem er þægilegri útgáfa af FreeCAD.
 - Stillt á Blender mús, sem er þægilegri en sú sem er default í FreeCAD (Að vísu getur verið þægilegra að hafa músina stillta á CAD þegar maður er að vinna í tvívíðri skissu)
 - Mun þægilegri málsetningar í 2D skissum
 - Búið að bæta við [midpoint constraint](https://youtube.com/shorts/1ZFCw8LydxA?si=zVfEt8pCvrdBNxmn), mjög mikilvægt
-- Construction geometry er strikalínur, eins og þær eiga að vera
-- Mæliverkfærið í 3D
+- Construction geometry eru strikalínur, eins og þær eiga að vera
+- Nýja æliverkfærið í 3D
 - Ondsel assembly workbench (ég notaði hann [hér](https://fab.cba.mit.edu/classes/865.24/people/svavar/system/files/model-viewer/))
 
 ### Hvers vegna gæti verið gott að hinkra með að skipta yfir í Ondsel?
@@ -129,21 +130,21 @@ Ondsel hefur nokkrar sérviskur sem fá fólk til að gefast upp og fara aftur �
 
 Ég mæli með að vera alltaf í Part Design workbench, búa til Body og búa svo til Sketch.
 
-Þegar ég opna skissu finnst mér þægilegast að [slökkva á grid](../img/ondsel/grid.mp4).
-
-Gerðu fleiri einfaldar skissur frekar en eina flókna.
-
 Það er góð venja að setja málsetningar og skorður þangað til allar línur í skissunni verða grænar. Þá er skissan "fully constrained" og módelið verður mun stöðugra. Hvítar línur eru "not fully constrained", grænar línur eru "fully constrained" og bláar strikalínur eru ["construction geometry"](https://youtu.be/6PeJ_zJt15A?si=zscvNunVm0c3siMN), þ.e. hjálparlínur sem verða ekki notaðar í að búa til þrívíðan hlut úr skissunni. Það má hægrismella á línur til að breyta þeim í hjálparlínur.
 
 Ýttu á bilstöngina til að fela og sýna hluti.
 
 Þegar þú býrð til skissu eða gerir aðra skipun þá birtist hún í tímaröð í trénu (Tree view) vinstra megin. Þú getur tvísmellt á skipunina til að breyta henni eftir á. Stundum birtast torkennileg tákn á skipununum. Skoðaðu [Tree view greinina](https://wiki.freecad.org/Tree_view) til að sjá hvað þessi "overlay icons" þýða.
 
+Þegar ég opna skissu finnst mér þægilegast að [slökkva á grid](../img/ondsel/grid.mp4).
+
 Þegar þú velur hluti í trénu vinstra megin (Feature tree), skoðaðu þá Property View sem birtist hægra megin. Þar geturðu breytt staðsetningu hluta og líka breytt öllum málsetningum án þess að opna skipunina eða skissuna:
 
 ![Property View](../img/ondsel/property_view.jpg)*Þegar maður lærir aðeins á Property View hérna hægra megin þá verður maður mun sneggri að stilla af stærðir á hlutum. Hér er ég búinn að velja Pocket001 í trénu vinstra megin og þá birtast allar helstu tölur um þá skipun hægra megin.*
 
 Ég mæli með að [hækka upplausnina á STL export](https://youtu.be/v6FgTIpsCKo?si=Pyry4s0iSeSoPA7o) áður en þið þrívíddarprentið.
+
+Gerðu fleiri einfaldar skissur frekar en eina flókna.
 
 Það er svo mikilvægt að klára að teikna áður en maður byrjar að smíða. Annars passa hlutir ekki saman. Ég segi þetta af biturri reynslu. Það  hefur þó alltaf verið hægt að redda hlutunum. En ekki hafa það eftir mér!
 
@@ -174,11 +175,11 @@ Veljið ykkur eitt af eftirfarandi myndböndum til að fara eftir í Ondsel. Tak
 - [fillet chamfer](http://academy.cba.mit.edu/classes/computer_design/filletchamfer.mp4)
 - [offset](http://academy.cba.mit.edu/classes/computer_design/offset.mp4)
 - [links hierarchy](http://academy.cba.mit.edu/classes/computer_design/links.mp4)
-- [construction](http://academy.cba.mit.edu/classes/computer_design/construction.mp4) - hjálparlínur (construction lines) sjást betur í Ondsel
+- [construction](http://academy.cba.mit.edu/classes/computer_design/construction.mp4) - Hjálparlínur (construction lines) sjást betur í Ondsel
 - [projection, section](http://academy.cba.mit.edu/classes/computer_design/section.mp4)
 - [alignment](http://academy.cba.mit.edu/classes/computer_design/alignment.mp4)
 - [assemblies](http://academy.cba.mit.edu/classes/computer_design/assemblies.mp4) - Assembly3 workbench í FreeCAD (Ondsel er þægilegra)
-- [measurement](http://academy.cba.mit.edu/classes/computer_design/measurement.mp4) - hvernig maður mælir í FreeCAD (Mun betra í Ondsel)
+- [measurement](http://academy.cba.mit.edu/classes/computer_design/measurement.mp4) - Hvernig maður mælir í FreeCAD (Mun betra í Ondsel)
 - [folding](http://academy.cba.mit.edu/classes/computer_design/fold.mp4)
 - [parametric](http://academy.cba.mit.edu/classes/computer_design/parametric.mp4) - Ég notaði þesssa aðferð [hér](https://fab.cba.mit.edu/classes/865.24/people/svavar/components/images/cable_carrier/parametric_cable_carrier.mp4)
 - [programming](http://academy.cba.mit.edu/classes/computer_design/console.mp4)
@@ -189,7 +190,9 @@ Veljið ykkur eitt af eftirfarandi myndböndum til að fara eftir í Ondsel. Tak
 
 ### Youtube myndbönd
 
-Þegar fyrirlestrinum lýkur skuluð þið velja eitt af eftirfarandi myndböndum til að fara eftir. Klárið fyrir lok bootcampsins og setjið módelið í [repoið](https://github.com/Fab-Lab-Island/FLI_Boot_Camp_2024). Setjið hlekk á þessa síðu, sem gerir manni kleift að ná í módelið. Ég kíki aftur á ykkur í myndsímtali og get hjálpað ykkur í gegnum screen share i Discord. ATH: Ondsel er svo nýtt að það er betra að skrifa FreeCAD í staðinn þegar þið eruð að gúgla hluti.
+Þegar fyrirlestrinum lýkur skuluð þið velja eitt af eftirfarandi myndböndum til að fara eftir. Klárið fyrir lok bootcampsins og setjið módelið neðst á þessa síðu. 
+
+ATH: Ondsel er svo nýtt að það er betra að skrifa FreeCAD í staðinn þegar þið eruð að gúgla hluti.
 
 Teiknaðu LEGO kubb (ég mæli með þessu myndbandi, það kennir að gera pattern og að [taka þrívíða geómetríu inn í tvívíða skissu](https://youtu.be/x7_KgeLOcKY?si=4JxT2ygyOHgnEzZz)):
 
