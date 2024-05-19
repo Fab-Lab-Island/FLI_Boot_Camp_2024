@@ -55,7 +55,7 @@ Svo kom Ondsel, sem er þægilegri útgáfa af FreeCAD.
 
 ### Hvers vegna ekki Ondsel/FreeCAD?
 - Vinnuflæðið er [innblásið af CATIA](https://ondsel.com/blog/catia-suffers-from-the-same-problems/) og er aðeins öðruvísi en CAD forritin sem flestir eru vanir. 
-- Suma fídusa vantar. Ég vil geta fært skipanir upp og niður í trénu með músinni! Það er að vísu hægt að velja [initiate dragging]() eða hægrismella á fídusa og velja Move object after other object, en ég fæ oft villuboð þar sem mér finnst að færslan ætti að ganga upp.
+- Suma fídusa vantar. Ég vil geta fært skipanir upp og niður í trénu með músinni! Það er að vísu hægt að velja [initiate dragging](https://wiki.freecad.org/Std_TreeDrag) eða hægrismella á fídusa og velja Move object after other object, en ég fæ oft villuboð þar sem mér finnst að færslan ætti að ganga upp.
 - [Viðmótið getur verið svolítið stirt](https://www.reddit.com/r/cad/comments/rvesuy/is_freecad_good/) (ég átta mig ekki á hvernig á að nota Array transform í 2D skissu, ég nota 3D linear pattern í staðinn)
 - Það eru villur í forritinu [hér og þar](https://youtu.be/-kcSx4m_0EA?si=T0T6XX1-_iW0etyj).
 
@@ -92,7 +92,7 @@ Svo kom Ondsel, sem er þægilegri útgáfa af FreeCAD.
 - Workbench fyrir tölvustýrða fræsingu heitir Path í FreeCAD en CAM í Ondsel, sem er mun skiljanlegra
 - Ondsel er open source eins og FreeCAD og leggur áherslu á að koma fídusum úr Ondsel inn í FreeCAd
 
-Ég verð að segja að það er snjallt hjá Ondsel teyminu að tækla FreeCAD, því að grunnurinn er góður, það þarf aðallega að fínpússa viðmótið. Margir hafa unnið í sínum workbench í sínu horni án þess að leggja vinnu í að samhæfa allt saman. "System integration" er jafnmikilvægt í hugbúnaði og það er í [vélbúnaði](https://fablabisafjordur.github.io/system-integration-tips/). 
+Ég verð að segja að það er snjallt hjá Ondsel teyminu að tækla FreeCAD, því að grunnurinn er góður, það þarf aðallega að fínpússa viðmótið. Hver vinnur í sínum workbench í sínu horni án þess að leggja vinnu í að samhæfa allt saman. "System integration" er jafnmikilvægt í hugbúnaði og það er í [vélbúnaði](https://fablabisafjordur.github.io/system-integration-tips/). Það er það sem Ondsel gerir.
 
 Núna er líklega rétti tíminn til að fara af stað með Ondsel, svo að það geti tekið fullan þátt í að leysa topological naming problem og að gefa út útgáfu 1.0 af FreeCAD. Og stóru CAD fyrirtækin eru ekki óendanlega langt á undan; það er nóg að búa til eitthvað svipað og Inventor var fyrir 10-15 árum síðan.
 
@@ -160,7 +160,7 @@ Gerðu fleiri einfaldar skissur frekar en eina flókna.
 Þegar maður nær tökum á að nota skorður (constraints), þá er hægt að skissa fljótt upp hugmyndir að mekanismum:
 
 
-<video width="100%" autoplay="true" loop="true" >
+<video width="100%" autoplay loop>
     <source src="https://fab.cba.mit.edu/classes/865.24/people/svavar/system/images/tool_rack_2d_sketch.mp4" type="video/mp4">
 </video>
 
