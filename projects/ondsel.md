@@ -160,8 +160,9 @@ Gerðu fleiri einfaldar skissur frekar en eina flókna.
 Þegar maður nær tökum á að nota skorður (constraints), þá er hægt að skissa fljótt upp hugmyndir að mekanismum:
 
 
-<video width="100%" autoplay loop>
+<video width="100%" autoplay muted loop>
     <source src="https://fab.cba.mit.edu/classes/865.24/people/svavar/system/images/tool_rack_2d_sketch.mp4" type="video/mp4">
+    Your browser does not support the video tag.
 </video>
 
 ## Æfingar
