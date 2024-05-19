@@ -14,7 +14,7 @@ Hér verður skjalfest öll verkefni, kynningar og heimsóknir frá vinnustofuni
 
 [Harmonic drive](HarmonicDrive.md)
 
-[Ondsel/FreeCAD](ondsel.md)
+[Ondsel](ondsel.md)
 
 
 ## heimsóknir
