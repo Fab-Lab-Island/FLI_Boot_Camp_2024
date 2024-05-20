@@ -123,7 +123,7 @@ Til að staðsetja skissurnar í þrívíðu rými er gott að búa fyrst til [n
 
 - Í öllum CAD forritum þarf að passa upp á að [tvívíða skissan sé lokuð](https://youtu.be/w7_jCxxN1OY?si=ixnz_cEuqz7DVGvh) áður en henni er breytt í 3D hlut. Þ.e. að línur séu tengdar saman á endapunktum og skarist ekki. Þetta er oftast vandamálið þegar það er virkar ekki að búa til þrívíðan hlut úr tvívíðri skissu. 
 
-Ondsel hefur nokkrar sérviskur sem fá fólk til að gefast upp og fara aftur í Fusion. En ef þið vitið af þeim þá getið þið klórað ykkur fram úr hlutunum:
+Ondsel hefur nokkrar sérviskur sem fá fólk til að gefast fljótt upp og fara aftur í Fusion. En ef þið vitið af þeim þá getið þið klórað ykkur fram úr hlutunum:
 
 <div class="responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wXfEf8D-JDk?si=OCvBg4y1FOpVksmv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -142,7 +142,7 @@ Ondsel hefur nokkrar sérviskur sem fá fólk til að gefast upp og fara aftur �
 
 En meginreglan sem ég nota ómeðvitað er að reyna að stilla sem mest af með því að nota skorður fyrst, og síðan bæta við málsetningum þar sem það er nauðsynlegt. Annars getur orðið svolítið kraðak af málsetningum í skissunni. Hér nota ég bara fimm málsetningar til að stýra stærð og staðsetningu allra línanna (hvernig gæti ég fækkað málsetningunum enn frekar?):
 
-[[Parametrískt púsl](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/images/week03/kit_CAD_sketch.jpg)](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/week03.html)*Þegar skissan er sett upp svona, þá er hægt að breyta henni allri með því að breyta einni málsetningu (parameter). Svona virkar parametrísk hönnun.
+[![Parametrískt púsl](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/images/week03/kit_CAD_sketch.jpg)](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/week03.html)*Þegar skissan er sett upp svona, þá er hægt að breyta henni allri með því að breyta einni málsetningu (parameter). Svona virkar parametrísk hönnun.
 
 Ýttu á bilstöngina til að fela og sýna hluti.
 
