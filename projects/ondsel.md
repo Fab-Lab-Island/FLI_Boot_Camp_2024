@@ -24,8 +24,7 @@ Náið í Ondsel ES hér:
 
 ## Hvað er CAD?
 
-![Litmynd af teiknistofu](https://i.imgur.com/vLuzDHy.jpeg)
-![Svarthvít mynd af teiknistofu](https://i.imgur.com/PcRILGZ.jpeg)*Sum okkar handgerðu tækniteikningar í skóla. Það er gaman að fá að prófa það, en þetta er ofboðslega tímafrekt. Myndir frá [imgur](https://imgur.com/gallery/big-paper-days-of-engineering-technical-drawings-architecture-etc-before-computers-printers-lNJf76s)*.
+![Litmynd af teiknistofu](https://i.imgur.com/vLuzDHy.jpeg)*Sum okkar handgerðu tækniteikningar í skóla. Það er gaman að fá að prófa það, en þetta er ofboðslega tímafrekt. Myndir frá [imgur](https://imgur.com/gallery/big-paper-days-of-engineering-technical-drawings-architecture-etc-before-computers-printers-lNJf76s)*.
 
 CAD ([Computer-Aided Design](https://en.wikipedia.org/wiki/Computer-aided_design)) er tækniteikning sem er gerð í tölvu. Markmiðið er að gera nákvæmlega málsettar línuteikningar í hvaða skala sem er.
 
@@ -160,10 +159,10 @@ Gerðu fleiri einfaldar skissur frekar en eina flókna.
 Þegar maður nær tökum á að nota skorður (constraints), þá er hægt að skissa fljótt upp hugmyndir að mekanismum:
 
 
-<video width="100%" autoplay muted loop>
+<a href="https://fab.cba.mit.edu/classes/865.24/people/svavar/system/images/tool_rack_2d_sketch.mp4"><video width="100%" autoplay muted loop>
     <source src="https://fab.cba.mit.edu/classes/865.24/people/svavar/system/images/tool_rack_2d_sketch.mp4" type="video/mp4">
     Your browser does not support the video tag.
-</video>
+</video></a>
 
 ## Æfingar
 
