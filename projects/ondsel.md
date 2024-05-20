@@ -24,7 +24,7 @@ Náið í Ondsel ES hér:
 
 ## Hvað er CAD?
 
-![Litmynd af teiknistofu](https://i.imgur.com/vLuzDHy.jpeg)*Sum okkar handgerðu tækniteikningar í skóla. Það er gaman að fá að prófa það, en þetta er ofboðslega tímafrekt. Myndir frá [imgur](https://imgur.com/gallery/big-paper-days-of-engineering-technical-drawings-architecture-etc-before-computers-printers-lNJf76s)*.
+![Litmynd af teiknistofu](https://i.imgur.com/vLuzDHy.jpeg)*Sum okkar handgerðu tækniteikningar í skóla. Það er gaman að fá að prófa það, en þetta er ofboðslega tímafrekt. Mynd frá [imgur](https://imgur.com/gallery/big-paper-days-of-engineering-technical-drawings-architecture-etc-before-computers-printers-lNJf76s)*.
 
 CAD ([Computer-Aided Design](https://en.wikipedia.org/wiki/Computer-aided_design)) er tækniteikning sem er gerð í tölvu. Markmiðið er að gera nákvæmlega málsettar línuteikningar í hvaða skala sem er.
 
@@ -113,7 +113,7 @@ Til þess að geta bjargað sér í CAD teikningu er í raun nóg að læra að 
 
 <div class="responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gbNg3mzm84s?si=QRbz4QEDg4He6aLf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+</div>*Þið getið líkað notað [þetta skjal um Sketcher](../files/ondsel/sketcher.pdf) sem Doddi deildi með mér.*
 
 Síðan notar maður Pad, Pocket, Revolve, Loft eða Sweep til að búa til þrívíðan hlut úr skissunni.
 
@@ -299,7 +299,7 @@ Flóknari form:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/19klYkKqvFo?si=OljXwl5FSGg3ps3u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 </div>
 
-Burðarþolsgreining (í myndbandslýsingunni er hlekkur á rangt módel, hér er [hið rétta](https://grabcad.com/library/freecad-practice-part-1))
+Burðarþolsgreining (ég notaði svoleiðis [hér](https://files.svavar.cc/old_work/418076_10150614944053042_617340147_n.jpg)) Í myndbandslýsingunni er hlekkur á rangt módel, hér er [hið rétta](https://grabcad.com/library/freecad-practice-part-1):
 
 <div class="responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FvAHacnERr0?si=pA802BOIqSYjFPWH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
