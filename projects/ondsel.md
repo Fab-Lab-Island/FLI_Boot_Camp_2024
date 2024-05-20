@@ -138,6 +138,12 @@ Ondsel hefur nokkrar sérviskur sem fá fólk til að gefast upp og fara aftur �
 
 Það er góð venja að setja málsetningar og skorður þangað til allar línur í skissunni verða grænar. Þá er skissan "fully constrained" og módelið verður mun stöðugra. Hvítar línur eru "not fully constrained", grænar línur eru "fully constrained" og bláar strikalínur eru ["construction geometry"](https://youtu.be/6PeJ_zJt15A?si=zscvNunVm0c3siMN), þ.e. hjálparlínur sem verða ekki notaðar í að búa til þrívíðan hlut úr skissunni. Það má hægrismella á línur til að breyta þeim í hjálparlínur.
 
+Það er vont ef stærðir eru óskilgreindar, þá er erfiðara að breyta þeim á kerfisbundinn hátt. Jafnvel þótt ég sé að teikna eitthvað þar sem nákvæm stærð skiptir ekki máli, þá stilli ég það eftir auganu, og geri síðan málsetningu; fæ upp annski 47,345 mm og slæ inn næstu heilu tölu, kannski 47 eða 50 mm. Þá er skissan vel skilgreind og ég get breytt þessari tölu ef ég loka skissunni og sé að það þarf að breyta stærðinni aðeins. 
+
+En meginreglan sem ég nota ómeðvitað er að reyna að stilla sem mest af með því að nota skorður fyrst, og síðan bæta við málsetningum þar sem það er nauðsynlegt. Annars getur orðið svolítið kraðak af málsetningum í skissunni. Hér nota ég bara fimm málsetningar til að stýra stærð og staðsetningu allra línanna (hvernig gæti ég fækkað málsetningunum enn frekar?):
+
+[[Parametrískt púsl](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/images/week03/kit_CAD_sketch.jpg)](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/week03.html)*Þegar skissan er sett upp svona, þá er hægt að breyta henni allri með því að breyta einni málsetningu (parameter). Svona virkar parametrísk hönnun.
+
 Ýttu á bilstöngina til að fela og sýna hluti.
 
 Þegar þú býrð til skissu eða gerir aðra skipun þá birtist hún í tímaröð í trénu (Tree view) vinstra megin. Þú getur tvísmellt á skipunina til að breyta henni eftir á. Stundum birtast torkennileg tákn á skipununum. Skoðaðu [Tree view greinina](https://wiki.freecad.org/Tree_view) til að sjá hvað þessi "overlay icons" þýða.
