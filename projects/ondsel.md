@@ -176,6 +176,8 @@ Gerðu fleiri einfaldar skissur frekar en eina flókna.
 
 ## Æfingar
 
+![alt text](../img/ondsel/resons_freecad.png)
+
 ### Myndbönd úr Fab Academy
 
 Veljið ykkur eitt af eftirfarandi myndböndum til að fara eftir í Ondsel. Takið eftir í hvaða workbench þið þurfið að vera til að fá réttu verkfærin.
@@ -208,6 +210,8 @@ Veljið ykkur eitt af eftirfarandi myndböndum til að fara eftir í Ondsel. Tak
 - [animation](http://academy.cba.mit.edu/classes/computer_design/animation.mp4)
 
 ### Youtube myndbönd
+
+![alt text](../img/ondsel/cadPeople.jpg)
 
 Þegar fyrirlestrinum lýkur skuluð þið velja eitt af eftirfarandi myndböndum til að fara eftir. Klárið fyrir lok bootcampsins og setjið módelið neðst á þessa síðu. 
 
