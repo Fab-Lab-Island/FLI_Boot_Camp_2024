@@ -12,7 +12,7 @@ Hér verður skjalfest öll verkefni, kynningar og heimsóknir frá vinnustofuni
 
 [GitHub]() Árni
 
-[Rafnám kennslu kit]() ?Róbert?
+[Rafnám kennslu kit]() Stefán
 
 ## verkefni / vinnustofur
 
