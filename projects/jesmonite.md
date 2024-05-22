@@ -4,4 +4,4 @@ Afhverju ætti ég að nota það í smiðjunni minni?
 
 Þessum spurningum verður svarað í vinnusmiðjunni. 
 
-[Hér er hlekkur á kynninguna](./Jesmonite.pdf)
+[Hér er hlekkur á kynninguna](/files/jesmonite/Jesmonite.pdf)
