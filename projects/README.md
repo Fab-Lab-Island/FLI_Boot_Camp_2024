@@ -10,25 +10,33 @@ Hér verður skjalfest öll verkefni, kynningar og heimsóknir frá vinnustofuni
 
 [Hass Málmfræsikynning](haas_malmfraes.md) Borgþór Helgason
 
-## verkefni
+## verkefni / vinnustofur
 
-[FMCU](fmcu.md)
+[FMCU](fmcu.md) Doddi / Árni
 
-[CircuitPython](circuitpython.md)
+[CircuitPython](circuitpython.md) Árni
 
-[Harmonic drive](HarmonicDrive.md)
+[Harmonic drive](HarmonicDrive.md) Doddi / Svavar
 
-[Ondsel](ondsel.md)
+[Ondsel](ondsel.md) Svavar Konráðsson
 
-[Jesmonite](jesmonite.md)
+[Jesmonite](jesmonite.md) Karítas
+
+[Ondsle CAM/CNC]() Jón Þór / Doddi
+
+## prógröm *vantar betra íslenskt nafn*
 
 [Fab Academy á Íslandi](fabacademy.md)
+
+[]
 
 
 ## heimsóknir / ferðir
 
 [Hópefli ferð]()
 
-[Verkstæði Magga Hermanns](https://www.tubes.is/category/frettir/a-verkstaedisbordinu/)
+[Verkstæði Magga Hermanns](https://www.tubes.is/category/frettir/a-verkstaedisbordinu/) Doddi / Árni
 
-## hliðar verkefni
+## hliðar verkefni / annað
+
+[Nedis hack] ()
