@@ -142,7 +142,7 @@ Ondsel hefur nokkrar sérviskur sem fá fólk til að gefast fljótt upp og fara
 
 En meginreglan sem ég nota ómeðvitað er að reyna að stilla sem mest af með því að nota skorður fyrst, og síðan bæta við málsetningum þar sem það er nauðsynlegt. Annars getur orðið svolítið kraðak af málsetningum í skissunni. Hér nota ég bara fimm málsetningar til að stýra stærð og staðsetningu allra línanna (hvernig gæti ég fækkað málsetningunum enn frekar?):
 
-[![Parametrískt púsl](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/images/week03/kit_CAD_sketch.jpg)](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/week03.html)*Þegar skissan er sett upp svona, þá er hægt að breyta henni allri með því að breyta einni málsetningu (parameter). Svona virkar parametrísk hönnun.
+[![Parametrískt púsl](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/images/week03/kit_CAD_sketch.jpg)](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/week03.html)*Þegar skissan er sett upp svona, þá er hægt að breyta henni allri með því að breyta einni málsetningu (parameter). Svona virkar parametrísk hönnun. Og þar sem hluturinn er samhverfur bæði á X og Y ás, þá gæti ég teiknað bara fjórðung af honum og svo speglað honum yfir X og Y ás. Í þessu tilviki notaði ég spegilskorður í skissunni og notaði bláu 45° hjálparlínurnar sem spegillínur.*
 
 Ýttu á bilstöngina til að fela og sýna hluti.
 
@@ -152,7 +152,7 @@ En meginreglan sem ég nota ómeðvitað er að reyna að stilla sem mest af me�
 
 Þegar þú velur hluti í trénu vinstra megin (Feature tree), skoðaðu þá Property View sem birtist hægra megin. Þar geturðu breytt staðsetningu hluta og líka breytt öllum málsetningum án þess að opna skipunina eða skissuna:
 
-![Property View](../img/ondsel/property_view.jpg)*Þegar maður lærir aðeins á Property View hérna hægra megin þá verður maður mun sneggri að stilla af stærðir á hlutum. Hér er ég búinn að velja Pocket001 í trénu vinstra megin og þá birtast allar helstu tölur um þá skipun hægra megin.*
+ [![Property View](../img/ondsel/property_view.jpg)](https://fab.cba.mit.edu/classes/865.24/people/svavar/system/vacuum_gripper/)*Þegar maður lærir aðeins á Property View hérna hægra megin þá verður maður mun sneggri að stilla af stærðir á hlutum. Hér er ég búinn að velja Pocket001 í trénu vinstra megin og þá birtast allar helstu tölur um þá skipun hægra megin.*
 
 Ég mæli með að [hækka upplausnina á STL export](https://youtu.be/v6FgTIpsCKo?si=Pyry4s0iSeSoPA7o) áður en þið þrívíddarprentið.
 
@@ -305,7 +305,7 @@ Flóknari form:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/19klYkKqvFo?si=OljXwl5FSGg3ps3u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 </div>
 
-Burðarþolsgreining (ég notaði svoleiðis [hér](https://files.svavar.cc/old_work/418076_10150614944053042_617340147_n.jpg)) Í myndbandslýsingunni er hlekkur á rangt módel, hér er [hið rétta](https://grabcad.com/library/freecad-practice-part-1):
+Burðarþolsgreining. Í myndbandslýsingunni er hlekkur á rangt módel, hér er [hið rétta](https://grabcad.com/library/freecad-practice-part-1):
 
 <div class="responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FvAHacnERr0?si=pA802BOIqSYjFPWH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
