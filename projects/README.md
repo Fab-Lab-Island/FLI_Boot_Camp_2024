@@ -6,7 +6,7 @@ Hér verður skjalfest öll verkefni, kynningar og heimsóknir frá vinnustofuni
 
 ## Kynningar
 
-[Inkscape yfirferð](Inkscape_yfirferð.md) Ágústa
+[Inkscape Yfirirferð](inscape_yfirferd.md) Ágústa Ragnarsdóttir
 
 ## verkefni
 
