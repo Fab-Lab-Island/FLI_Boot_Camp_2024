@@ -12,7 +12,9 @@ Hér verður skjalfest öll verkefni, kynningar og heimsóknir frá vinnustofuni
 
 [GitHub]() Árni
 
-[Rafnám kennslu kit]() Stefán
+[Rafnám kennslu kit]() Stefán Birnir Sverrisson
+
+[Kynningarmyndband]() Stefán pÉtur
 
 ## verkefni / vinnustofur
 
@@ -38,6 +40,8 @@ Hér verður skjalfest öll verkefni, kynningar og heimsóknir frá vinnustofuni
 ## heimsóknir / ferðir
 
 [Hópefli ferð]()
+
+[Fyrirtækjaheimsókn]()
 
 [Verkstæði Magga Hermanns](https://www.tubes.is/category/frettir/a-verkstaedisbordinu/) Doddi / Árni
 
