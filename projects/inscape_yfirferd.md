@@ -1,4 +1,4 @@
-# Inkscape þyfirferð
+# Inkscape yfirferð
 
 ![alt text](../img/inkscape/forsida.jpg)
 
