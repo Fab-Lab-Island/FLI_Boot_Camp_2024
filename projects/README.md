@@ -24,6 +24,8 @@ Hér verður skjalfest öll verkefni, kynningar og heimsóknir frá vinnustofuni
 
 [Ondsle CAM/CNC]() Jón Þór / Doddi
 
+[Machine making]() Þóra / Andri
+
 ## prógröm *vantar betra íslenskt nafn*
 
 [Fab Academy á Íslandi](fabacademy.md)
