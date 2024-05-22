@@ -1,4 +1,4 @@
-# Hass málmfræsari og tölvutríðar málmvinsluvélar
+# Haas málmfræsari og tölvutríðar málmvinsluvélar
 
 *Borgþór Helgason Kennari: Málmiðn, fagstjóri málmiðngreina*
 
