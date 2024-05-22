@@ -10,6 +10,8 @@ Hér verður skjalfest öll verkefni, kynningar og heimsóknir frá vinnustofuni
 
 [Hass Málmfræsikynning](haas_malmfraes.md) Borgþór Helgason
 
+[GitHub]() Árni
+
 ## verkefni / vinnustofur
 
 [FMCU](fmcu.md) Doddi / Árni
