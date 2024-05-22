@@ -8,6 +8,8 @@ Hér verður skjalfest öll verkefni, kynningar og heimsóknir frá vinnustofuni
 
 [Inkscape Yfirirferð](inscape_yfirferd.md) Ágústa Ragnarsdóttir
 
+[Hass Málmfræsikynning](haas_malmfraes.md) Borgþór Helgason
+
 ## verkefni
 
 [FMCU](fmcu.md)
