@@ -25,7 +25,9 @@ Hér verður skjalfest öll verkefni, kynningar og heimsóknir frá vinnustofuni
 [Fab Academy á Íslandi](fabacademy.md)
 
 
-## heimsóknir
+## heimsóknir / ferðir
+
+[Hópefli ferð]()
 
 [Verkstæði Magga Hermanns](https://www.tubes.is/category/frettir/a-verkstaedisbordinu/)
 
