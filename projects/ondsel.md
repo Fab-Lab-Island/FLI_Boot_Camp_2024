@@ -89,7 +89,7 @@ Svo kom Ondsel, sem er þægilegri útgáfa af FreeCAD.
 - Nýja 3D mæliverkfærið
 - Ondsel assembly workbench (ég notaði hann [hér](https://fab.cba.mit.edu/classes/865.24/people/svavar/system/files/model-viewer/))
 - Workbench fyrir tölvustýrða fræsingu heitir Path í FreeCAD en CAM í Ondsel, sem er mun skiljanlegra
-- Ondsel er open source eins og FreeCAD og leggur áherslu á að koma fídusum úr Ondsel inn í FreeCAd
+- Ondsel er open source eins og FreeCAD og leggur áherslu á að koma fídusum úr Ondsel inn í FreeCAD
 
 Ég verð að segja að það er snjallt hjá Ondsel teyminu að tækla FreeCAD, því að grunnurinn er góður, það þarf aðallega að fínpússa viðmótið. Hver vinnur í sínum workbench í sínu horni án þess að leggja vinnu í að samhæfa allt saman. "System integration" er jafnmikilvægt í hugbúnaði og það er í [vélbúnaði](https://fablabisafjordur.github.io/system-integration-tips/). Það er það sem Ondsel gerir.
 
@@ -344,5 +344,6 @@ Tölvustýrð fræsing (playlist):
 Vistið Ondsel módelin ykkar [hér](https://github.com/Fab-Lab-Island/FLI_Boot_Camp_2024/tree/main/files/ondsel). Svo skuluð þið [exporta módelinu sem HTML](../img/ondsel/export_to_html.mp4), setja í sömu möppu og setja hlekk á báðar skrárnar hér fyrir neðan:
 
 Ónefndur nemandi - Box með lömum: [Skoða](../files/ondsel/box_med_lomum.html), [hlaða niður](../files/ondsel/box_med_lomum.FCStd)
+Svavar Konráðsson - Pac Man: [Skoða()]
 
 Það má líka setja myndir og vídeó, en alls ekki í fullri upplausn!
