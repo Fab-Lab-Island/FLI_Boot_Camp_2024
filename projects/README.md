@@ -22,6 +22,8 @@ Hér verður skjalfest öll verkefni, kynningar og heimsóknir frá vinnustofuni
 
 [Jesmonite](jesmonite.md)
 
+[Fab Academy á Íslandi](fabacademy.md)
+
 
 ## heimsóknir
 
