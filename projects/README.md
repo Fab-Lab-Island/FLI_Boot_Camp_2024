@@ -32,8 +32,6 @@ Hér verður skjalfest öll verkefni, kynningar og heimsóknir frá vinnustofuni
 
 [Fab Academy á Íslandi](fabacademy.md)
 
-[]
-
 
 ## heimsóknir / ferðir
 
@@ -43,4 +41,6 @@ Hér verður skjalfest öll verkefni, kynningar og heimsóknir frá vinnustofuni
 
 ## hliðar verkefni / annað
 
-[Nedis hack] ()
+[Nedis hack]()
+
+[Ný tæki og  tól]()
