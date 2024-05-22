@@ -101,7 +101,11 @@ Núna er líklega rétti tíminn til að fara af stað með Ondsel, svo að þa�
 
 ## Sýnikennsla
 
+![alt text](../img/ondsel/meme_fusion_pull.jpg.png)
+
 ### Hvernig teiknar maður hluti í CAD forriti?
+
+
 
 CAD teikning snýst að miklu leyti um að skipta hlutum upp í einföld form sem er hægt að búa til með tvívíðum skissum:
 
