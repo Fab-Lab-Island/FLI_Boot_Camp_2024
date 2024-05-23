@@ -161,11 +161,11 @@ En meginreglan sem ég nota ómeðvitað er að reyna að stilla sem mest af me�
 
 [![Parametrískt púsl](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/images/week03/kit_CAD_sketch.jpg)](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/week03.html)*Þegar skissan er sett upp svona, þá er hægt að breyta henni allri með því að breyta einni málsetningu (parameter). Svona virkar parametrísk hönnun. Og þar sem hluturinn er samhverfur bæði á X og Y ás, þá gæti ég teiknað bara fjórðung af honum og svo speglað honum yfir X og Y ás. Í þessu tilviki notaði ég spegilskorður í skissunni og notaði bláu 45° hjálparlínurnar sem spegillínur.*
 
-Ýttu á bilstöngina til að fela og sýna hluti.
+Ýttu á bilstöngina til að fela og sýna hluti í trénu.
 
 Þegar þú býrð til skissu eða gerir aðra skipun þá birtist hún í tímaröð í trénu (Tree view) vinstra megin. Þú getur tvísmellt á skipunina til að breyta henni eftir á. Stundum birtast torkennileg tákn á skipununum. Skoðaðu [Tree view greinina](https://wiki.freecad.org/Tree_view) til að sjá hvað þessi "overlay icons" þýða.
 
-Þegar ég opna skissu finnst mér þægilegast að [slökkva á grid](../img/ondsel/grid.mp4).
+Þegar ég opna skissu finnst mér þægilegast að [slökkva á grid](../img/ondsel/grid.mp4). Það getur líka verið þæglegt að slökkva á snap, sem er takkinn þar við hliðina.
 
 Þegar þú velur hluti í trénu vinstra megin (Feature tree), skoðaðu þá Property View sem birtist hægra megin. Þar geturðu breytt staðsetningu hluta og líka breytt öllum málsetningum án þess að opna skipunina eða skissuna:
 
