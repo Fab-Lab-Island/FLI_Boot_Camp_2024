@@ -148,6 +148,9 @@ Ondsel hefur nokkrar sérviskur sem fá fólk til að gefast fljótt upp og fara
 
 ### Góð ráð
 
+![Sýnikennslumeme](../img/ondsel/Synikennsla.jpg)
+*Meme frá Jens*
+
 Ég mæli með að vera alltaf í Part Design workbench, búa til Body og búa svo til Sketch.
 
 Það er góð venja að setja málsetningar og skorður þangað til allar línur í skissunni verða grænar. Þá er skissan "fully constrained" og módelið verður mun stöðugra. Hvítar línur eru "not fully constrained", grænar línur eru "fully constrained" og bláar strikalínur eru ["construction geometry"](https://youtu.be/6PeJ_zJt15A?si=zscvNunVm0c3siMN), þ.e. hjálparlínur sem verða ekki notaðar í að búa til þrívíðan hlut úr skissunni. Það má hægrismella á línur til að breyta þeim í hjálparlínur.
