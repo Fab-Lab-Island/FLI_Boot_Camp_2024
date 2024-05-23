@@ -16,7 +16,7 @@ int waterState = 0;
 int motorTime = 3000;
 
 int raki;
-int rakaGildi = 500;
+int rakaGildi = 250;
 
 
 void setup() {
@@ -31,7 +31,9 @@ void loop() {
   // og kerfið heldur áfram
   // Ef það vantar vatn, þá er staðan LOW/false, kveikt á viðvörunarljósi
   // kerfið bíður eftir næstu vatnsmælingu
-  waterState = digitalRead(floaterPin);
+  //waterState = digitalRead(floaterPin);
+  waterState = 1;
+  Serial.println(waterState);
   digitalWrite(ledPin, !waterState);
 
   if (waterState == true){
@@ -39,9 +41,10 @@ void loop() {
 
     // Athuga rakastig
     raki = analogRead(soilSensor);
+    Serial.println(raki);
 
     // TODO: Aðlaga þetta að rétta skynjaranum!
-    if (raki < rakaGildi){
+    if (raki > rakaGildi){
       Serial.println("Litill raki");
       
       // Keyra dælu 
@@ -63,5 +66,7 @@ void loop() {
   // Bið á mili vatnsmælinga
   delay(waitTime);
 }
+
+
 
 ```
