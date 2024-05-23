@@ -296,6 +296,12 @@ Loft er ein af mikilvægustu grunnskipununum. .Loft hentar t.d. til að búa til
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uDZ_xZ1LJ1c?si=7rZUavPAudILeTBD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 </div>
 
+Part workbench. Ég teikna allt í Part design og nota tvívíðar skissur, en helmingurinn af menntaskólanemendunum mínum notar frekar Part workbench til að byggja upp geómetríu úr einföldum þrívíðum formum. Þessi aðferð kallast [Constructive Solid Geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry) og er notuð t.d. í TinkerCAD.
+
+<div class="responsive">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N_WkjdAaQps?si=gFHjD78JFDtq726P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 Teiknaðu skeið (ég mæli með þessu eftir að þið lærið grunnskipanirnar):
 
 <div class="responsive">
