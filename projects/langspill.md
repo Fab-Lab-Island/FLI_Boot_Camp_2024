@@ -1,4 +1,4 @@
-# Kynning á langspilli
+# Kynning á langspili
 
 Eyjólfur Eyjólfsson
 
