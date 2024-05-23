@@ -1,3 +1,0 @@
-# Heimsókn í fjölheima
-
-hreiðrið

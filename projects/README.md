@@ -34,7 +34,7 @@ Hér verður skjalfest öll verkefni, kynningar og heimsóknir frá vinnustofuni
 
 [Machine making](machinemaking.md) Þóra / Andri
 
-[Git action freecad sýnidæmi]() Árni
+[Git action freecad sýnidæmi](gitaction.md) Árni
 
 ## prógröm *vantar betra íslenskt nafn*
 
@@ -45,12 +45,12 @@ Hér verður skjalfest öll verkefni, kynningar og heimsóknir frá vinnustofuni
 
 [Hópefli ferð]()
 
-[Fyrirtækjaheimsókn]()
+[Fyrirtækjaheimsókn](fyrirtaekjaheimsókn.md)
 
 [Verkstæði Magga Hermanns](https://www.tubes.is/category/frettir/a-verkstaedisbordinu/) Doddi / Árni
 
 ## hliðar verkefni / annað
 
-[Nedis hack]()
+[hardware hacks]()
 
-[Ný tæki og  tól]()
+[Ný tæki og  tól](taekiogtol.md)
