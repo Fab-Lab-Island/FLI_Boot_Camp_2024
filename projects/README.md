@@ -16,7 +16,7 @@ Hér verður skjalfest öll verkefni, kynningar og heimsóknir frá vinnustofuni
 
 [Kynningarmyndband]() Stefán pÉtur
 
-[Langspill](langspill.md) Eyjólfur Eyjólfsson
+[Langspil](langspil.md) Eyjólfur Eyjólfsson
 
 ## verkefni / vinnustofur
 
