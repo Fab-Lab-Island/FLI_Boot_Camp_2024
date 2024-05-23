@@ -125,4 +125,6 @@ Til að keyrslan geti bætt við og breytt skrám, þarf að gefa leyfi til þes
 
 ## Takk fyrir mig
 
-![Árni á sokkunum](../img/Arni_github.jpg)
+![Árni á sokkunum](../img/action/Arni_github.jpg)
+
+[fablab.is](www.fablab.is)
