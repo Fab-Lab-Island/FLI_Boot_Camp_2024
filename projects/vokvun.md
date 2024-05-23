@@ -5,10 +5,10 @@ Katý, vökvun
 https://wokwi.com/projects/398691701299876865
 
 ```
-const int soilSensor = 0;
-const int floaterPin = 2;
-const int ledPin = 4;
-const int pumpPin = 8;
+const int soilSensor = A0;
+const int floaterPin = A4;
+const int ledPin = 13;
+const int pumpPin = A5;
 
 int waitTime = 5000;
 
@@ -63,4 +63,5 @@ void loop() {
   // Bið á mili vatnsmælinga
   delay(waitTime);
 }
+
 ```
