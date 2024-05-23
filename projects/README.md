@@ -36,6 +36,8 @@ Hér verður skjalfest öll verkefni, kynningar og heimsóknir frá vinnustofuni
 
 [Git action freecad sýnidæmi](gitaction.md) Árni
 
+[Vökvun](vokvun.md) Árni & Katý
+
 ## prógröm *vantar betra íslenskt nafn*
 
 [Fab Academy á Íslandi](fabacademy.md)
