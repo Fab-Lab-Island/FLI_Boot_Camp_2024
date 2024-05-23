@@ -32,7 +32,7 @@ Hér verður skjalfest öll verkefni, kynningar og heimsóknir frá vinnustofuni
 
 [Ondsle CAM/CNC]() Jón Þór / Doddi
 
-[Machine making]() Þóra / Andri
+[Machine making](machinemaking.md) Þóra / Andri
 
 [Git action freecad sýnidæmi]() Árni
 
