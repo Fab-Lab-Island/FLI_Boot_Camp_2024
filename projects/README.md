@@ -16,7 +16,7 @@ Hér verður skjalfest öll verkefni, kynningar og heimsóknir frá vinnustofuni
 
 [Kynningarmyndband]() Stefán pÉtur
 
-[Langspill]()
+[Langspil](langspil.md) Eyjólfur Eyjólfsson
 
 ## verkefni / vinnustofur
 
@@ -34,25 +34,35 @@ Hér verður skjalfest öll verkefni, kynningar og heimsóknir frá vinnustofuni
 
 [Machine making](machinemaking.md) Þóra / Andri
 
-[Git action freecad sýnidæmi]() Árni
+[Git action freecad sýnidæmi](gitaction.md) Árni
 
 [Vökvun](vokvun.md) Árni & Katý
 
+[Stafræn saumavél]() húsavík
+
+[Púslgerð]()
+
 ## prógröm *vantar betra íslenskt nafn*
 
-[Fab Academy á Íslandi](fabacademy.md)
+[Fab Academy á Íslandi](fabacademy.md) Andri, Frosti, Doddi, Árni
+
+[Kennsluefni grunnskóla]()
+
+[Samfélagsmiðlar]()
 
 
 ## heimsóknir / ferðir
 
-[Hópefli ferð]()
+[Hópefli ferð]() Magnús
 
-[Fyrirtækjaheimsókn]()
+[Fyrirtækjaheimsókn](fyrirtaekjaheimsókn.md) Magnús
+
+[Kynning á miðbæ]()
 
 [Verkstæði Magga Hermanns](https://www.tubes.is/category/frettir/a-verkstaedisbordinu/) Doddi / Árni
 
 ## hliðar verkefni / annað
 
-[Nedis hack]()
+[hardware hacks]()
 
-[Ný tæki og  tól]()
+[Ný tæki og  tól](taekiogtol.md)
