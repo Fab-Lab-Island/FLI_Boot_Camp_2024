@@ -32,6 +32,8 @@ Hér verður skjalfest öll verkefni, kynningar og heimsóknir frá vinnustofuni
 
 [Machine making]() Þóra / Andri
 
+[Git action freecad sýnidæmi]() Árni
+
 ## prógröm *vantar betra íslenskt nafn*
 
 [Fab Academy á Íslandi](fabacademy.md)
