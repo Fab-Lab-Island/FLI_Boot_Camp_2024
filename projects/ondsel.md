@@ -19,6 +19,10 @@
 
 *Allt sem þú þarft til að bjarga þér í CAD teikningu í Ondsel ES.*
 
+<div class="responsive">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i39DY5ox054?si=Hz6eAGCTF7t7cxSM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 Náið í Ondsel ES hér:    
 [Windows](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES-2024.2.0.37191-Windows-x86_64-installer.exe), [Intel Mac](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES_2024.2.0.37191-macOS-intel-x86_64.dmg), [Apple Silicon](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES_2024.2.0.37191-macOS-apple-silicon-arm64.dmg), [Linux](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES_2024.2.0.37191-Linux-x86_64.AppImage).
 
@@ -97,7 +101,13 @@ Núna er líklega rétti tíminn til að fara af stað með Ondsel, svo að þa�
 
 ### Hvers vegna gæti verið gott að hinkra með að skipta yfir í Ondsel?
 
-- [Topological naming problem](https://youtu.be/6p2vqEEmWq4?si=2rqe8Ff-KkaQpWYM) er stærsta og versta villan. Þetta er vandi sem allur CAD hugbúnaður þarf að leysa og ég hef rekist á hann einstaka sinnum í mjög dýrum forritum. [Zheng Lei](https://www.youtube.com/@leizheng3561/videos) (a.k.a. [realthunder](https://github.com/realthunder)) gerði fork (afrit) af FreeCAD kóðanum og [leysti vandamálið](https://forum.freecad.org/viewtopic.php?t=78797)! Nú vinnur Ondsel teymið hörðum höndum að því að koma lausninni inn í opinbera kóðann án þess að brjóta módel sem hafa verið gerð í eldri útgáfum af FreeCAD. Þess vegna mæli ég með að bíða eftir næstu útgáfu af Ondsel áður en forritið er tekið í almenna notkun í Fab Lab smiðjum.
+<div class="responsive">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6p2vqEEmWq4?si=DuXiw5dIsPyy8_rw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+- [Topological naming problem](https://youtu.be/6p2vqEEmWq4?si=2rqe8Ff-KkaQpWYM) er stærsta og versta villan. Þetta er vandi sem allur CAD hugbúnaður þarf að leysa og ég hef rekist á hann einstaka sinnum í mjög dýrum forritum. 
+
+[Zheng Lei](https://www.youtube.com/@leizheng3561/videos) (a.k.a. [realthunder](https://github.com/realthunder)) gerði fork (afrit) af FreeCAD kóðanum og [leysti vandamálið](https://forum.freecad.org/viewtopic.php?t=78797)! Nú vinnur Ondsel teymið hörðum höndum að því að koma lausninni inn í opinbera kóðann án þess að brjóta módel sem hafa verið gerð í eldri útgáfum af FreeCAD. Þess vegna mæli ég með að bíða eftir næstu útgáfu af Ondsel áður en forritið er tekið í almenna notkun í Fab Lab smiðjum.
 
 ## Sýnikennsla
 
@@ -202,7 +212,7 @@ Veljið ykkur eitt af eftirfarandi myndböndum til að fara eftir í Ondsel. Tak
 - [assemblies](http://academy.cba.mit.edu/classes/computer_design/assemblies.mp4) - Assembly3 workbench í FreeCAD (Ondsel er þægilegra)
 - [measurement](http://academy.cba.mit.edu/classes/computer_design/measurement.mp4) - Hvernig maður mælir í FreeCAD (Mun betra í Ondsel)
 - [folding](http://academy.cba.mit.edu/classes/computer_design/fold.mp4)
-- [parametric](http://academy.cba.mit.edu/classes/computer_design/parametric.mp4) - Ég notaði þesssa aðferð [hér](https://fab.cba.mit.edu/classes/865.24/people/svavar/components/images/cable_carrier/parametric_cable_carrier.mp4)
+- [parametric](http://academy.cba.mit.edu/classes/computer_design/parametric.mp4) - Ég notaði þessa aðferð [hér](https://fab.cba.mit.edu/classes/865.24/people/svavar/components/images/cable_carrier/parametric_cable_carrier.mp4)
 - [programming](http://academy.cba.mit.edu/classes/computer_design/console.mp4)
 - [algorithmic](http://academy.cba.mit.edu/classes/computer_design/algorithmic.mp4)
 - [drawing](http://academy.cba.mit.edu/classes/computer_design/drawing.mp4)
