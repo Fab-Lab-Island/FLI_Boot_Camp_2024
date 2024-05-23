@@ -121,4 +121,8 @@ Til að keyrslan geti bætt við og breytt skrám, þarf að gefa leyfi til þes
 
 `Settings` -> `Actions` -> `General` ->  `Workflow permissions` og velja `Read and write permissions`. 
 
-![alt text](../img/action/workflow.jpg)
+![Workflow](../img/action/workflow.jpg)
+
+## Takk fyrir mig
+
+![Árni á sokkunum](../img/Arni_github.jpg)
