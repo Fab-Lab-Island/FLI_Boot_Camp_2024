@@ -16,6 +16,8 @@ Hér verður skjalfest öll verkefni, kynningar og heimsóknir frá vinnustofuni
 
 [Kynningarmyndband]() Stefán pÉtur
 
+[Langspill]()
+
 ## verkefni / vinnustofur
 
 [FMCU](fmcu.md) Doddi / Árni
