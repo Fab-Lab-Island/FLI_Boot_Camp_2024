@@ -67,6 +67,6 @@ Verkefni færa [word skjal]() sem Ólöf bjó til með það hvernig github er n
 - Hægt að flytja markdown út sem PDF skjal.
 
 - Nota hashtag fyrir framan setningar til að skilgreina tegund af heading. Eitt hashtag jafngildir Heading 1, tvö hashtag jafngildir Heading 2 o.s.frv.
-
+![GitHub leiðbeiningar](image.jpg)
 
 - Ef hornklofi er settur utan um orð er hægt að setja hlekk á bakvið það.
