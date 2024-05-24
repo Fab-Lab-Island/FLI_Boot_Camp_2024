@@ -11,6 +11,8 @@ Verkefni færa [word skjal]() sem Ólöf bjó til með það hvernig github er n
 
 <https://www.google.com/search?q=steps+to+create+folders+on+github&rlz=1C1GCEU_enIS1089IS1092&oq=steps+to+create+folders+on+github&gs_lcrp=EgZjaHJvbWUyCwgAEEUYChg5GKABMgkIARAhGAoYoAEyCQgCECEYChigATIJCAMQIRgKGKAB0gEIODI2OWowajmoAgCwAgE&sourceid=chrome&ie=UTF-8>
 
+![Góðir punktar](<../img/gitdocumentation/GitHub leiðbeiningar.png>)
+
 
 
 **Til að setja inn myndir:**
@@ -65,10 +67,10 @@ Verkefni færa [word skjal]() sem Ólöf bjó til með það hvernig github er n
 
 - Hægt að setja fyrir verkefni (submit an issue) og velja réttan merkimiða (label).
 
-**
 
-- Búa til markdown
-- Hægt að flytja markdown út sem PDF skjal.
+**Að flytja efni úr GitHub út sem PDF:**
+
+- Hægt er að flytja markdown út sem PDF skjal.
 
 - Nota hashtag fyrir framan setningar til að skilgreina tegund af heading. Eitt hashtag jafngildir Heading 1, tvö hashtag jafngildir Heading 2 o.s.frv.
 
