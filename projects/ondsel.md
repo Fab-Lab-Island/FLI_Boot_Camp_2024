@@ -60,7 +60,7 @@ Svo kom Ondsel, sem er þægilegri útgáfa af FreeCAD.
 - Vinnuflæðið er [innblásið af CATIA](https://ondsel.com/blog/catia-suffers-from-the-same-problems/) og er aðeins öðruvísi en CAD forritin sem flestir eru vanir. 
 - Suma fídusa vantar. Ég vil geta fært skipanir upp og niður í trénu með músinni! Það er að vísu hægt að velja [initiate dragging](https://wiki.freecad.org/Std_TreeDrag) eða hægrismella á fídusa og velja Move object after other object, en ég fæ oft villuboð þar sem mér finnst að færslan ætti að ganga upp.
 - [Viðmótið getur verið svolítið stirt](https://www.reddit.com/r/cad/comments/rvesuy/is_freecad_good/) (ég átta mig ekki á hvernig á að nota Array transform í 2D skissu, ég nota 3D linear pattern í staðinn)
-- Það eru villur í forritinu [hér og þar](https://youtu.be/-kcSx4m_0EA?si=T0T6XX1-_iW0etyj).
+- Það eru villur í forritinu [hér og þar](https://youtu.be/-kcSx4m_0EA?si=T0T6XX1-_iW0etyj). [Jón Þór](http://fabacademy.org/2018/labs/fablabreykjavik/students/jonthor-sigurdsson/) benti á eina: Að þegar maður gerir sumar skipanir þá [skiptir Ondsel yfir í næsta tab](https://github.com/realthunder/FreeCAD_assembly3/issues/517).
 
 ## Hvers vegna Ondsel/FreeCAD?
 
@@ -81,6 +81,7 @@ Svo kom Ondsel, sem er þægilegri útgáfa af FreeCAD.
 - [Pieter Hijma](https://fabacademy.org/2023/labs/waag/students/pieter-hijma/), sem tók Fab Academy í fyrra, er hluti af Ondsel teyminu. Hann bjó til [OSH Automated Documentation workbench](https://osh-autodoc.org/), sem býr sjálfvirkt til samsetningarleiðbeiningar út frá þrívíðum módelum. Við getum kvartað beint við hann á [Mattermost](https://chat.academany.org/). Það [gladdi Ondsel teymið](../img/ondsel/mattermost_chat.jpg) að við værum strax byrjaðir að nota það í kennslu. Og [Doddi](https://fabacademy.org/archives/2015/eu/students/gunnarsson.thorarinn_b.b/index.html) bjó til meme:
 
 ![Ondsel meme](../img/ondsel/ondsel_meme-hanndoddi.jpg)
+*Meme frá Dodda*
 
 ### Hvers vegna Ondsel frekar en FreeCAD
 
@@ -111,7 +112,7 @@ Núna er líklega rétti tíminn til að fara af stað með Ondsel, svo að þa�
 
 ## Sýnikennsla
 
-![alt text](../img/ondsel/meme_fusion_pull.jpg.png)
+![alt text](../img/ondsel/meme_fusion_pull.jpg.png)*Meme frá Dodda*
 
 ### Hvernig teiknar maður hluti í CAD forriti?
 
@@ -149,6 +150,7 @@ Ondsel hefur nokkrar sérviskur sem fá fólk til að gefast fljótt upp og fara
 ### Góð ráð
 
 ![Sýnikennslumeme](../img/ondsel/Synikennsla.jpg)
+
 *Meme frá Jens*
 
 Ég mæli með að vera alltaf í Part Design workbench, búa til Body og búa svo til Sketch.
@@ -189,7 +191,7 @@ Gerðu fleiri einfaldar skissur frekar en eina flókna.
 
 ## Æfingar
 
-![alt text](../img/ondsel/resons_freecad.png)
+![alt text](../img/ondsel/resons_freecad.png)*Mynd frá Dodda*
 
 ### Myndbönd úr Fab Academy
 
@@ -224,7 +226,7 @@ Veljið ykkur eitt af eftirfarandi myndböndum til að fara eftir í Ondsel. Tak
 
 ### Youtube myndbönd
 
-![alt text](../img/ondsel/cadPeople.jpg)
+![alt text](../img/ondsel/cadPeople.jpg)*Meme frá Dodda*
 
 Þegar fyrirlestrinum lýkur skuluð þið velja eitt af eftirfarandi myndböndum til að fara eftir. Klárið fyrir lok bootcampsins og setjið módelið neðst á þessa síðu. 
 
@@ -358,7 +360,7 @@ Tölvustýrð fræsing (playlist):
 
 ### Módel sem voru gerð á bootcampinu
 
-![fusion_svavar](../img/ondsel/fusion_svavar.png)
+![fusion_svavar](../img/ondsel/fusion_svavar.png)*Meme frá Dodda*
 
 Vistið Ondsel módelin ykkar [hér](https://github.com/Fab-Lab-Island/FLI_Boot_Camp_2024/tree/main/files/ondsel). Svo skuluð þið [exporta módelinu sem HTML](../img/ondsel/export_to_html.mp4), setja í sömu möppu og setja hlekk á báðar skrárnar hér fyrir neðan:
 
