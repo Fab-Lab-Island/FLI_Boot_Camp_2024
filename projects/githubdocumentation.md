@@ -1,5 +1,5 @@
 # Git documentation
-Teymi: Ólöf,Anna, Bryndís, Doddi
+Teymi: Ólöf, Anna, Bryndís, Doddi
 
 Doddi fór yfir hvernig git er notað til að skjalfesta verkefni og vinnustofur.
 Verkefni færa [word skjal]() sem Ólöf bjó til með það hvernig github er notað
@@ -9,9 +9,7 @@ Verkefni færa [word skjal]() sem Ólöf bjó til með það hvernig github er n
 
 <https://www.google.com/search?q=steps+to+create+folders+on+github&rlz=1C1GCEU_enIS1089IS1092&oq=steps+to+create+folders+on+github&gs_lcrp=EgZjaHJvbWUyCwgAEEUYChg5GKABMgkIARAhGAoYoAEyCQgCECEYChigATIJCAMQIRgKGKAB0gEIODI2OWowajmoAgCwAgE&sourceid=chrome&ie=UTF-8>
 
-![Mynd sem inniheldur texti, skjámynd
 
-Lýsing sjálfkrafa búin til](Aspose.Words.fedb6c2c-5554-46e5-aef3-26c68c3499e7.001.png)
 
 **Til að setja inn myndir:**
 
@@ -39,44 +37,36 @@ Lýsing sjálfkrafa búin til](Aspose.Words.fedb6c2c-5554-46e5-aef3-26c68c3499e7
 
 <https://res.cloudinary.com/practicaldev/image/fetch/s--U_TEB7k7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/i/5zhubbpov3m3ly9a1t9c.png>
 
-![Mynd sem inniheldur texti, skjámynd, númer
 
-Lýsing sjálfkrafa búin til](Aspose.Words.fedb6c2c-5554-46e5-aef3-26c68c3499e7.002.png)
-
-![Mynd sem inniheldur texti, skjámynd
-
-Lýsing sjálfkrafa búin til](Aspose.Words.fedb6c2c-5554-46e5-aef3-26c68c3499e7.003.png)
-
-The state of the Octoverse:
-
-<https://github.blog/2023-11-08-the-state-of-open-source-and-ai/?utm_source=banner&utm_medium=github&utm_campaign=octoverse>
-
-Tutorial for GitHub flow:
+- Tutorial for GitHub flow:
 
 <https://docs.github.com/en/get-started/start-your-journey/hello-world>
 
+
+**Að búa til möppur:**
+
 <https://berrasari.medium.com/creating-folders-on-github-a-step-by-step-guide-fb0b44b98561>
 
-![](Aspose.Words.fedb6c2c-5554-46e5-aef3-26c68c3499e7.004.png)Þegar unnið er án netsambands er hægt að fara í File Explorer og opna GitHub. 
 
-GitHub möppur = býður upp á skýjatengingu.
+**Að vinna án netsambands:**
 
-Fyrst þarf að ,,clone“ frá GitHub á netinu.
+- Þegar unnið er án netsambands er hægt að fara í File Explorer og opna GitHub. 
 
-Hægt að opna NotePad og draga skjöl yfir í það. Þá birtist texti skjalsins í NotePad.
+- Fyrst þarf að ,,clone“ frá GitHub á netinu.
 
-- Fab Lab notar GitLab
+- Hægt að opna NotePad og draga skjöl yfir í það. Þá birtist texti skjalsins í NotePad.
 
-Gott að skrá vandamál (,,issues“) sem koma upp.
+**Að skrá bæði það sem gengur vel og það sem þyrfti að bæta:**
 
-Hægt að setja fyrir verkefni (submit an issue) og velja réttan merkimiða (label).
+- Gott að skrá vandamál sem koma upp.
 
-Búa til möppu
+- Hægt að setja fyrir verkefni (submit an issue) og velja réttan merkimiða (label).
 
-Búa til markdown
 
-Nota hashtag fyrir framan setningar til að skilgreina hvort 
+- Búa til markdown
+- Hægt að flytja markdown út sem PDF skjal.
 
-Hægt að flytja markdown út sem PDF skjal.
+- Nota hashtag fyrir framan setningar til að skilgreina tegund af heading. Eitt hashtag jafngildir Heading 1, tvö hashtag jafngildir Heading 2 o.s.frv.
 
-Ef hornklofi er settur utan um orð er hægt að setja hlekk undir það.
+
+- Ef hornklofi er settur utan um orð er hægt að setja hlekk á bakvið það.
