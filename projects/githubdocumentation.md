@@ -2,14 +2,14 @@
 Teymi: Ólöf,Anna, Bryndís, Doddi
 
 Doddi fór yfir hvernig git er notað til að skjalfesta verkefni og vinnustofur.
-Verkefni færa [word skjal]() sem ólöf bjó til með það hvernig github er notar
+Verkefni færa [word skjal]() sem Ólöf bjó til með það hvernig github er notað
 
 
 **Ýmsir punktar varðandi GitHub**
 
 <https://www.google.com/search?q=steps+to+create+folders+on+github&rlz=1C1GCEU_enIS1089IS1092&oq=steps+to+create+folders+on+github&gs_lcrp=EgZjaHJvbWUyCwgAEEUYChg5GKABMgkIARAhGAoYoAEyCQgCECEYChigATIJCAMQIRgKGKAB0gEIODI2OWowajmoAgCwAgE&sourceid=chrome&ie=UTF-8>
 
-![Mynd sem inniheldur texti, skj�mynd
+![Mynd sem inniheldur texti, skjámynd
 
 Lýsing sjálfkrafa búin til](Aspose.Words.fedb6c2c-5554-46e5-aef3-26c68c3499e7.001.png)
 
@@ -17,7 +17,7 @@ Lýsing sjálfkrafa búin til](Aspose.Words.fedb6c2c-5554-46e5-aef3-26c68c3499e7
 
 - Fara inn í möppu/repository
 
-- Ýta á punkt til að fá upp vinnusvæði/web … (virkar bara þegar þú ert inni í möppu/repository)
+- Ýta á punkt til að fá upp vinnusvæði/web editor (virkar bara þegar þú ert inni í möppu/repository)
 
 - Hlaða myndinni inn í möppu sem kallast img
 
@@ -39,11 +39,11 @@ Lýsing sjálfkrafa búin til](Aspose.Words.fedb6c2c-5554-46e5-aef3-26c68c3499e7
 
 <https://res.cloudinary.com/practicaldev/image/fetch/s--U_TEB7k7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/i/5zhubbpov3m3ly9a1t9c.png>
 
-![Mynd sem inniheldur texti, skj�mynd, n�mer
+![Mynd sem inniheldur texti, skjámynd, númer
 
 Lýsing sjálfkrafa búin til](Aspose.Words.fedb6c2c-5554-46e5-aef3-26c68c3499e7.002.png)
 
-![Mynd sem inniheldur texti, skjmynd
+![Mynd sem inniheldur texti, skjámynd
 
 Lýsing sjálfkrafa búin til](Aspose.Words.fedb6c2c-5554-46e5-aef3-26c68c3499e7.003.png)
 
@@ -69,7 +69,7 @@ Hægt að opna NotePad og draga skjöl yfir í það. Þá birtist texti skjalsi
 
 Gott að skrá vandamál (,,issues“) sem koma upp.
 
-Hægt að setja fyrir verkefni (,submit an issue) og velja réttan merkimiða (label).
+Hægt að setja fyrir verkefni (submit an issue) og velja réttan merkimiða (label).
 
 Búa til möppu
 

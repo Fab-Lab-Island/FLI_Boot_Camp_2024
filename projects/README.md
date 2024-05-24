@@ -1,12 +1,12 @@
 # verkefni og kynningar
 
-Hér verður skjalfest öll verkefni, kynningar og heimsóknir frá vinnustofuni
+Hér verður skjalfest öll verkefni, kynningar og heimsóknir frá vinnustofunni
 
 **_Bætið við og hlekkið skjöl eftir þörfum_**
 
 ## Kynningar
 
-[Inkscape Yfirirferð](inscape_yfirferd.md) Ágústa Ragnarsdóttir
+[Inkscape Yfirferð](inscape_yfirferd.md) Ágústa Ragnarsdóttir
 
 [Hass Málmfræsikynning](haas_malmfraes.md) Borgþór Helgason
 
