@@ -7,6 +7,8 @@ Verkefni færa [word skjal]() sem Ólöf bjó til með það hvernig github er n
 
 **Ýmsir punktar varðandi GitHub**
 
+[Hér](https://www.markdownguide.org/cheat-sheet/) má finna hlekk inn á svindllista með helstu aðgerðum.
+
 <https://www.google.com/search?q=steps+to+create+folders+on+github&rlz=1C1GCEU_enIS1089IS1092&oq=steps+to+create+folders+on+github&gs_lcrp=EgZjaHJvbWUyCwgAEEUYChg5GKABMgkIARAhGAoYoAEyCQgCECEYChigATIJCAMQIRgKGKAB0gEIODI2OWowajmoAgCwAgE&sourceid=chrome&ie=UTF-8>
 
 
@@ -56,17 +58,29 @@ Verkefni færa [word skjal]() sem Ólöf bjó til með það hvernig github er n
 
 - Hægt að opna NotePad og draga skjöl yfir í það. Þá birtist texti skjalsins í NotePad.
 
+
 **Að skrá bæði það sem gengur vel og það sem þyrfti að bæta:**
 
 - Gott að skrá vandamál sem koma upp.
 
 - Hægt að setja fyrir verkefni (submit an issue) og velja réttan merkimiða (label).
 
+**
 
 - Búa til markdown
 - Hægt að flytja markdown út sem PDF skjal.
 
 - Nota hashtag fyrir framan setningar til að skilgreina tegund af heading. Eitt hashtag jafngildir Heading 1, tvö hashtag jafngildir Heading 2 o.s.frv.
+
 ![GitHub leiðbeiningar](Github leiðbeiningar.png)
 
-- Ef hornklofi er settur utan um orð er hægt að setja hlekk á bakvið það.
+
+**Að setja inn hlekk:**
+
+- Ef hornklofi er settur utan um orð er hægt að setja hlekk á bakvið það. Slóðin er sett í sviga þar á eftir, líkt og sýnt er hér:
+`[Titill](https://www.eitthvað.com)`
+
+
+
+
+
