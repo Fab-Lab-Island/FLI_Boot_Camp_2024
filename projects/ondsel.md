@@ -360,7 +360,9 @@ Tölvustýrð fræsing (playlist):
 
 ### Módel sem voru gerð á bootcampinu
 
-![fusion_svavar](../img/ondsel/fusion_svavar.png)*Meme frá Dodda*
+![fusion_svavar](../img/ondsel/fusion_svavar.png)
+
+*Meme frá Dodda*
 
 Vistið Ondsel módelin ykkar [hér](https://github.com/Fab-Lab-Island/FLI_Boot_Camp_2024/tree/main/files/ondsel). Svo skuluð þið [exporta módelinu sem HTML](../img/ondsel/export_to_html.mp4), setja í sömu möppu og setja hlekk á báðar skrárnar hér fyrir neðan:
 
