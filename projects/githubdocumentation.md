@@ -9,10 +9,8 @@ Verkefni færa [word skjal]() sem Ólöf bjó til með það hvernig github er n
 
 [Hér](https://www.markdownguide.org/cheat-sheet/) má finna hlekk inn á svindllista með helstu aðgerðum.
 
-<https://www.google.com/search?q=steps+to+create+folders+on+github&rlz=1C1GCEU_enIS1089IS1092&oq=steps+to+create+folders+on+github&gs_lcrp=EgZjaHJvbWUyCwgAEEUYChg5GKABMgkIARAhGAoYoAEyCQgCECEYChigATIJCAMQIRgKGKAB0gEIODI2OWowajmoAgCwAgE&sourceid=chrome&ie=UTF-8>
 
 ![Góðir punktar](<../img/gitdocumentation/GitHub leiðbeiningar.png>)
-
 
 
 **Til að setja inn myndir:**
@@ -49,7 +47,7 @@ Verkefni færa [word skjal]() sem Ólöf bjó til með það hvernig github er n
 
 **Að búa til möppur:**
 
-<https://berrasari.medium.com/creating-folders-on-github-a-step-by-step-guide-fb0b44b98561>
+[Hér](h<https://berrasari.medium.com/creating-folders-on-github-a-step-by-step-guide-fb0b44b98561>) má finna leiðbeiningar um hvernig hægt sé að búa til möppur.
 
 
 **Að vinna án netsambands:**
