@@ -10,7 +10,7 @@ Hér verður skjalfest öll verkefni, kynningar og heimsóknir frá vinnustofuni
 
 [Hass Málmfræsikynning](haas_malmfraes.md) Borgþór Helgason
 
-[GitHub](gitaction.md) Árni
+[GitHub Documentation](gitdocumentation.md) Doddi
 
 [Rafnám kennslu kit]() Stefán Birnir Sverrisson
 
