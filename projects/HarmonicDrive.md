@@ -16,3 +16,7 @@ Erum með tvö set. Þurfum PLA og skrefa mótor með D skafti
 
 Svavar keypti skrána, komum með hana en deilum henni ekki opinberlega.
 
+
+## Hvað var gert 
+
+Ekki gafst tími til að búa til drif á staðnum en farið var yfir hvaða eiginleika harmonic drive hefur og hva Svavar á Ísafirði hefur verið að fást við.

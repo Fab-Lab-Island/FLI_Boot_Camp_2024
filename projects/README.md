@@ -30,7 +30,7 @@ Hér verður skjalfest öll verkefni, kynningar og heimsóknir frá vinnustofunn
 
 [Jesmonite](jesmonite.md) Karítas
 
-[Ondsle CAM/CNC]() Jón Þór / Doddi
+[Ondsle CAM/CNC]() Jón Þór / Doddi *eftir að skjalfesta*
 
 [Machine making](machinemaking.md) Þóra / Andri
 
@@ -38,31 +38,31 @@ Hér verður skjalfest öll verkefni, kynningar og heimsóknir frá vinnustofunn
 
 [Vökvun](vokvun.md) Árni & Katý
 
-[Stafræn saumavél]() húsavík
+[Stafræn saumavél]() húsavík *eftir að skjalfesta*
 
-[Púslgerð]()
+[Púslgerð]() *eftir að skjalfesta*
 
 ## prógröm *vantar betra íslenskt nafn*
 
 [Fab Academy á Íslandi](fabacademy.md) Andri, Frosti, Doddi, Árni
 
-[Kennsluefni grunnskóla]()
+[Kennsluefni grunnskóla]() *eftir að skjalfesta*
 
-[Samfélagsmiðlar]()
+[Samfélagsmiðlar]() *eftir að skjalfesta*
 
 
 ## heimsóknir / ferðir
 
-[Hópefli ferð]() Magnús
+[Hópefli ferð]() Magnús *eftir að skjalfesta*
 
 [Fyrirtækjaheimsókn](fyrirtaekjaheimsókn.md) Magnús
 
-[Kynning á miðbæ]()
+[Kynning á miðbæ]() *eftir að skjalfesta*
 
 [Verkstæði Magga Hermanns](https://www.tubes.is/category/frettir/a-verkstaedisbordinu/) Doddi / Árni
 
 ## hliðar verkefni / annað
 
-[hardware hacks]()
+[hardware hacks]() *eftir að skjalfesta*
 
 [Ný tæki og  tól](taekiogtol.md)
