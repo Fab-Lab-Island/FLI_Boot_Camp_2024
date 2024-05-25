@@ -50,13 +50,6 @@ Verkefni færa [word skjal]() sem Ólöf bjó til með það hvernig Github er n
 <https://res.cloudinary.com/practicaldev/image/fetch/s--U_TEB7k7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/i/5zhubbpov3m3ly9a1t9c.png>
 
 
-- Tutorial for GitHub flow:
-
-<https://docs.github.com/en/get-started/start-your-journey/hello-world>
-
-- Þegar unnið er án netsambands er hægt að fara í File Explorer og opna GitHub. 
-
-
 
 ## Að vinna án netsambands:
 
@@ -64,31 +57,28 @@ Verkefni færa [word skjal]() sem Ólöf bjó til með það hvernig Github er n
 
 - GitHub möppur = býður upp á skýjatengingu. Fyrst þarf að ,,clone“ frá GitHub á netinu.
 
-Hægt að opna NotePad og draga skjöl yfir í það. Þá birtist texti skjalsins í NotePad.
+- Hægt að opna NotePad og draga skjöl yfir í það. Þá birtist texti skjalsins í NotePad.
 
+
+## Að flytja út PDF skjöl:
 
 Hægt að flytja markdown út sem PDF skjal.
 
-Ef hornklofi er settur utan um orð er hægt að setja hlekk undir það.
+
+## Að setja hlekk á bakvið orð:
+
+- Ef hornklofi er settur utan um orð er hægt að setja hlekk undir það.
 
 `[Hlekkur](https://www.mbl.is)` -> [Hlekkur](https://www.mbl.is) 
 
 
 
-- asdf
-- sdfghj
-- gfhg
-    - 23456uh
-    - 567
-
-## Að skrá bæði það sem gengur vel og það sem þyrfti að finna betri lausnir á:
-
-- Gott að skrá vandamál sem koma upp.
-
-- Hægt er að setja fyrir samstarfsverkefni sem vantar lausnir á (submit an issue) og velja réttan merkimiða (label).
-
-
 ## Github issues
 
-Hægt að gera github issues sem er sniðugt til að halda utanum um hluti sem þarf að laga. Tilvalið ef eitthvað finnst sem virkar ekki eða er ekki rétt en ekki kunnáta til að laga það þá er
-jafnvel er hægt að merkja það (assign) einhverjum notenda sem hefur þekkingu til. Github issues gerir það líka kleft að rekja vandamál sem kunna að koma upp.
+- Hægt að gera Github issues sem er sniðugt til að halda utanum um hluti sem þarf að laga. Tilvalið ef eitthvað finnst sem virkar ekki eða er ekki rétt en ekki kunnátta til að laga það þá er jafnvel er hægt að merkja það (assign) einhverjum notenda sem hefur þekkingu til. Hægt er a velja ákveðinn merkimiða (label)
+- Github issues gerir það líka kleift að rekja vandamál sem kunna að koma upp.
+
+
+## Tutorial for GitHub flow:
+
+<https://docs.github.com/en/get-started/start-your-journey/hello-world>
