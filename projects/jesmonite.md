@@ -1,5 +1,7 @@
 Hvað er jesmonite og hvernig virkar það. 
 
+![Unnið með jesmonite](../Jesmonite.jpg)
+
 Karítas fór yfir jesmonite og í hvað og hvernig sé hægt að nota það.
 
 Afhverju ætti ég að nota það í smiðjunni minni?
