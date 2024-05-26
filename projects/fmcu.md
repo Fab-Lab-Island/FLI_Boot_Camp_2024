@@ -1,5 +1,6 @@
 # FMCU vinnustofa
 
+![Árni með sýnikennslu](../Arni_med_synikennslu.jpg)
 farið yfir það hvernig FMCU takki er búinn til
 
 ![FMCU takin á selfossi]
