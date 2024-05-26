@@ -2,7 +2,7 @@
 
 Eyjólfur Eyjólfsson
 
-![Eyjólfur](../img/Langspil.jpg)
+![Eyjólfur](../img/langspil/Eyjolfur2.jpg)
 
 Hópurinn fékk góða kynningu frá Eyjólfi um Langspilið sem hann fefur verið að smíða með gópri aðstoð frá Fab Lab Selfossi.
 
