@@ -1,3 +1,5 @@
+{% include simple-menu.html %}
+
 # Git documentation
 Teymi: Ólöf, Anna, Bryndís, Doddi
 
