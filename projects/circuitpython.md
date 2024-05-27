@@ -1,14 +1,6 @@
 # CircuitPython
 
-Á þessari kynningu var farið yfir CircuitPython, kosti og galla. 
-
-Á kynningunni var líka farið yfir [lampaverkefni](https://github.com/Fab-Lab-Akureyri/Lampi) sem er í vinnslu hjá Fab Lab Akureyri. 
-
-## Hlekkir
-
-- [CircuitPython](https://circuitpython.org/)
-  - [Seeed XIAO RP2040](https://circuitpython.org/board/seeeduino_xiao_rp2040/)
-  - [Seeed XIAO ESP32C3](https://circuitpython.org/board/seeed_xiao_esp32c3/)
+Á þessari kynningu var farið yfir CircuitPython, kosti og galla. Einnig var farið yfir [lampaverkefni](https://github.com/Fab-Lab-Akureyri/Lampi) sem er í vinnslu hjá Fab Lab Akureyri. 
 
 # Skref 1
 
@@ -72,8 +64,11 @@ while True:
  
 ```
 
+## Hlekkir
 
-## Annað þessu tengt
+- [CircuitPython](https://circuitpython.org/)
+  - [Seeed XIAO RP2040](https://circuitpython.org/board/seeeduino_xiao_rp2040/)
+  - [Seeed XIAO ESP32C3](https://circuitpython.org/board/seeed_xiao_esp32c3/)
 
 - [Thonny](https://thonny.org/)
   - Python ritill
@@ -81,6 +76,7 @@ while True:
 - [codewith.mu](https://codewith.mu/en/download)
    - Python ritill
 
+- [Lampaverkefni](https://github.com/Fab-Lab-Akureyri/Lampi)
 
 - Seeed XIAO ESP32C3
 
