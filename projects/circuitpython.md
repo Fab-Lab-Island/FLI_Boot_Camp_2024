@@ -1,13 +1,14 @@
 # CircuitPython
 
-Etv förum við yfir CircuitPython á næsta Bootcamp-i
+Á þessari kynningu var farið yfir CircuitPython, kosti og galla. 
 
-- [Circuit python](https://circuitpython.org/) er útgáfa af micropython og er frá Adafruit    
-  - [Niðuhald fyrir seeed RP2040](https://circuitpython.org/board/seeeduino_xiao_rp2040/)
-    - [wiki.seeedstudio](https://wiki.seeedstudio.com/XIAO-RP2040/) 
-- RP2040 er með full native usb port -> 
-- [XIAO-RP2040-with-CircuitPython](https://wiki.seeedstudio.com/XIAO-RP2040-with-CircuitPython/)
+Á kynningunni var líka farið yfir [lampaverkefni](https://github.com/Fab-Lab-Akureyri/Lampi) sem er í vinnslu hjá Fab Lab Akureyri. 
 
+## Hlekkir
+
+- [CircuitPython](https://circuitpython.org/)
+  - [Seeed XIAO RP2040](https://circuitpython.org/board/seeeduino_xiao_rp2040/)
+  - [Seeed XIAO ESP32C3](https://circuitpython.org/board/seeed_xiao_esp32c3/)
 
 # Skref 1
 
@@ -15,20 +16,23 @@ Etv förum við yfir CircuitPython á næsta Bootcamp-i
   - Skoða hvaða COM port kubburinn er tengdur.
 
 - Farið inn á https://circuitpython.org/board/seeeduino_xiao_rp2040/ 
+  
   -Sækja .uf2 skrána
-  -Setja skjölin inn á kubbinn.
-- Halda inni B takkanum þegar kubburinn er settur í samband við tölvuna til að geta hlaðið inn nýja Circuit Python firmware-inu
-  - Setja inn firmware-ið  (copy og paste)
 
-- Til að forrita opna code.py skrá í gegnum Windows File Explorer með t.d. Notepad eða Visual Studio
-  - Og byrja að skrifa kóðann
-  - Ekki þarf að flasha neitt heldur dugar að vista .py kóðann
+- Halda inni B(Boot) takkanum þegar kubburinn er settur í samband við tölvuna.
+  - USB drif ætti að birtast
+  - Setja inn firmware (copy & paste)
+  - USB drif ætti að birtast eftir endurræsingu
+
+- Til að forrita opna `code.py` skrána af USB drifinu í gegnum Windows File Explorer með t.d. Notepad eða Visual Studio Code
+  - Byrjið að skrifa kóða
+  - Vistið skrána og hún hleðst sjálfkrafa á kubbnum
  
-- til að sjá hello world er hægt að nota [putty](https://www.putty.org/) og velja rétta COM PORTIÐ sem kubburinn er á (hægt að sjá í Device manager)
+- Fyrir samskipti við kubbinn á Windows má nota [Putty](https://www.putty.org/). Veljið rétt COM port (`Device manager -> Ports`) og hakið við `Serial`.
 
-## kóði 
+## Kóðabútur
 
-Hér er kóði sem lætur led díóðuna á brettinu blikka
+Hér er kóði sem lætur NeoPxel díóðuna á brettinu (RP2040) blikka
 
 ```
 import board
@@ -40,9 +44,10 @@ led.direction = digitalio.Direction.OUTPUT
 
 while True:
     led.value = True 
-    time.sleep(0.1)    # tími af
+    time.sleep(1)    # tími af
     led.value = False
-    time.sleep(0.1)    #tími á
+    time.sleep(1)    #tími á
+
 ```
 Hér kóði sem segir halló og lætur Led blikka prentar halló Ísland, Akureyri og Ísafjörður.
 
@@ -59,9 +64,9 @@ led.direction = digitalio.Direction.OUTPUT
 
 while True:
     led.value = True
-    time.sleep(0.8)
+    time.sleep(1)
     led.value = False
-    time.sleep(0.1)
+    time.sleep(1)
 
     print("hello Akureyri og Ísafjörður")
  
@@ -70,14 +75,15 @@ while True:
 
 ## Annað þessu tengt
 
-- [thonny.org](https://thonny.org/)
-- Er ritill
+- [Thonny](https://thonny.org/)
+  - Python ritill
 
 - [codewith.mu](https://codewith.mu/en/download)
-   - Mu  editor
+   - Python ritill
 
-- Skoða þetta betur...
-  - Opna toml skrána, þar er ekkert inni
-  - Þar er hægt að setja inn heiti wifi og aðgang að passwordi
+
+- Seeed XIAO ESP32C3
+
+Er ekki með USB stuðningi, því þarf aðrar leiðir til að vinna með hann. Það er hægt í gegnum Mu & Thonny, sem og í gegnum [Web Workflow](https://learn.adafruit.com/getting-started-with-web-workflow-using-the-code-editor/overview)
 
 
