@@ -1,6 +1,6 @@
 # verkefni og kynningar
 
-Hér verður skjalfest öll verkefni, kynningar og heimsóknir frá vinnustofunni
+Hér verða skjalfest öll verkefni, kynningar og heimsóknir á ráðstefnunni.
 
 **_Bætið við og hlekkið skjöl eftir þörfum_**
 
@@ -14,11 +14,11 @@ Hér verður skjalfest öll verkefni, kynningar og heimsóknir frá vinnustofunn
 
 [Rafnám kennslu kit]() Stefán Birnir Sverrisson
 
-[Kynningarmyndband]() Stefán pÉtur
+[Kynningarmyndband]() Stefán Pétur
 
 [Langspil](langspil.md) Eyjólfur Eyjólfsson
 
-## verkefni / vinnustofur
+## Verkefni / vinnustofur
 
 [FMCU](fmcu.md) Doddi / Árni
 
@@ -30,11 +30,11 @@ Hér verður skjalfest öll verkefni, kynningar og heimsóknir frá vinnustofunn
 
 [Jesmonite](jesmonite.md) Karítas
 
-[Ondsle CAM/CNC]() Jón Þór / Doddi *eftir að skjalfesta*
+[Ondsel CAM/CNC]() Jón Þór / Doddi *eftir að skjalfesta*
 
 [Machine making](machinemaking.md) Þóra / Andri
 
-[Git action freecad sýnidæmi](gitaction.md) Árni
+[Github Actions & FreeCAD](gitaction.md) Árni
 
 [Vökvun](vokvun.md) Árni & Katý
 
@@ -51,17 +51,17 @@ Hér verður skjalfest öll verkefni, kynningar og heimsóknir frá vinnustofunn
 [Samfélagsmiðlar]() *eftir að skjalfesta*
 
 
-## heimsóknir / ferðir
+## Heimsóknir & Ferðir
 
-[Hópefli ferð]() Magnús *eftir að skjalfesta*
+[Hópefli]() Magnús *eftir að skjalfesta*
 
-[Fyrirtækjaheimsókn](fyrirtaekjaheimsókn.md) Magnús
+[Heimsókn til fyrirtækis](fyrirtaekjaheimsókn.md) Magnús
 
 [Kynning á miðbæ]() *eftir að skjalfesta*
 
 [Verkstæði Magga Hermanns](https://www.tubes.is/category/frettir/a-verkstaedisbordinu/) Doddi / Árni
 
-## hliðar verkefni / annað
+## Hliðarverkefni
 
 [hardware hacks]() *eftir að skjalfesta*
 
