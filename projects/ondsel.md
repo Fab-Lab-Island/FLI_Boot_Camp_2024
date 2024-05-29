@@ -358,6 +358,8 @@ Tölvustýrð fræsing (playlist):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=JQpYtpcb8TvUvRDS&amp;list=PLaUEbWaf2rhSGcjQK9LYuL4PkV1GzjeIY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
+ATH: Ég fann líka FreeCAD leiðbeiningar frá Kris í Aalto Fab Lab! [Hönnun](https://youtu.be/V1P4bhulIaU?si=sUJgfQtb_FLgrbQ8) og [fræsing](https://youtu.be/kbu4pEzIPl4?si=7ZD_bxSdfj6J6F1P).
+
 ### Módel sem voru gerð á bootcampinu
 
 ![fusion_svavar](../img/ondsel/fusion_svavar.png)
