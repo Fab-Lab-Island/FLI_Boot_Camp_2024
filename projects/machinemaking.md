@@ -1,7 +1,7 @@
 # Macine Making
 
 Teymi: Þóra, Andri, Anna, Janek
-![Hópurinn](<../img/Machine making/Hopurinn_ad_storfum.jpg>)
+![Machine making skipulagt](<../img/Machine making/Machine making1.jpg>)
 
 
 Markmið hanna og búa til sósu vél fyrir tacos
