@@ -1,6 +1,8 @@
 # Macine Making
 
 Teymi: Þóra, Andri, Anna, Janek
+
+
 ![Machine making skipulagt](<../img/Machine making/Machine making1.jpg>)
 
 
