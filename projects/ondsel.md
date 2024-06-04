@@ -59,7 +59,7 @@ Svo kom Ondsel, sem er þægilegri útgáfa af FreeCAD.
 ### Hvers vegna ekki Ondsel/FreeCAD?
 - Vinnuflæðið er [innblásið af CATIA](https://ondsel.com/blog/catia-suffers-from-the-same-problems/) og er aðeins öðruvísi en CAD forritin sem flestir eru vanir. 
 - Suma fídusa vantar. Ég vil geta fært skipanir upp og niður í trénu með músinni! Það er að vísu hægt að velja [initiate dragging](https://wiki.freecad.org/Std_TreeDrag) eða hægrismella á fídusa og velja Move object after other object, en ég fæ oft villuboð þar sem mér finnst að færslan ætti að ganga upp.
-- [Viðmótið getur verið svolítið stirt](https://www.reddit.com/r/cad/comments/rvesuy/is_freecad_good/) (ég átta mig ekki á hvernig á að nota Array transform í 2D skissu, ég nota 3D linear pattern í staðinn)
+- [Viðmótið getur verið svolítið stirt](https://www.reddit.com/r/cad/comments/rvesuy/is_freecad_good/) (ég á erfitt með að nota Array transform í 2D skissu, ég nota 3D linear pattern í staðinn, sem er reyndar það sem [Autodesk Fusion mælir með að gera](https://youtu.be/5DYrF_pUqFg?si=Csz1ZBRI8S33cCin))
 - Það eru villur í forritinu [hér og þar](https://youtu.be/-kcSx4m_0EA?si=T0T6XX1-_iW0etyj). [Jón Þór](http://fabacademy.org/2018/labs/fablabreykjavik/students/jonthor-sigurdsson/) benti á eina: Að þegar maður gerir sumar skipanir þá [skiptir Ondsel yfir í næsta tab](https://github.com/realthunder/FreeCAD_assembly3/issues/517). Í bili mæli ég með að loka Start flipanum þegar maður byrjar að teikna.
 
 ## Hvers vegna Ondsel/FreeCAD?
