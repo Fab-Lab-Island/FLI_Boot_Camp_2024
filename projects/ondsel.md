@@ -89,7 +89,7 @@ Svo kom Ondsel, sem er þægilegri útgáfa af FreeCAD.
 - Búið að bæta við [midpoint constraint](https://youtube.com/shorts/1ZFCw8LydxA?si=zVfEt8pCvrdBNxmn), mjög mikilvægt
 - Hjálparlínur í 2D skissum (construction geometry) eru strikalínur, eins og þær eiga að vera
 - Nýja 3D mæliverkfærið
-- Ondsel assembly workbench (ég notaði hann [hér](https://fab.cba.mit.edu/classes/865.24/people/svavar/system/files/model-viewer/))
+- Ondsel assembly workbench (ég notaði hann [hér](https://fab.cba.mit.edu/classes/865.24/people/svavar/system/cad/))
 - Workbench fyrir tölvustýrða fræsingu heitir Path í FreeCAD en CAM í Ondsel, sem er mun skiljanlegra
 - Ondsel er open source eins og FreeCAD og leggur áherslu á að koma fídusum úr Ondsel inn í FreeCAD
 - [Pieter Hijma](https://fabacademy.org/2023/labs/waag/students/pieter-hijma/), sem tók Fab Academy í fyrra, er hluti af Ondsel teyminu. Hann bjó til [OSH Automated Documentation workbench](https://osh-autodoc.org/), sem býr sjálfvirkt til samsetningarleiðbeiningar út frá þrívíðum módelum. Við getum kvartað beint við hann á [Mattermost](https://chat.academany.org/). Það [gladdi Ondsel teymið](../img/ondsel/mattermost_chat.jpg) að við værum strax byrjaðir að nota það í kennslu. Og [Doddi](https://fabacademy.org/archives/2015/eu/students/gunnarsson.thorarinn_b.b/index.html) bjó til meme:
@@ -99,7 +99,9 @@ Svo kom Ondsel, sem er þægilegri útgáfa af FreeCAD.
 
 Ég verð að segja að það er snjallt hjá Ondsel teyminu að tækla FreeCAD, því að grunnurinn er góður, það þarf aðallega að fínpússa viðmótið. Hver vinnur í sínum workbench í sínu horni án þess að leggja vinnu í að samhæfa allt saman. "System integration" er jafnmikilvægt í hugbúnaði og það er í [vélbúnaði](https://fablabisafjordur.github.io/system-integration-tips/). Það er það sem Ondsel gerir.
 
-Núna er líklega rétti tíminn til að fara af stað með Ondsel, svo að það geti tekið fullan þátt í að leysa topological naming problem og að gefa út útgáfu 1.0 af FreeCAD. Og stóru CAD fyrirtækin eru ekki óendanlega langt á undan; það er nóg að búa til eitthvað svipað og Inventor var fyrir 10-15 árum síðan.
+Núna er tækifæri fyrir Ondsel teymið til að taka þátt í stærsta stökkinu sem FreeCAD hefur tekið. Teymið tekur nú fullan þátt í að leysa topological naming problem og að gefa út útgáfu 1.0 af FreeCAD. 
+
+Og stóru CAD fyrirtækin eru ekki óendanlega langt á undan; mín skoðun er að það er nóg að búa til eitthvað svipað og Inventor var fyrir 10-15 árum síðan.
 
 ### Hvers vegna gæti verið gott að hinkra með að skipta yfir í Ondsel?
 
@@ -312,6 +314,7 @@ Tutorial frá mér um smellusmíði í laserskera ([Laser Cut Interlocking workb
 <div class="responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5C3h-JsTVos?si=diXz5I7t3ugIfZDb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+
 
 #### Fyrir lengra komna
 
