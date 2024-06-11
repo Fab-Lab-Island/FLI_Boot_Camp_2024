@@ -23,8 +23,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i39DY5ox054?si=Hz6eAGCTF7t7cxSM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-Náið í Ondsel ES hér:    
-[Windows](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES-2024.2.0.37191-Windows-x86_64-installer.exe), [Intel Mac](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES_2024.2.0.37191-macOS-intel-x86_64.dmg), [Apple Silicon](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES_2024.2.0.37191-macOS-apple-silicon-arm64.dmg), [Linux](https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.0/Ondsel_ES_2024.2.0.37191-Linux-x86_64.AppImage).
+Náið í Ondsel ES hér: 
+
+[![Ondsel ES 2024.2](https://i.ytimg.com/vi/LNd_elOE9Cg/maxresdefault.jpg)](https://ondsel.com/)
 
 ## Hvað er CAD?
 
@@ -32,13 +33,13 @@ Náið í Ondsel ES hér:
 
 CAD ([Computer-Aided Design](https://en.wikipedia.org/wiki/Computer-aided_design)) er tækniteikning sem er gerð í tölvu. Markmiðið er að gera nákvæmlega málsettar línuteikningar í hvaða skala sem er.
 
-![Mesh vs B-Rep](https://wiki.freecad.org/images/1/1a/Mesh_vs_brep.jpg)*Mesh vs B-Rep í þrívídd er ekki ósvipað og raster vs vector í tvívídd. Mynd úr [FreeCAD Manual](https://wiki.freecad.org/Manual:Traditional_modeling,_the_CSG_way)*.
+![Mesh vs B-Rep](https://wiki.freecad.org/images/1/1a/Mesh_vs_brep.jpg)*Mesh vs B-Rep í þrívídd er ekki ósvipað og raster vs vector í tvívídd. Nákvæm hliðstæða væri voxel vs. B-Rep, en voxel aðferðin er ekki mikið notuð. Mynd úr [FreeCAD Manual](https://wiki.freecad.org/Manual:Traditional_modeling,_the_CSG_way)*.
 
 3D CAD er vektor teikning í þrívídd; þ.e. það er hægt að skala hana upp og niður og hún er alltaf hnífskörp. Þetta kallast Boundary Representation eða [B-Rep](https://fab.cba.mit.edu/classes/865.24/topics/design-tools/#brep). Aðrar helstu aðferðir við að teikna í þrívídd eru [mesh](https://www.blender.org/), [voxel](https://fab.cba.mit.edu/classes/865.24/topics/design-tools/#mesh-voxel) og [F-Rep](https://fab.cba.mit.edu/classes/865.24/topics/design-tools/#frep). 
 
 Að nota málsetningar og skorður til að skilgreina hluti nákvæmlega er nauðsynlegt til að setja hluti í framleiðslu, sérstaklega þegar hlutir þurfa að passa saman.
 
-Sjá meiri fróðleik í fyrirlestrinum [CAD in 1 Hour](https://fab.cba.mit.edu/classes/865.24/topics/design-tools/) sem [Leo McElroy](https://fab.cba.mit.edu/classes/865.21/people/leo-mcelroy/#/about) flutti í námskeiðinu [How to Make Something that Makes (almost) Anything](https://fab.cba.mit.edu/classes/865.24/index.html). ([Upptaka](https://mit.zoom.us/rec/play/PYzhtH4Dv6tDTwZBjTWbA1PyXpLZmds9JrbTRoO_ZbhE8GKzYnvZiICaBB3aFLuuV39E-ICZ7r4hfyPQ.5Qhg_-_KOTtND4yy?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fmit.zoom.us%2Frec%2Fshare%2FmSbxXU1ap3euZp8TjonDAqmOeXrBUwPXN9e-dJ2e2kWVZ_HxQu6PQFhioWVrFPtt.O3SoIRlOUhdLGrsS))
+Sjá meiri fróðleik í fyrirlestrinum [CAD in 1 Hour](https://fab.cba.mit.edu/classes/865.24/topics/design-tools/) sem [Leo McElroy](https://fab.cba.mit.edu/classes/865.21/people/leo-mcelroy/#/about) flutti í námskeiðinu [How to Make Something that Makes (almost) Anything](https://fab.cba.mit.edu/classes/865.24/index.html), sem ég var svo heppinn að fá að taka þátt í. ([Upptaka](https://mit.zoom.us/rec/play/PYzhtH4Dv6tDTwZBjTWbA1PyXpLZmds9JrbTRoO_ZbhE8GKzYnvZiICaBB3aFLuuV39E-ICZ7r4hfyPQ.5Qhg_-_KOTtND4yy?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fmit.zoom.us%2Frec%2Fshare%2FmSbxXU1ap3euZp8TjonDAqmOeXrBUwPXN9e-dJ2e2kWVZ_HxQu6PQFhioWVrFPtt.O3SoIRlOUhdLGrsS))
 
 ## Mín reynsla
 
@@ -50,7 +51,7 @@ Og ég var það. Þessi forrit eru [frábær](https://files.svavar.cc/old_work/
 
 [Autodesk continues to enshittify Fusion 360 with a 27% price increase](https://ondsel.com/blog/autodesk-enshittifies-fusion-360/)
 
-Þegar fyrsti tíminn í Fab Lab áfanganum var að hefjast í MÍ í janúar, þá sagði Fusion mér að leyfið mitt væri útrunnið. Það er vel hægt að finna út úr því, en ég var orðinn ansi leiður á að standa í leyfisveseni fyrir mig og nemendur mína, svo að ég skipti snarlega yfir í FreeCAD. Það tók nemendurna álíka langan tíma að ná í FreeCAD á allar tölvurnar og það tekur að fá Fusion leyfi. Og við Doddi gátum alveg lært á FreeCAD þegar hann kom aftur frá [Nordic Bootcamp](https://nordicfablabs.org/bootcamp-2024-finland/) og komst að því að ég væri búinn að skipta um CAD forrit í smiðjunni. 
+Þegar fyrsti tíminn í Fab Lab áfanganum var að hefjast í MÍ í janúar, þá sagði Fusion mér að leyfið mitt væri útrunnið. Það er vel hægt að finna út úr því, en ég var orðinn ansi leiður á að standa í leyfisveseni fyrir mig og nemendur mína, svo að ég skipti snarlega yfir í FreeCAD. Það tók nemendurna álíka langan tíma að ná í FreeCAD á allar tölvurnar og það tekur að fá Fusion leyfi. Og við Doddi gátum alveg lært á FreeCAD þegar hann kom aftur frá [Nordic Fab Lab Bootcamp](https://nordicfablabs.org/bootcamp-2024-finland/) og komst að því að ég væri búinn að skipta um CAD forrit í smiðjunni. 
 
 Að teikna í FreeCAD var svolítið stirt til að byrja með, en menntaskólanemendurnir komust allir í gegnum eitt örstutt myndband frá Neil og eitt af Youtube myndböndunum hér fyrir neðan. Sum notuðu FreeCAD til að teikna lokaverkefnin sín. Í kennslukönnuninni sagði einn nemandinn "Ekki fokking Freecad." Ég skil. Það eru ýmsir hnökrar á forritinu (og kennararnir voru að læra á það á sama tíma og nemendurnir).
 
@@ -78,10 +79,6 @@ Svo kom Ondsel, sem er þægilegri útgáfa af FreeCAD.
 - Allir geta skoðað kóðann á bak við teikniforritið og geta breytt og bætt að vild. Margir hafa lagt af mörkum verkfæri í FreeCAD og byggt upp [virkni sem er ekki til annars staðar](https://wiki.freecad.org/Rocket_Workbench). 
 - Hægt er að komast hratt af stað með 
 [örstuttu myndböndunum úr Fab Academy](http://academy.cba.mit.edu/classes/computer_design/index.html).
-- [Pieter Hijma](https://fabacademy.org/2023/labs/waag/students/pieter-hijma/), sem tók Fab Academy í fyrra, er hluti af Ondsel teyminu. Hann bjó til [OSH Automated Documentation workbench](https://osh-autodoc.org/), sem býr sjálfvirkt til samsetningarleiðbeiningar út frá þrívíðum módelum. Við getum kvartað beint við hann á [Mattermost](https://chat.academany.org/). Það [gladdi Ondsel teymið](../img/ondsel/mattermost_chat.jpg) að við værum strax byrjaðir að nota það í kennslu. Og [Doddi](https://fabacademy.org/archives/2015/eu/students/gunnarsson.thorarinn_b.b/index.html) bjó til meme:
-
-![Ondsel meme](../img/ondsel/ondsel_meme-hanndoddi.jpg)
-*Meme frá Dodda*
 
 ### Hvers vegna Ondsel frekar en FreeCAD
 
@@ -95,6 +92,10 @@ Svo kom Ondsel, sem er þægilegri útgáfa af FreeCAD.
 - Ondsel assembly workbench (ég notaði hann [hér](https://fab.cba.mit.edu/classes/865.24/people/svavar/system/files/model-viewer/))
 - Workbench fyrir tölvustýrða fræsingu heitir Path í FreeCAD en CAM í Ondsel, sem er mun skiljanlegra
 - Ondsel er open source eins og FreeCAD og leggur áherslu á að koma fídusum úr Ondsel inn í FreeCAD
+- [Pieter Hijma](https://fabacademy.org/2023/labs/waag/students/pieter-hijma/), sem tók Fab Academy í fyrra, er hluti af Ondsel teyminu. Hann bjó til [OSH Automated Documentation workbench](https://osh-autodoc.org/), sem býr sjálfvirkt til samsetningarleiðbeiningar út frá þrívíðum módelum. Við getum kvartað beint við hann á [Mattermost](https://chat.academany.org/). Það [gladdi Ondsel teymið](../img/ondsel/mattermost_chat.jpg) að við værum strax byrjaðir að nota það í kennslu. Og [Doddi](https://fabacademy.org/archives/2015/eu/students/gunnarsson.thorarinn_b.b/index.html) bjó til meme:
+
+![Ondsel meme](../img/ondsel/ondsel_meme-hanndoddi.jpg)
+*Meme frá Dodda*
 
 Ég verð að segja að það er snjallt hjá Ondsel teyminu að tækla FreeCAD, því að grunnurinn er góður, það þarf aðallega að fínpússa viðmótið. Hver vinnur í sínum workbench í sínu horni án þess að leggja vinnu í að samhæfa allt saman. "System integration" er jafnmikilvægt í hugbúnaði og það er í [vélbúnaði](https://fablabisafjordur.github.io/system-integration-tips/). Það er það sem Ondsel gerir.
 
@@ -151,7 +152,7 @@ Ondsel hefur nokkrar sérviskur sem fá fólk til að gefast fljótt upp og fara
 
 ![Sýnikennslumeme](../img/ondsel/Synikennsla.jpg)
 
-*Meme frá Jens*
+*Meme frá Jens um að fylgjast með sýnikennslunni minni*
 
 Ég mæli með að vera alltaf í Part Design workbench, búa til Body og búa svo til Sketch.
 
@@ -232,6 +233,8 @@ Veljið ykkur eitt af eftirfarandi myndböndum til að fara eftir í Ondsel. Tak
 
 ATH: Ondsel er svo nýtt að það er betra að skrifa FreeCAD í staðinn þegar þið eruð að gúgla hluti.
 
+#### Fyrir byrjendur
+
 Teiknaðu LEGO kubb (ég mæli með þessu myndbandi, það kennir að gera pattern og að [taka þrívíða geómetríu inn í tvívíða skissu](https://youtu.be/x7_KgeLOcKY?si=4JxT2ygyOHgnEzZz)):
 
 <div class="responsive">
@@ -304,6 +307,14 @@ Part workbench. Ég teikna allt í Part design og nota tvívíðar skissur, en h
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N_WkjdAaQps?si=gFHjD78JFDtq726P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
+Tutorial frá mér um smellusmíði í laserskera ([Laser Cut Interlocking workbench](https://github.com/execuc/LCInterlocking)):
+
+<div class="responsive">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5C3h-JsTVos?si=diXz5I7t3ugIfZDb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+#### Fyrir lengra komna
+
 Teiknaðu skeið (ég mæli með þessu eftir að þið lærið grunnskipanirnar):
 
 <div class="responsive">
@@ -316,19 +327,13 @@ Surface continuity ([mikilvægt í vöruhönnun](https://en.wikipedia.org/wiki/C
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5sXfs_0y8O4?si=RpV8ZWNvVQMz424y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-Smellusmíði í laserskera ([Laser Cut Interlocking workbench](https://github.com/execuc/LCInterlocking)):
-
-<div class="responsive">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5C3h-JsTVos?si=diXz5I7t3ugIfZDb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-
 [Marz Guitar Workbench](https://github.com/mnesarco/MarzWorkbench):
 
 <div class="responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MsFiGJyVaE0?si=awqsf5J0OOvYaQ7K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-Flóknari form:
+Flóknari form:S
 
 <div class="responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/19klYkKqvFo?si=OljXwl5FSGg3ps3u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
@@ -364,7 +369,7 @@ ATH: Ég fann líka FreeCAD leiðbeiningar frá Kris í Aalto Fab Lab! [Hönnun]
 
 ![fusion_svavar](../img/ondsel/fusion_svavar.png)
 
-*Meme frá Dodda*
+*Meme frá Dodda um útrunnið Fusion leyfi*
 
 Vistið Ondsel módelin ykkar [hér](https://github.com/Fab-Lab-Island/FLI_Boot_Camp_2024/tree/main/files/ondsel). Svo skuluð þið [exporta módelinu sem HTML](../img/ondsel/export_to_html.mp4), setja í sömu möppu og setja hlekk á báðar skrárnar hér fyrir neðan:
 
