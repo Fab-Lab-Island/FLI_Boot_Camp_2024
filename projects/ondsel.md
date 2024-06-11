@@ -315,14 +315,14 @@ Tutorial frá mér um smellusmíði í laserskera ([Laser Cut Interlocking workb
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5C3h-JsTVos?si=diXz5I7t3ugIfZDb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-
-#### Fyrir lengra komna
-
-Teiknaðu skeið (ég mæli með þessu eftir að þið lærið grunnskipanirnar):
+Teiknaðu skeið (mér fannst þetta skemmtilegur tutorial; ég mæli með þessum eftir að þið lærið grunnskipanirnar):
 
 <div class="responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m6JLox1A7KY?si=7X9e9p3myP-_X19B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+
+
+#### Fyrir lengra komna
 
 Surface continuity ([mikilvægt í vöruhönnun](https://en.wikipedia.org/wiki/Class_A_surface), sjá líka nýja [Silk workbench](https://edwardvmills.github.io/Silk/)):
 
