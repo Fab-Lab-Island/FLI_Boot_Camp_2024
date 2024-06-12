@@ -2,8 +2,7 @@
 
 Teymi: Þóra, Andri, Anna, Janek
 
-
-
+![Undirbúningur](<../img/Machine making/Machinemaking1.jpg>)
 
 Markmið hanna og búa til sósu vél fyrir tacos
 
