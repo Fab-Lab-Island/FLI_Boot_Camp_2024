@@ -23,3 +23,4 @@ Janek og Jón Þór sáu um að hanna og smíða pupmpu fyrir vélina
 
 Anna sá um að logo fyrir vélina
 
+![Logo](../img/Machine_making/Color_Logo.png)
