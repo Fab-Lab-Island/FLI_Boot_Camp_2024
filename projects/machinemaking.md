@@ -18,3 +18,8 @@ Janek og Jón Þór sáu um að hanna og smíða pupmpu fyrir vélina
 [LM7805 data sheet](https://www.sparkfun.com/datasheets/Components/LM7805.pdf)
 
 [rafrás]()*vantar hlekk*
+
+## Útlitshönnun / logo
+
+Anna sá um að logo fyrir vélina
+
