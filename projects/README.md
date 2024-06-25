@@ -57,7 +57,7 @@ Hér verða skjalfest öll verkefni, kynningar og heimsóknir á ráðstefnunni.
 
 [Heimsókn til fyrirtækis](fyrirtaekjaheimsókn.md) Magnús
 
-[Kynning á miðbæ](kynning_a_midbae.md) *eftir að skjalfesta*
+[Kynning á miðbæ](Kynning_a_midbae.md)
 
 [Verkstæði Magga Hermanns](https://www.tubes.is/category/frettir/a-verkstaedisbordinu/) Doddi / Árni
 
