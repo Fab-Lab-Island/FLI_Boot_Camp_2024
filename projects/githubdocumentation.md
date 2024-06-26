@@ -27,7 +27,7 @@ Verkefni færa [word skjal]() sem Ólöf bjó til með það hvernig Github er n
 
 - Ýta á punkt til að fá upp vinnusvæði/web editor (virkar bara þegar þú ert inni í möppu/repository).
 
-- Hlaða myndinni inn í möppu sem kallast img.
+- Hlaða myndinni inn í möppu sem kallast img. Æskilegt er að myndin sé undir 500 kb.
 
 - Opna svo réttu möppuna sem myndin á að fara í.
 
@@ -73,6 +73,13 @@ Hægt að flytja markdown út sem PDF skjal.
 
 `[Hlekkur](https://www.mbl.is)` -> [Hlekkur](https://www.mbl.is) 
 
+
+## Að tengja, virkja eða skipuleggja yfirsíður og undirsíður
+
+- Þessu er hægt að stýra með því að fara inn í README.md 
+- Heiti undirsíðunnar er skrifað innan í hornklofa. Það mun virka sem hnappur/hlekkur inn á undirsíðuna.
+- Þar á eftir er heiti markdown/möppunnar skrifað innan í sviga og þess gætt að ekki sé bil á milli hornklofans og svigans.
+- Á eftir sviganum er haft eitt bil áður en venjulegur, stuttorður texti er skrifaður. Þetta getur t.d. verið nafn þess sem sér um síðuna eða nánari lýsing/athugasemdir.
 
 
 ## Github issues
