@@ -53,8 +53,7 @@ Hér verða skjalfest öll verkefni, kynningar og heimsóknir á ráðstefnunni.
 
 ## Heimsóknir & Ferðir
 
-Fab-Lab-Island/FLI_Boot_Camp_2024/projects/hopefli.md  Magnús
-
+[Hópefli](Fab-Lab-Island/FLI_Boot_Camp_2024/projects/hopefli.md)
 
 [Heimsókn til fyrirtækis](fyrirtaekjaheimsókn.md) Magnús
 
