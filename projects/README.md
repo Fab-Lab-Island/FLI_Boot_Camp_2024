@@ -55,6 +55,7 @@ Hér verða skjalfest öll verkefni, kynningar og heimsóknir á ráðstefnunni.
 
 Fab-Lab-Island/FLI_Boot_Camp_2024/projects/hopefli.md  Magnús
 
+
 [Heimsókn til fyrirtækis](fyrirtaekjaheimsókn.md) Magnús
 
 [Kynning á miðbæ](Kynning_a_midbae.md)
