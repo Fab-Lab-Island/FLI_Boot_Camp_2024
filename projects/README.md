@@ -53,7 +53,7 @@ Hér verða skjalfest öll verkefni, kynningar og heimsóknir á ráðstefnunni.
 
 ## Heimsóknir & Ferðir
 
-[Hópefli](hopefli.md/) Magnús
+[Hópefli](hopefli.md) Magnús
 
 [Heimsókn til fyrirtækis](fyrirtaekjaheimsókn.md) Magnús
 
