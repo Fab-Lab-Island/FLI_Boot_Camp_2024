@@ -2,7 +2,7 @@
 
 *Hópurinn tilbúinn að leggja af stað í kajakferð*
 
-![Kajakferð](../img/Hopefli/IMG_4361b.jpg)
+![Kajakferð](../../img/Hopefli/IMG_4361b.jpg)
 
 Hópurinn fór saman í kajakferð. Lagt var af stað frá Stokkseyri. Ferðin hófst á tjörn við bæinn. Þaðan var róið eftir skurðum milli lítilla vatna. Leiðin lá svo eftir árfarvegi út í sjó þar sem hópurinn reri meðfram strandlengjunni. Ferðinni lauk í höfninni við Stokkseyri. Þessi ferð var mikil upplifun og alveg magnað að upplifa náttúruna á þennan hátt innan um fugla og forvitna seli.
 
