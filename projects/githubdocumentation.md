@@ -13,11 +13,34 @@ Doddi fór yfir hvernig git er notað til að skjalfesta verkefni og vinnustofur
 
 ## Að búa til möppu
 
+- Möppur eru notaðar til að geyma skjöl og ljósmyndir.
+
 - Möppur/repository eru búnar til í listanum til vinstri.
 
-- Búa til markdown
+- Búa til markdown, þ.e. nota .md endingu.
 
 - Nota hashtag fyrir framan setningar til að velja heading. 1 hashtag jafngildir heading 1, 2 hashtag jafngilda heading 2 o.s.frv.
+
+
+## Að búa til undirsíðu
+
+- Þetta er gert í listanum yfir möppur og skjöl vinstra megin í Web Editor.
+
+- Smellt er á yfirsíðuna sem undirsíðan á að falla undir.
+
+- Smellt er á táknið sem lítur út eins og blað með plústákni.
+
+- Því næst er hægt að byrja að skrifa í vinnugluggann á miðri síðunni, semja texta og setja inn myndir.
+
+## Að tengja, virkja eða skipuleggja yfirsíður og undirsíður
+
+- Þessu er hægt að stýra með því að fara inn í README.md 
+
+- Heiti undirsíðunnar er skrifað innan í hornklofa. Það mun virka sem hnappur/hlekkur inn á undirsíðuna.
+
+- Þar á eftir er heiti markdown/möppunnar skrifað innan í sviga og þess gætt að ekki sé bil á milli hornklofans og svigans.
+
+- Á eftir sviganum er haft eitt bil áður en venjulegur, stuttorður texti er skrifaður. Þetta getur t.d. verið nafn þess sem sér um síðuna eða nánari lýsing/athugasemdir.
 
 
 
@@ -74,24 +97,10 @@ Hægt að flytja markdown út sem PDF skjal.
 `[Hlekkur](https://www.mbl.is)` -> [Hlekkur](https://www.mbl.is) 
 
 
-## Að búa til undirsíðu
-
-- Þetta er gert í listanum yfir möppur og skjöl vinstra megin í Web Editor.
-- Smellt er á yfirsíðuna sem undirsíðan á að falla undir.
-- Smellt er á táknið sem lítur út eins og blað með plústákni.
-- Því næst er hægt að byrja að skrifa í vinnugluggann á miðri síðunni, semja texta og setja inn myndir.
-
-## Að tengja, virkja eða skipuleggja yfirsíður og undirsíður
-
-- Þessu er hægt að stýra með því að fara inn í README.md 
-- Heiti undirsíðunnar er skrifað innan í hornklofa. Það mun virka sem hnappur/hlekkur inn á undirsíðuna.
-- Þar á eftir er heiti markdown/möppunnar skrifað innan í sviga og þess gætt að ekki sé bil á milli hornklofans og svigans.
-- Á eftir sviganum er haft eitt bil áður en venjulegur, stuttorður texti er skrifaður. Þetta getur t.d. verið nafn þess sem sér um síðuna eða nánari lýsing/athugasemdir.
-
-
 ## Github issues
 
 - Hægt að gera Github issues sem er sniðugt til að halda utanum um hluti sem þarf að laga. Tilvalið ef eitthvað finnst sem virkar ekki eða er ekki rétt en ekki kunnátta til að laga það þá er jafnvel er hægt að merkja það (assign) einhverjum notenda sem hefur þekkingu til. Hægt er a velja ákveðinn merkimiða (label)
+
 - Github issues gerir það líka kleift að rekja vandamál sem kunna að koma upp.
 
 
