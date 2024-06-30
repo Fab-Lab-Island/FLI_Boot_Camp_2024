@@ -4,7 +4,7 @@
 Teymi: Ólöf, Anna, Bryndís, Doddi
 
 Doddi fór yfir hvernig git er notað til að skjalfesta verkefni og vinnustofur.
-Verkefni færa [word skjal]() sem Ólöf bjó til með það hvernig Github er notað
+
 
 
 ## Ýmsir punktar varðandi GitHub
@@ -73,6 +73,13 @@ Hægt að flytja markdown út sem PDF skjal.
 
 `[Hlekkur](https://www.mbl.is)` -> [Hlekkur](https://www.mbl.is) 
 
+
+## Að búa til undirsíðu
+
+- Þetta er gert í listanum yfir möppur og skjöl vinstra megin í Web Editor.
+- Smellt er á yfirsíðuna sem undirsíðan á að falla undir.
+- Smellt er á táknið sem lítur út eins og blað með plústákni.
+- Því næst er hægt að byrja að skrifa í vinnugluggann á miðri síðunni, semja texta og setja inn myndir.
 
 ## Að tengja, virkja eða skipuleggja yfirsíður og undirsíður
 
