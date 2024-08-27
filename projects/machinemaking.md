@@ -2,9 +2,7 @@
 
 Teymi: Þóra, Andri, Anna, Janek
 
-
-![Machine making skipulagt](<../img/Machine making/Machinemaking1.jpg>)
-
+![Undirbúningur](../img/Machine_making/Machinemaking1.jpg)
 
 Markmið hanna og búa til sósu vél fyrir tacos
 
@@ -20,3 +18,9 @@ Janek og Jón Þór sáu um að hanna og smíða pupmpu fyrir vélina
 [LM7805 data sheet](https://www.sparkfun.com/datasheets/Components/LM7805.pdf)
 
 [rafrás]()*vantar hlekk*
+
+## Útlitshönnun / logo
+
+Anna sá um að logo fyrir vélina
+
+![Logo](../img/Machine_making/Color_Logo.png)
