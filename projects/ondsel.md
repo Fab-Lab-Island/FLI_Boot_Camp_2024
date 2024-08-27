@@ -198,6 +198,8 @@ Gerðu fleiri einfaldar skissur frekar en eina flókna.
 
 ### Myndbönd úr Fab Academy
 
+Þetta eru ~1 mínútu löng myndbönd sem koma ykkur hratt af stað í Ondsel. Viðmótið lítur öðruvísi út í þessum myndböndum, af því að [Neil](https://www.youtube.com/watch?v=YDjOS0VHEr4) er að nota FreeCAD, en allar skipanirnar eru eins.
+
 Veljið ykkur eitt af eftirfarandi myndböndum til að fara eftir í Ondsel. Takið eftir í hvaða workbench þið þurfið að vera til að fá réttu verkfærin.
 
 - [pad pocket](http://academy.cba.mit.edu/classes/computer_design/pocket.mp4) - Byrjið hér! Mikilvægast!
