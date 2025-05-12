@@ -13,6 +13,27 @@ Doddi fór yfir hvernig git er notað til að skjalfesta verkefni og vinnustofur
 
 [Hér](https://www.markdownguide.org/cheat-sheet/) má finna hlekk inn á svindllista með helstu aðgerðum.
 
+## Að fara inn á Git Hub 
+
+Þetta er aðeins einn leið af mörgum:
+
+- Opnið heimasíðuna á netinu.
+  
+- Finnið táknið fyrir Git Hub neðst á síðunni og smellið á það.
+
+- Opnið möppuna sem þið viljið breyta.
+
+- Smellið annað hvort á blýantstáknið efst á síðunni eða ýtið einfaldlega á punktinn á lyklaborðinu á tölvunni ykkar.
+
+- Breytið því sem þið viljið.
+
+- Smellið á **Commit changes** efst til hægri á síðunni.
+
+- Skrifið stuttan texta sem segir hvaða breytingar þið gerðuð.
+
+- Ýtið á **Commit changes**.
+
+
 ## Að búa til möppu
 
 - Möppur eru notaðar til að geyma skjöl og ljósmyndir.
@@ -52,7 +73,7 @@ Doddi fór yfir hvernig git er notað til að skjalfesta verkefni og vinnustofur
 
 - Ýta á punkt til að fá upp vinnusvæði/web editor (virkar bara þegar þú ert inni í möppu/repository).
 
-- Hlaða myndinni inn í möppu sem kallast img. Æskilegt er að myndin sé undir 500 kb.
+- Hlaða myndinni inn í möppu sem kallast img. Æskilegt er að myndin sé ekki meira en 100-200 kb.
 
 - Opna svo réttu möppuna sem myndin á að fara í.
 
