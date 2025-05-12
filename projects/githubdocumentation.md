@@ -9,6 +9,8 @@ Doddi fór yfir hvernig git er notað til að skjalfesta verkefni og vinnustofur
 
 ## Ýmsir punktar varðandi GitHub
 
+[Hér](https://docs.github.com/en/get-started) er hægt að kynna sér hvernig byrjað er að vinna á Git Hub.
+
 [Hér](https://www.markdownguide.org/cheat-sheet/) má finna hlekk inn á svindllista með helstu aðgerðum.
 
 ## Að búa til möppu
